@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{BB935824-0A1C-4F29-A656-0F9EA85C419E}</ProjectGuid>
+    <ProjectGuid>{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XA.Reference.Project.Playground</RootNamespace>
-    <AssemblyName>XA.Reference.Project.Playground</AssemblyName>
+    <RootNamespace>XA.Reference.Project.Common</RootNamespace>
+    <AssemblyName>XA.Reference.Project.Common</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -66,7 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Project\XA.Reference\Playground\XA.Reference.Project.Playground.Serialization.config" />
+    <Content Include="App_Config\Include\Project\XA.Reference\Common\XA.Reference.Project.Common.Serialization.config" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\local.pubxml" />
     <None Include="Web.Debug.config">

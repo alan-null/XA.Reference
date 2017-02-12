@@ -38,6 +38,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{BC8E23EB
 		publish.ps1 = publish.ps1
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XA.Reference.Project.Common", "src\Project\Common\code\XA.Reference.Project.Common.csproj", "{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +54,10 @@ Global
 		{58999F11-DC76-4F3A-A81C-091EFCC465C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58999F11-DC76-4F3A-A81C-091EFCC465C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58999F11-DC76-4F3A-A81C-091EFCC465C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,5 +69,6 @@ Global
 		{EC1F4471-89E1-4552-B5FC-44A6D9540340} = {F1A7CF4A-7FEA-4545-805B-73AC9DF7B976}
 		{CB3ABEE7-F22F-4E71-B9D8-75A094499DBA} = {EC1F4471-89E1-4552-B5FC-44A6D9540340}
 		{BC8E23EB-F2C4-4F0A-951A-890F19B9058D} = {F1A7CF4A-7FEA-4545-805B-73AC9DF7B976}
+		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E} = {E90A0A5E-740D-49B4-97C2-88A3495450E1}
 	EndGlobalSection
 EndGlobal
