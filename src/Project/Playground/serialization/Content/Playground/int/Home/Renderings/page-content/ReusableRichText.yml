@@ -1,0 +1,24 @@
+﻿---
+ID: "96a15b0f-f8db-4a5e-a612-911c0996e0d5"
+Parent: "e804058d-34c2-4959-90a3-c39579c5819c"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-content/reusablerichtext"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ReusableRichText
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184123Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
+      Hint: Rendering Reference
+      Value: "{87182F78-4399-4896-8D59-9D6A45282F8A}"

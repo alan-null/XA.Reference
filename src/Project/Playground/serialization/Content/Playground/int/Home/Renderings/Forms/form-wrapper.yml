@@ -1,0 +1,24 @@
+﻿---
+ID: "ce9ae303-d634-4c8f-bc55-ed52a8afffac"
+Parent: "b26a5c98-6e77-410b-b6c4-6d5af118f08e"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/forms/form-wrapper"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Form Wrapper
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
+      Hint: Rendering Reference
+      Value: "{8C00D7C3-0A17-4A36-88A3-FFCB7BD2CCF5}"

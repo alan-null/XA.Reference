@@ -1,0 +1,24 @@
+﻿---
+ID: "0d8eac65-a671-4a23-868b-7ef23fc530af"
+Parent: "591a2cab-1ab6-47b3-b0cf-6f610f97d8fb"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/managed-range-filter"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Managed Range Filter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184124Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
+      Hint: Rendering Reference
+      Value: "{3C09F738-A63B-451B-A976-8925364316C4}"

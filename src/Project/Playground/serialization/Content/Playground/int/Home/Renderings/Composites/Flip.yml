@@ -1,0 +1,24 @@
+﻿---
+ID: "f3e86461-cd65-48b1-990d-5089a4f3afb6"
+Parent: "70b197de-5b7c-4367-a727-6b154bd2064b"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/composites/flip
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Flip
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184122Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
+      Hint: Rendering Reference
+      Value: "{00C953FE-D508-4836-96A4-CF60887AE5F1}"

@@ -1,0 +1,24 @@
+﻿---
+ID: "40f97302-d8cc-4ef3-b391-55afc218857d"
+Parent: "26ab830f-822e-4f46-a7f8-f6042c1b9630"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/social/feed
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Feed
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
+      Hint: Rendering Reference
+      Value: "{4C2C5B52-BD8B-48C1-B9AF-D92E5785F27C}"

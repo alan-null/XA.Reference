@@ -1,0 +1,24 @@
+﻿---
+ID: "5a26c23d-2ae9-4568-9057-aec7db15f3bf"
+Parent: "591a2cab-1ab6-47b3-b0cf-6f610f97d8fb"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/results-variant-selector"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Results Variant Selector
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184125Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
+      Hint: Rendering Reference
+      Value: "{54A41030-BFF4-49E5-90FC-42A99E602863}"

@@ -1,0 +1,24 @@
+﻿---
+ID: "e62ba4fd-a814-44c1-89c9-f860ff61d71e"
+Parent: "cbbf8ccf-c776-4785-a0df-65f1ff2d5cd3"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/security/social-login-wrapper"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Social Login Wrapper
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184126Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
+      Hint: Rendering Reference
+      Value: "{CC2EB160-8FA6-4894-B599-2CEE7FC76820}"
