@@ -1,0 +1,35 @@
+﻿---
+ID: "37497de9-8fb6-4be3-8b95-dd8286d5d5aa"
+Parent: "4e6fb3ac-e2aa-42d5-a2f9-da642112696a"
+Template: "3de7aa7e-961a-4b90-98f2-01ac2be92ec5"
+Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Social Media Groups/Default/Google Plus
+DB: master
+BranchID: "4ddbdd69-8a15-4520-bed8-f7553139586b"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T213635Z
+    - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
+      Hint: ButtonCode
+      Value: "<div class=\"g-plusone\" data-size=\"medium\"></div>"
+    - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
+      Hint: OnlyOnceCode
+      Value: |
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

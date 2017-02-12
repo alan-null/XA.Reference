@@ -1,0 +1,18 @@
+﻿---
+ID: "4e6fb3ac-e2aa-42d5-a2f9-da642112696a"
+Parent: "ff7e0c16-b9dd-4f38-831a-1cb677f49b58"
+Template: "efafbbf5-01a0-46d3-9f7b-e71763e7f221"
+Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Social Media Groups/Default
+DB: master
+BranchID: "4ddbdd69-8a15-4520-bed8-f7553139586b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T213635Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

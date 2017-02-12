@@ -1,0 +1,18 @@
+﻿---
+ID: "43f168b5-b796-4c8b-8cb7-79d177a184f4"
+Parent: "8b34e43a-fe4f-4160-a50c-2ef89a827361"
+Template: "20ef5e69-b366-4e9e-960b-e451b24dbd46"
+Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Facets
+DB: master
+BranchID: "110e35f3-fb41-4bec-bcb3-02b7a9cebb15"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T213618Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

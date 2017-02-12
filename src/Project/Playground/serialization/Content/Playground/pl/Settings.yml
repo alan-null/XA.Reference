@@ -1,0 +1,48 @@
+﻿---
+ID: "8b34e43a-fe4f-4160-a50c-2ef89a827361"
+Parent: "e71baf86-32c1-498b-becf-af9fa5c36b5b"
+Template: "dbf95b59-47d0-4b49-b686-1a6b72cd67a6"
+Path: /sitecore/content/SXA Reference/Playground/pl/Settings
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {11F57D7B-CBB2-4647-B98C-71457564BA4F}
+    {F86FE270-00A4-492F-BFAF-5BF27E40CE13}
+    {70461699-48E4-45FA-B74B-0CCE849FCA6A}
+    {20EF5E69-B366-4E9E-960B-E451B24DBD46}
+    {5C76AD53-96CD-4B96-9690-DD9AF2650171}
+    {44936C95-BCA9-4FB3-9D98-2066A5FBBB4D}
+    {DC66D5DA-3216-48E6-AE78-BAC8445B6A46}
+    {0D792404-79AA-483D-BB0C-50785F2E295B}
+    {E1CF805E-7F49-4EC9-A25A-182DC798CB5F}
+    {B14BAB5B-8965-466B-886B-1F93175BCAB3}
+    {041C1F9F-99A4-4EE6-8308-985499F91032}
+    {5A6BF1D1-836B-425A-A6E6-32CEAA8FF3A5}
+- ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+  Hint: EditingTheme
+  Value: "{7A5FDD48-80C1-4985-91AA-12967298938B}"
+- ID: "e81e1f9e-8b87-495b-9cb7-84a2a23133be"
+  Hint: MediaLibrary
+  Value: "{BBA2F5C9-0FA7-4B0C-BEDD-5FF485B37C5C}"
+- ID: "e8881464-38af-4655-be4a-ee10586578a2"
+  Hint: Templates
+  Value: "{1530FE31-19BD-4059-8F9C-ADABCA39D828}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T213610Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "beeede03-ab13-4558-96f9-c3e8957b46f8"
+      Hint: Themes
+      Type: Treelist
+      Value: "{3F46272C-F3B8-4913-8C00-3816B436A4D3}"

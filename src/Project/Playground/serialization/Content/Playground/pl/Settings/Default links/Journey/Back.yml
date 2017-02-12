@@ -1,0 +1,21 @@
+﻿---
+ID: "b187338f-2f9c-43b1-a3ae-fa1bc2d310b8"
+Parent: "11dc727e-7715-4b51-8a0a-cab42e788a86"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Default links/Journey/Back
+DB: master
+BranchID: "26ae263a-97d7-4156-97e2-4b515a45b2ea"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T213641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: "<link text=\"&lt;&lt; $title\" linktype=\"external\" url=\"\" anchor=\"\" target=\"\" />"

@@ -1,0 +1,28 @@
+﻿---
+ID: "bf2b52d2-184f-4f0c-b783-b4d0b946a3e1"
+Parent: "43f168b5-b796-4c8b-8cb7-79d177a184f4"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Facets/Title
+DB: master
+BranchID: "110e35f3-fb41-4bec-bcb3-02b7a9cebb15"
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: title
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T213618Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Title Facet
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "5de17054-0141-4e58-935b-fec623a60806"
+      Hint: DisplayName
+      Value: Title Facet

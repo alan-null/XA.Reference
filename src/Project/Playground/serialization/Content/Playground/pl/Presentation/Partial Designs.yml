@@ -1,0 +1,18 @@
+﻿---
+ID: "3754086b-30aa-4c4b-89f9-e455bce6628d"
+Parent: "e417082a-0486-4d06-8d66-99aac6adce5a"
+Template: "3b4f7e7a-9b8b-4dfd-bcdd-6add1df49613"
+Path: /sitecore/content/SXA Reference/Playground/pl/Presentation/Partial Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T213610Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

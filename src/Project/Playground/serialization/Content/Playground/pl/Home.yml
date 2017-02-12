@@ -1,15 +1,12 @@
 ﻿---
-ID: "e79e31a3-a988-4032-ae1b-f2fd92a08946"
-Parent: "59811168-d2d3-4a82-845e-47540ea6a647"
-Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
-Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/context/siteselector
+ID: "b8b87ed2-ab6c-4d1e-a465-a0bbd474d99f"
+Parent: "e71baf86-32c1-498b-becf-af9fa5c36b5b"
+Template: "89f350ee-1b9b-4b35-9821-d5e5a315f72a"
+Path: /sitecore/content/SXA Reference/Playground/pl/Home
 DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 Languages:
 - Language: en
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: Site Selector
   Versions:
   - Version: 1
     Fields:
@@ -22,20 +19,17 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{47EBB1E3-3EDC-4728-AA44-A3D391BBF6D2}"
+              uid="{939B9104-AF11-4CBF-A4B1-D4782D7E35E2}"
               s:id="{7E905ED5-E2A7-41A4-90E4-1C5E4807074E}"
               s:ph="main" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170212T184122Z
+      Value: 20170212T213610Z
     - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
       Hint: Title
-      Value: Site Selector
+      Value: pl
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
-      Hint: Rendering Reference
-      Value: "{7E905ED5-E2A7-41A4-90E4-1C5E4807074E}"

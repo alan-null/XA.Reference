@@ -1,8 +1,8 @@
 ﻿---
-ID: "94d63ec4-3f27-4d8c-8be2-dd6ced74ad47"
+ID: "bba2f5c9-0fa7-4b0c-bedd-5ff485b37c5c"
 Parent: "63ab1e3b-c182-4ef0-874e-1831d1df4bbf"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: /sitecore/media library/Project/SXA Reference/Playground/shared
+Path: /sitecore/media library/Project/SXA Reference/Playground/pl
 DB: master
 Languages:
 - Language: en
@@ -11,4 +11,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170212T133319Z
+      Value: 20170212T213654Z

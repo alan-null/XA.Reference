@@ -1,0 +1,68 @@
+﻿---
+ID: "c8112ce5-1608-4933-b787-0eb4fe21a63b"
+Parent: "3754086b-30aa-4c4b-89f9-e455bce6628d"
+Template: "c2a8e276-1757-4957-9dd5-8669b79fd80d"
+Path: /sitecore/content/SXA Reference/Playground/pl/Presentation/Partial Designs/Metadata Partial Design
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{5B9A4AFC-77E4-45D0-8B52-0B375A54EE4E}">
+        <r
+          id="{3A91FC31-BA4C-4BC7-B6E4-29B4BB768736}"
+          ph="body-bottom"
+          uid="{C25D0951-438E-4331-9C43-A4D00297F64D}" />
+        <r
+          id="{619D4185-E73C-4C51-8407-3927E4812B98}"
+          ph="body-bottom"
+          uid="{8C48DA85-6B31-4F08-8771-73E3CB15B7EE}" />
+        <r
+          id="{3EA2AA92-8885-4C28-9C5D-37E94721A481}"
+          ph="head"
+          uid="{DBF6C0E9-ED70-4EAA-9224-A9D64D4389EF}" />
+        <r
+          id="{B9EE29F7-2CCE-4172-9E51-D65DB818E3FA}"
+          ph="head"
+          uid="{FEE372B4-6D01-48CA-8986-0F2F31AE0D49}" />
+        <r
+          id="{E3E3F484-0C27-42CC-9F36-E2D33430C8CD}"
+          ph="head"
+          uid="{63FEEEA2-31CA-49CD-B618-CA4388E6DE36}" />
+        <r
+          id="{B07712AD-28B9-4B93-A524-D8BD29CA9D8D}"
+          ph="head"
+          uid="{983B2C7F-CCA1-44C5-B7A3-975D136B9973}" />
+        <r
+          id="{CA9D504B-B04F-4327-BCEB-A789BA5C3865}"
+          ph="head"
+          uid="{FF646CF5-2BAE-4766-B613-E2E8A0261CB9}" />
+        <r
+          id="{0A6935A8-3AC2-4977-8677-1F4360B212EE}"
+          ph="head"
+          uid="{02C33C54-12D8-4D44-8DA9-102C25AF5C75}" />
+        <r
+          id="{3B138D20-BB25-449D-898A-670997743402}"
+          ph="head"
+          uid="{86025857-C3A0-4486-87CD-09AD06F516FA}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T213610Z
+    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+      Hint: Signature
+      Value: "metadata-partial-design"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
