@@ -1,0 +1,10 @@
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <publishUrl>http://sxa_reference</publishUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <ExcludeFromPackageFiles Include="packages.config">
+      <FromTarget></FromTarget>
+    </ExcludeFromPackageFiles>
+  </ItemGroup>
+</Project>
