@@ -33,6 +33,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "example", "example", "{CB3A
 		zzz.Sxa.Reference.config.example = zzz.Sxa.Reference.config.example
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{BC8E23EB-F2C4-4F0A-951A-890F19B9058D}"
+	ProjectSection(SolutionItems) = preProject
+		publish.ps1 = publish.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,5 +62,6 @@ Global
 		{0C4E56EC-B96B-4A3F-9421-0D6F74B9B4A1} = {F1A7CF4A-7FEA-4545-805B-73AC9DF7B976}
 		{EC1F4471-89E1-4552-B5FC-44A6D9540340} = {F1A7CF4A-7FEA-4545-805B-73AC9DF7B976}
 		{CB3ABEE7-F22F-4E71-B9D8-75A094499DBA} = {EC1F4471-89E1-4552-B5FC-44A6D9540340}
+		{BC8E23EB-F2C4-4F0A-951A-890F19B9058D} = {F1A7CF4A-7FEA-4545-805B-73AC9DF7B976}
 	EndGlobalSection
 EndGlobal
