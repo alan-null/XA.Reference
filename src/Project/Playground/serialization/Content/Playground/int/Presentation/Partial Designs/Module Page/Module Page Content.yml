@@ -1,0 +1,43 @@
+﻿---
+ID: "967708d7-de72-4ac5-9127-080ea45b103b"
+Parent: "d6c37c9e-6165-4aae-8b44-b473424da69c"
+Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Module Page/Module Page Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1EA6C4BE-A9D0-413C-8369-E0A26D483599}"
+              p:before="*"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="main" />
+            <r
+              uid="{E0E2CC35-98AD-4F4E-B0A4-A6E9ACE10A64}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="FieldNames&amp;Styles&amp;NavigationRoot&amp;LevelFrom={A5B4C448-4764-4C76-8737-94270639BAFD}&amp;LevelTo={A5B4C448-4764-4C76-8737-94270639BAFD}&amp;Filter&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T192959Z
+    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+      Hint: Signature
+      Value: "module-page-content"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

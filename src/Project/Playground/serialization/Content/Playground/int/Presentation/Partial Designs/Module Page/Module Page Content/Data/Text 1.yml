@@ -1,0 +1,20 @@
+﻿---
+ID: "bec849b5-611b-4691-9df0-e0c0a0741e84"
+Parent: "cb6d1429-c8a1-4450-b84e-77486468a085"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Module Page/Module Page Content/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T193559Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<h3>Renderings:</h3>"

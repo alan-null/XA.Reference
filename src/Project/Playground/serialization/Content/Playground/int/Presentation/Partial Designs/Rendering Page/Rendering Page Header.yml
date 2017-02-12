@@ -1,0 +1,44 @@
+﻿---
+ID: "9d30cc7a-c9f2-4655-9b4a-8248cefe98d9"
+Parent: "ad5d4767-80fb-4215-93b4-43c6453d5f5b"
+Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Rendering Page/Rendering Page Header
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9A7CE075-594C-4E15-8FDA-8A08B5D4AC40}"
+              p:before="*"
+              s:ds=""
+              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+              s:par="FieldNames=%7B11781CC0-CB21-4706-8A50-4EB2CF611DB7%7D&amp;Styles&amp;BreadcrumbRoot=%7B0DAE33A2-6F53-473E-8ABD-B054D9BF3B75%7D&amp;Separator=%3E&amp;IsNavigation&amp;Filter"
+              s:ph="header" />
+            <r
+              uid="{47C86D0C-1CF3-4B9C-ABEA-B4D236F0B55A}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+              s:par="FieldNames={A4CC8A7B-8916-4D11-8833-C494FE170375}&amp;Styles={08EE6B75-C545-44C0-B579-3D72B86A7561}"
+              s:ph="header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184704Z
+    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+      Hint: Signature
+      Value: "rendering-page-header"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

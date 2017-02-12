@@ -1,0 +1,17 @@
+﻿---
+ID: "66331a83-488f-4b56-9241-a42eac82fb71"
+Parent: "595655fc-6676-4fa1-99e0-480ed7444786"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Common/Footer/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T191245Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

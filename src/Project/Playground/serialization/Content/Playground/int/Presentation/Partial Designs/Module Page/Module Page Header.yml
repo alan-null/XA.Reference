@@ -1,0 +1,47 @@
+﻿---
+ID: "bf7c3c06-7328-4c82-aafd-1c7d48828dff"
+Parent: "d6c37c9e-6165-4aae-8b44-b473424da69c"
+Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Module Page/Module Page Header
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6E4EBF7-0659-4635-B10C-1153D30A164E}"
+              p:before="*"
+              s:ds=""
+              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+              s:par="FieldNames&amp;Styles&amp;BreadcrumbRoot&amp;Separator=&gt;&amp;IsNavigation&amp;Filter"
+              s:ph="header" />
+            <r
+              uid="{73F26E6B-1309-46A2-8064-BCF16A402722}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+              s:par="FieldNames={B1E91DA9-A959-47BA-B2B9-F22F72B6EA21}&amp;Styles={08EE6B75-C545-44C0-B579-3D72B86A7561}"
+              s:ph="header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T190850Z
+    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+      Hint: Signature
+      Value: "module-page"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "76a92454-c8be-479b-b260-26aebced5a1a"
+      Hint: Base Partial Design
+      Value: 
