@@ -1,0 +1,18 @@
+﻿---
+ID: "4481ad07-655f-4084-8b49-e180a6128509"
+Parent: "38c4f357-7a5d-44d7-b07d-2dfde3fc2d74"
+Template: "8ca8b80d-a1ad-4b45-9f08-8839357e71d4"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/POIs
+DB: master
+BranchID: "58a9b55e-88b8-49a3-918b-99f3b6534c95"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133344Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

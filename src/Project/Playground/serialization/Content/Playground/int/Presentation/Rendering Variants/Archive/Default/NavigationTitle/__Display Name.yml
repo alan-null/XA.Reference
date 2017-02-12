@@ -1,0 +1,26 @@
+﻿---
+ID: "c017ff47-732e-40c9-a943-0621830b48b3"
+Parent: "459da1a4-cb8a-44d7-b272-5068a970c239"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Archive/Default/NavigationTitle/__Display Name
+DB: master
+BranchID: "de3cdf1f-5d97-4c56-b213-94c2754261c6"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: __Display name
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133407Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

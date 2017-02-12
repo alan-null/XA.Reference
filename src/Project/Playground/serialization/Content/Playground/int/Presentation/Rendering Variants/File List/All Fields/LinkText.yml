@@ -1,0 +1,29 @@
+﻿---
+ID: "f89cd42e-3097-4a31-b2e9-e66d6ad30967"
+Parent: "8d7a8bac-736c-420e-8e94-5d9e62972bca"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/File List/All Fields/LinkText
+DB: master
+BranchID: "83becf6f-0518-4128-a395-8906981b7cb1"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: LinkText
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133403Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

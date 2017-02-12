@@ -1,0 +1,28 @@
+﻿---
+ID: "1daeedc1-452a-4d45-8182-bf21c45cd9bc"
+Parent: "0640b9b4-6ccf-4a69-a79e-2dca91ce8c51"
+Template: "eda823fc-bc7e-4ef6-b498-cd09ec6fdaef"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Site Grouping/int
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
+  Hint: StartItem
+  Value: "{0DAE33A2-6F53-473E-8ABD-B054D9BF3B75}"
+- ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
+  Hint: OtherProperties
+  Value: "formsRoot=%7BE5DD465C-5B30-484A-B9DF-E4772BD2D6EC%7D"
+- ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
+  Hint: HostName
+  Value: *
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133339Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

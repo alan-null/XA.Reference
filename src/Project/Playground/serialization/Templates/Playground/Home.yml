@@ -1,0 +1,27 @@
+﻿---
+ID: "89f350ee-1b9b-4b35-9821-d5e5a315f72a"
+Parent: "1530fe31-19bd-4059-8f9c-adabca39d828"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/SXA Reference/Playground/Home
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/home.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {C889CF6C-7F85-4204-9A72-0372A4769E92}
+    {E9272B0E-3BBA-445F-8634-224D68966BB9}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{41F13FA2-32E7-4D31-ABDE-1745E4B65810}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133318Z

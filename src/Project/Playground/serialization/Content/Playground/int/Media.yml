@@ -1,0 +1,24 @@
+﻿---
+ID: "bb80acad-9ee9-4c58-bf2d-f4a0aba6932a"
+Parent: "119af666-73e5-4d85-a7e1-da443beb81a3"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/SXA Reference/Playground/int/Media
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133339Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+      Hint: AdditionalChildren
+      Type: Treelist
+      Value: |
+        {B79D48B4-B2EC-4E37-9EC3-A2FFED9A7C65}
+        {94D63EC4-3F27-4D8C-8BE2-DD6CED74AD47}

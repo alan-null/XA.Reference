@@ -1,0 +1,18 @@
+﻿---
+ID: "e9c69955-d5a2-4553-879f-b45be6a486ba"
+Parent: "0ed7c7e6-c01e-4e5e-9dc0-69d4e5b4308c"
+Template: "9d46c5c3-aaee-46aa-b406-a1806302116e"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Search/Dropdown Filter
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133410Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

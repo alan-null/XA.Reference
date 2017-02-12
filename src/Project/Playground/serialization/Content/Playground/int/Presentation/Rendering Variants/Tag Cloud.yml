@@ -1,0 +1,21 @@
+﻿---
+ID: "c85c363a-56b4-426d-9bdf-0bd532f9bc6e"
+Parent: "088ad250-7444-4d7f-8a21-b86d35dfb89a"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Tag Cloud
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/thought.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133401Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

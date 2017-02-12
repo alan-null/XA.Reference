@@ -1,0 +1,28 @@
+﻿---
+ID: "4009e0dd-a2ba-4128-9a4b-26605b27853e"
+Parent: "c7ada2e5-f5cb-448c-900c-c51bb68e36a4"
+Template: "bca27de4-a869-4282-b3fb-4fbd7ba1b87b"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Creative Exchange Storages/File Storage
+DB: master
+BranchID: "aab15f53-cc56-44e0-bfc6-1ed18ff81ffb"
+SharedFields:
+- ID: "15d142e5-e484-458d-8a66-317baafee28f"
+  Hint: ImportType
+  Value: Sitecore.XA.Feature.CreativeExchange.Storage.Import.FileImportStorage,Sitecore.XA.Feature.CreativeExchange
+- ID: "52e8de18-7f21-4036-a6da-2b6c71eea601"
+  Hint: ExportType
+  Value: Sitecore.XA.Feature.CreativeExchange.Storage.Export.FileExportStorage,Sitecore.XA.Feature.CreativeExchange
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133353Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "5f32188e-d73c-47b8-97d4-7097070d8f46"
+      Hint: Destination Path
+      Value: $(creativeExchangeFolder)/FileStorage/int

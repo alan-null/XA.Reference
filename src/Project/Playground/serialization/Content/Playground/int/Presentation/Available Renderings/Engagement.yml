@@ -1,0 +1,25 @@
+﻿---
+ID: "7cf1b106-8d61-41dc-8d2a-1c10755c8e00"
+Parent: "0fa23094-2f50-4a04-9a77-3bdfad10a65a"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Available Renderings/Engagement
+DB: master
+BranchID: "5d61acc5-ec6e-42e9-996a-143a7b525d8a"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: |
+    {ACDA272A-F7B6-42A5-9FDF-C6323FB160E8}
+    {4DF237E8-B788-4145-A5C1-3F2158107BE8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133354Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

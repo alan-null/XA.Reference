@@ -1,0 +1,22 @@
+﻿---
+ID: "7306f9b9-2ba3-426c-9ef6-e94fc3e6eb05"
+Parent: "088ad250-7444-4d7f-8a21-b86d35dfb89a"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Title
+DB: master
+BranchID: "9ce20276-ee4d-4810-932a-f8e8ba759377"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_orientation_portrait.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133357Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

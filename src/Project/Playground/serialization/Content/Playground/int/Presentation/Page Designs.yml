@@ -1,0 +1,25 @@
+﻿---
+ID: "44beb256-88ff-4f1c-add6-60aab456d9c1"
+Parent: "d6535fd9-0d6f-46d4-82be-543fea2c744d"
+Template: "ef35d4a1-e60c-47bd-ba67-856b0cbb11e8"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Page Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}=%7B3F46272C-F3B8-4913-8C00-3816B436A4D3%7D"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133339Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+      Hint: TemplatesMapping
+      Value: "{89F350EE-1B9B-4B35-9821-D5E5A315F72A}=%7B52C2714F-46C9-4426-950D-A4A56279E742%7D&{C889CF6C-7F85-4204-9A72-0372A4769E92}=%7B52C2714F-46C9-4426-950D-A4A56279E742%7D"

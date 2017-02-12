@@ -1,0 +1,28 @@
+﻿---
+ID: "ef35d4a1-e60c-47bd-ba67-856b0cbb11e8"
+Parent: "1530fe31-19bd-4059-8f9c-adabca39d828"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/SXA Reference/Playground/Page Designs
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_chart.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {4A27A071-4D99-408F-B97E-2C9852C8D137}
+    {CA64FCD7-7CA9-415A-824B-28B0FEAC1EF7}
+    {1479D1EC-DE94-4546-B02F-84636B2061C2}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{B6ACE057-5D1D-4D11-A06E-4DA12C27A53E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133318Z

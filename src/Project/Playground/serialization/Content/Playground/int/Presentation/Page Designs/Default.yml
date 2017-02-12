@@ -1,0 +1,23 @@
+﻿---
+ID: "52c2714f-46c9-4426-950d-a4a56279e742"
+Parent: "44beb256-88ff-4f1c-add6-60aab456d9c1"
+Template: "ebcffae1-b6b4-4b50-b722-155e869fc430"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Page Designs/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+      Hint: PartialDesigns
+      Type: Treelist
+      Value: |
+        {63C5ADCB-F77E-47D1-A328-A58B8D6B89DE}
+        {F4C5F8D6-05D9-4FF7-8AD4-31C475719718}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133420Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

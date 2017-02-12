@@ -1,0 +1,23 @@
+﻿---
+ID: "2a61c06e-93aa-47d9-bbff-468728457b16"
+Parent: "0fa23094-2f50-4a04-9a77-3bdfad10a65a"
+Template: "bf70a40b-6d0e-4639-9862-24bb8946094b"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Available Renderings/StickyNotes
+DB: master
+BranchID: "86730af2-deda-4a01-ada9-52f21e10b314"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{619D4185-E73C-4C51-8407-3927E4812B98}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133400Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

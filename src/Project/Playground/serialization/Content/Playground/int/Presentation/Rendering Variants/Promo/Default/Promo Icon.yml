@@ -1,0 +1,22 @@
+﻿---
+ID: "e183f7e9-48fa-49bd-b0d5-b9876e824e23"
+Parent: "8958234c-a379-48d9-bfdc-7d0fd60c93e3"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Promo/Default/Promo Icon
+DB: master
+BranchID: "a19fc87d-262d-42cf-b595-41b4262733f4"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoIcon
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

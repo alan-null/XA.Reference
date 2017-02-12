@@ -1,0 +1,17 @@
+﻿---
+ID: "da724f1d-5646-4ff8-8ff5-e030a57795e0"
+Parent: "38c4f357-7a5d-44d7-b07d-2dfde3fc2d74"
+Template: "041c1f9f-99a4-4ee6-8308-985499f91032"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Twitters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133400Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

@@ -1,0 +1,17 @@
+﻿---
+ID: "49c8098d-c0aa-4285-ab24-60d2414cf858"
+Parent: "0dae33a2-6f53-473e-8abd-b054d9bf3b75"
+Template: "d7bffbe5-dad8-4137-85de-28013313f72f"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/Overlays
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133354Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

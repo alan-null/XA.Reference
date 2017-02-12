@@ -1,0 +1,21 @@
+﻿---
+ID: "c9566991-aacf-4bc4-9aa7-281e5aa0fa2e"
+Parent: "d40b827b-75db-4a5d-a874-6ab9e2231896"
+Template: "a06f7130-041d-46bb-8c29-95a2dc00c26a"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Search/Search Results/Default
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133411Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "904cb4ca-42d1-4690-8a99-9ecf22855e88"
+      Hint: ResultsNotFoundText
+      Value: No results

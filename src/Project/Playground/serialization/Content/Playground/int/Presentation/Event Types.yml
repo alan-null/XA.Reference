@@ -1,0 +1,17 @@
+﻿---
+ID: "e02dcce7-0c02-4d65-a137-7305be66d84c"
+Parent: "d6535fd9-0d6f-46d4-82be-543fea2c744d"
+Template: "fd612519-1c44-48b7-a44a-d582e22c38dd"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Event Types
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133344Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

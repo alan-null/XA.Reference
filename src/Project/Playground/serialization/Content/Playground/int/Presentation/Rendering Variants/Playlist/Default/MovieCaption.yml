@@ -1,0 +1,29 @@
+﻿---
+ID: "bf3a58fb-c7b5-4341-a362-d1c17f8201d7"
+Parent: "671cdaaa-2823-468d-90cf-8153264f0cae"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Playlist/Default/MovieCaption
+DB: master
+BranchID: "fc0838e0-d628-4f4b-b97b-bd518a3ff4a9"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: MovieCaption
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "default-playlist"
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133404Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

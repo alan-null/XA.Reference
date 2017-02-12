@@ -1,0 +1,22 @@
+﻿---
+ID: "de378f88-d6f0-41ec-b6a6-5b2e42a9690a"
+Parent: "882d6a16-f9eb-4889-b9d2-3ea16f1f4814"
+Template: "ad89c1f1-e991-48ef-8659-38ab13aa28f1"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Search/Date Filter/Default
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+SharedFields:
+- ID: "734f9a5a-c02a-4d34-87e8-29c732d8eb67"
+  Hint: Facet
+  Value: "{87A830FB-4E2F-4F76-896B-F20CFA2374DD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133410Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

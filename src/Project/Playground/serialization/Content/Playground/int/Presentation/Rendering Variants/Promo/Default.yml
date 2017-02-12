@@ -1,0 +1,18 @@
+﻿---
+ID: "8958234c-a379-48d9-bfdc-7d0fd60c93e3"
+Parent: "e292c5b2-c7c8-4c43-9539-2230d4b972fe"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Promo/Default
+DB: master
+BranchID: "a19fc87d-262d-42cf-b595-41b4262733f4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

@@ -1,0 +1,28 @@
+﻿---
+ID: "5822b98d-947e-46d4-b88e-28fec0bd0b77"
+Parent: "41ec5809-a752-4fd0-810f-a574dc0fc406"
+Template: "3de7aa7e-961a-4b90-98f2-01ac2be92ec5"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Social Media Groups/Default/Pinterest
+DB: master
+BranchID: "4ddbdd69-8a15-4520-bed8-f7553139586b"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 63
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133400Z
+    - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
+      Hint: ButtonCode
+      Value: "<a href=\"//www.pinterest.com/pin/create/button/\" data-pin-do=\"buttonBookmark\" ><img src=\"//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png\" alt=\"pinterest\" /></a>"
+    - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
+      Hint: OnlyOnceCode
+      Value: "<script type=\"text/javascript\" src=\"//assets.pinterest.com/js/pinit.js\"></script>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

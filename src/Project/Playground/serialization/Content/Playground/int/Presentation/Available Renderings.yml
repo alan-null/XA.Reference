@@ -1,0 +1,18 @@
+﻿---
+ID: "0fa23094-2f50-4a04-9a77-3bdfad10a65a"
+Parent: "d6535fd9-0d6f-46d4-82be-543fea2c744d"
+Template: "39a9ed72-407d-4440-ba50-30956834794e"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Available Renderings
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T133339Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
