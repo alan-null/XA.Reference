@@ -13,6 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A8F4962E-D064-459D-8D38-4BE1093554A2}"
+              s:ds="{F71B9453-3FE3-4041-9C90-7DA35F18E935}"
+              s:id="{C71B8E71-7FF8-46B0-800E-C5621EFE1D4B}"
+              s:par="Styles&amp;TitleHeadingLevel=%7B8ACACA22-0D21-4A68-9137-6C484AA81DA6%7D&amp;CalendarType=%7B57873DCE-290B-4FCE-B1CE-2636A1E5BB18%7D%7C%7BED57FE3E-85F3-433B-93D5-A6D75277BEC1%7D%7C%7B9DCCDFCF-B112-4749-BE88-734E7E2C1D60%7D%7C%7B00F11EEC-4A09-4160-B764-D2F5AF29722C%7D%7C%7B6F08F8D6-A86C-4E2A-B793-113F18A1A790%7D&amp;ShowPreviousNext=1&amp;ShowMonthCaptions=1&amp;CompactView"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184122Z

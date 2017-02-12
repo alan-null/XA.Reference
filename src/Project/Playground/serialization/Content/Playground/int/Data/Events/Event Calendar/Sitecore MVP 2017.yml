@@ -1,0 +1,32 @@
+﻿---
+ID: "4fe657df-cd2b-4188-b53c-4ca04ca9465e"
+Parent: "f71b9453-3fe3-4041-9c90-7da35f18e935"
+Template: "62c2b7d0-1c34-4aa6-b3d3-5d612c0891bd"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Events/Event Calendar/Sitecore MVP 2017
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fb9f55d-2c43-49c2-a61d-df8552c88c20"
+      Hint: EventName
+      Value: Sitecore MVP 2017 Announcement
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T225119Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "79825619-c640-4892-98a8-9c4b112673d5"
+      Hint: EventDescription
+      Value: MVP candidates are evaluated by a panel of Sitecore employees ranging from developers to members of the executive team. They are selected based on their mastery of Sitecore’s platform and ability to share knowledge with Sitecore partners, customers, and prospects.
+    - ID: "84bfa68d-1d6a-4187-86d4-d7ec6294d5f0"
+      Hint: EventLink
+      Value: "<link linktype=\"external\" url=\"http://www.sitecore.net/en/company/press-and-media/press-releases/2017/01/sitecore-names-its-2017-most-valuable-professionals\" anchor=\"\" target=\"\" />"
+    - ID: "9e47d308-2e9c-413a-ac93-3c51c52e74d2"
+      Hint: EventStart
+      Value: 20170131T000000Z
+    - ID: "c9999f64-a453-46a6-ae47-c423599986a7"
+      Hint: EventEnd
+      Value: 20170131T223000Z
