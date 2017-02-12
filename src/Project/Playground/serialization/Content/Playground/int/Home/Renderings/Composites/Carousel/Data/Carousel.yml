@@ -1,0 +1,17 @@
+﻿---
+ID: "1efcebac-c492-4499-b0fe-435791f4683d"
+Parent: "b17d0ff8-ef58-4954-bb1a-d2bcec01fd15"
+Template: "add22f05-6b4c-4344-95ad-9a1a9ba6a216"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/composites/carousel/Data/Carousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T211051Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

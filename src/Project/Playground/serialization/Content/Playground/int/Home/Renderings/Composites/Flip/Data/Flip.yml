@@ -1,0 +1,17 @@
+﻿---
+ID: "117fc52d-ef29-402a-ab1d-2f3685d3ce2b"
+Parent: "7a8332d2-98db-4aa6-bab8-c1e54037c023"
+Template: "5ef07850-4c04-4b83-9daf-efd752cfaba8"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/composites/flip/Data/Flip
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T211801Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

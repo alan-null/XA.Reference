@@ -1,0 +1,17 @@
+﻿---
+ID: "a0f2a81f-07de-4dd3-81e6-7de443705e12"
+Parent: "3dce292e-6408-403e-bcd0-c1757d4dd5ec"
+Template: "705cc8b3-bde5-4cb3-bf1c-e455a2a36ef1"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/composites/accordion/Data/Accordion
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T204445Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

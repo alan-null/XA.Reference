@@ -13,6 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{96308C73-1A3E-424F-B187-5F86D6C002E2}"
+              s:ds="local:/Data/Tabs"
+              s:id="{886B8CCC-816E-4D3A-BF05-4876B6C23686}"
+              s:par="Styles&amp;TabControlBelowContent&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184122Z

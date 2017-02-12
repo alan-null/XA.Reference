@@ -1,0 +1,23 @@
+﻿---
+ID: "e0f6769f-7ec3-4ddb-80ad-5da879f5c9af"
+Parent: "1efcebac-c492-4499-b0fe-435791f4683d"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/composites/carousel/Data/Carousel/Carousel Slide 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T211115Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: "<image mediaid=\"{DB854E88-4293-4D0B-9623-85F58FCAB7D6}\" ></image>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
+      Hint: SlideText
+      Value: Chris

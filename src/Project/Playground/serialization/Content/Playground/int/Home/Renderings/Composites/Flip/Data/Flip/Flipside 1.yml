@@ -1,0 +1,23 @@
+﻿---
+ID: "d516b85d-0ec8-42a9-b981-bcf7950fcd1b"
+Parent: "117fc52d-ef29-402a-ab1d-2f3685d3ce2b"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/composites/flip/Data/Flip/Flipside 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T211817Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: "<h2>What is Lorem Ipsum?</h2>"
