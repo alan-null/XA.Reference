@@ -1,0 +1,17 @@
+﻿---
+ID: "f64dff7b-c0b5-4c47-bcdd-661be7a6a17d"
+Parent: "f99cb51b-3c09-4b23-a1cd-88f9857bba29"
+Template: "9716fafc-c305-4c95-a92b-0c0da8714634"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/POIs/Sitecore Office/Europe
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T232842Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

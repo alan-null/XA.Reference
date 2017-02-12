@@ -1,0 +1,20 @@
+﻿---
+ID: "78d0e3a2-142d-44a5-8ee6-0680a0c8ee73"
+Parent: "52cfb685-7214-4710-9096-d6b173dad330"
+Template: "c58ee915-aa14-49bf-bee4-c821cac26913"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/POI Types/Sitecore Office
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T234754Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b348a1bf-27be-4713-915a-4811bc987e37"
+      Hint: FieldNames
+      Value: "{07284038-5740-425F-B4EA-52DD080897E2}"

@@ -1,0 +1,46 @@
+﻿---
+ID: "a3d0b998-09b5-4be2-99ca-aa1f1a4a3b06"
+Parent: "8e5c39fa-dc9c-4c14-876a-81e62a6afcf8"
+Template: "0aacd498-cea9-4e37-8ca0-61d1f024fb34"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/maps/map/Data/Map
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T231941Z
+    - ID: "37b1dd2c-ac94-4281-b9b5-c6437028072a"
+      Hint: CentralPointLongitude
+      Value: 12.4907989
+    - ID: "54addae0-9c54-42a0-9220-5aaac5312e1a"
+      Hint: Zoom
+      Value: "{9D8A8DE3-CE78-41BE-AF57-F177570FFD1A}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "d9dd5de6-af41-4d3b-9f73-4ff9bd05898b"
+      Hint: CentralPointMode
+      Value: "{4D3501A6-E34B-4E19-B6B2-BDA2CFDA2C8A}"
+    - ID: "df9686ee-85f7-4ad3-bdd2-8a28d31740df"
+      Hint: POI
+      Type: Treelist
+      Value: |
+        {63237C75-5AD9-475E-85A6-F6CC6B26E703}
+        {61E783E7-F1AA-440F-9195-533BD70D1F11}
+        {8D2483C8-7A56-4C32-85B8-81A67D833529}
+        {DDDDE569-423B-4B77-B7DA-F53FD034B797}
+        {F5AE6290-2589-47B2-8515-F7A7687922A1}
+        {7EBBE8F4-8349-4CC4-8A59-EBC766A0A381}
+        {CE6ED14C-89E7-438B-89BD-BD2AF990F4AC}
+        {AE5506CF-590D-4ABB-96AF-50A5A77E3B81}
+        {15DCB741-F4D2-496D-A5B4-A347190A3B99}
+        {06F426B3-DBB7-4F66-A98B-7ECB0B33AD34}
+        {CC4A402A-C54D-4F98-AA4E-8D3095C5F23C}
+        {2BEC72BF-F3F3-4116-95C3-76D37E9A2A06}
+        {152B4468-ACAD-407E-A9CF-2F65082AAAEC}
+    - ID: "fcc4f148-2f8a-4310-a898-c38fee380e9e"
+      Hint: CentralPointLatidiute
+      Value: 55.6713442

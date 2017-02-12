@@ -1,0 +1,17 @@
+﻿---
+ID: "8e5c39fa-dc9c-4c14-876a-81e62a6afcf8"
+Parent: "ba8ec1cb-2d28-4475-b863-779196a0f2f7"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/maps/map/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T231941Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

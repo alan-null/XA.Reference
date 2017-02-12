@@ -1,0 +1,42 @@
+﻿---
+ID: "61e783e7-f1aa-440f-9195-533bd70d1f11"
+Parent: "8b35fce8-8da7-4689-823e-0d29c10e2565"
+Template: "6ebb38ce-04fc-425c-895b-3c81fa4a7b5c"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/POIs/Sitecore Office/North America/New Hampshire
+DB: master
+SharedFields:
+- ID: "7db4985a-73a1-44a3-9b2c-ffea56093431"
+  Hint: Description
+  Value: |
+    <p>55 So. Commercial Street&nbsp;<br />
+    Unit 309&nbsp;&nbsp;<br />
+    Manchester, NH&nbsp;<br />
+    03101</p>
+    <div>
+    <p><span>Phone</span><span>603-296-1720</span></p>
+    <p><span>Fax:</span><span>603-282-1856</span></p>
+    <p><span>Email: </span><span><a href="mailto:Sales-us@sitecore.net">sales-us@sitecore.net</a></span></p>
+    </div>
+- ID: "8c1aea63-2e5e-4fee-b413-d3b1e050dd26"
+  Hint: Longitude
+  Value: "-71.4692929"
+- ID: "8e09c5d1-4ec5-48fd-b355-3d1c65dd5c0f"
+  Hint: Type
+  Value: "{78D0E3A2-142D-44A5-8EE6-0680A0C8EE73}"
+- ID: "94969c59-c4b8-43ed-9c92-3fbf930c0acf"
+  Hint: Latitude
+  Value: 42.9838877
+- ID: "e428dd88-04a5-43c2-be37-35e0e3cf9890"
+  Hint: Title
+  Value: New Hampshire
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T232731Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
