@@ -13,6 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F12B76BF-BED6-4218-A236-A448C2D2D9FF}"
+              s:ds=""
+              s:id="{ACDA272A-F7B6-42A5-9FDF-C6323FB160E8}"
+              s:par="disqus_shortname=xa-reference&amp;disqus_category_id&amp;disqus_url&amp;disqus_identifier&amp;disqus_title"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184122Z
