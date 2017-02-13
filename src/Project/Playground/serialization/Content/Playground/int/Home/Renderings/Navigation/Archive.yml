@@ -13,6 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7233CE8A-D5D7-4033-B87E-69627756B4AD}"
+              s:ds=""
+              s:id="{1B1FDBF9-551B-4A00-A6D8-BB2FB7B62A62}"
+              s:par="SourceType={9E4E90DF-6C97-47C0-ABF3-B4C76B750D1B}&amp;FieldNames={128AC368-4D2F-4F71-8B5C-0F1348EFCE46}&amp;Styles&amp;Format&amp;FieldName"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184128Z
