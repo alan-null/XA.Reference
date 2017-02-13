@@ -1,0 +1,29 @@
+﻿---
+ID: "41b84119-4488-4247-9500-c62769a9e5f9"
+Parent: "4438b4fd-2112-48b5-a7ab-25c2933c90eb"
+Template: "04129321-7708-49c1-801b-aee196e1c0a8"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/media/media-link/Data/Media Link"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T092125Z
+    - ID: "413f42d9-9868-418a-9a0e-770202b9ccc4"
+      Hint: CustomImage
+      Value: 
+    - ID: "58deef8c-1a88-449e-b165-bfe3be9b53b7"
+      Hint: LinkText
+      Value: MediaLink Text
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
+      Hint: File
+      Value: "<file mediaid=\"{53D07ED3-C683-4278-9257-DF9418020D31}\" src=\"-/media/53D07ED3C68342789257DF9418020D31.ashx\" />"
+    - ID: "75797cec-589f-47e2-b416-45cff546eee1"
+      Hint: Description
+      Value: <strong>Josephine</strong> <em>128x128</em>

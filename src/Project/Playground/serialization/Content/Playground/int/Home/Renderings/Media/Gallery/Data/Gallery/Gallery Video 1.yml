@@ -1,0 +1,23 @@
+﻿---
+ID: "d8b19f6e-8a25-4e19-a6bc-a54e6cb5a5c5"
+Parent: "eea30567-7fbf-4239-ac9b-2a95415b6748"
+Template: "4af51f4d-8ac4-4394-b6a5-11b52cfaf613"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/media/gallery/Data/Gallery/Gallery Video 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T144810Z
+    - ID: "5a592c96-87e5-486f-a699-555ddca06ceb"
+      Hint: VideoProvider
+      Value: "{9D072721-207D-4722-AB27-BC6B3588E12F}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "6c0c3c28-8d0b-4540-b090-207d0505a61a"
+      Hint: VideoID
+      Value: DeXoACwOT1o

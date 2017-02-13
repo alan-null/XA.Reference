@@ -13,6 +13,29 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5EBBF9FB-9B05-446C-B272-FF3AFCDA35F4}"
+              p:before="*"
+              s:ds="local:/Data/Playlist"
+              s:id="{F16CE601-EECF-4DFC-B278-DE5F9562551B}"
+              s:par="FieldNames&amp;Styles&amp;TitleHeadingLevel&amp;Autoplay&amp;AutoplaySelected&amp;PlayNext&amp;RepeatAfterAll&amp;ShowPrevNext&amp;Player"
+              s:ph="main" />
+            <r
+              uid="{C458BBD2-1199-4526-A320-ADDB8110FF04}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Video"
+              s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184128Z

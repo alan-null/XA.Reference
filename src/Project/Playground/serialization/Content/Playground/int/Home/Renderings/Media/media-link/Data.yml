@@ -1,0 +1,17 @@
+﻿---
+ID: "4438b4fd-2112-48b5-a7ab-25c2933c90eb"
+Parent: "a3b3f593-8366-4bc3-bc8f-1e8b0f9c4909"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/media/media-link/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T092125Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

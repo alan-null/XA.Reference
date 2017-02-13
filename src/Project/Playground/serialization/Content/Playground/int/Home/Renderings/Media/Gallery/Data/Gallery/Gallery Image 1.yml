@@ -1,0 +1,26 @@
+﻿---
+ID: "6517be40-bb03-4cc9-8244-14bedb2d3f03"
+Parent: "eea30567-7fbf-4239-ac9b-2a95415b6748"
+Template: "9d77c212-a828-4792-8e72-749f19c0154d"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/media/gallery/Data/Gallery/Gallery Image 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1194ed4a-378b-4d43-adba-a46e6082e004"
+      Hint: ImageTitle
+      Value: Cover
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T144759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "cbdaab5f-3f7a-4072-8b7f-6a325a4a2205"
+      Hint: Image
+      Value: "<link linktype=\"media\" target=\"\" id=\"{04DAD0FD-DB66-4070-881F-17264CA257E1}\" />"
+    - ID: "d8f2eb04-e684-46c0-8d03-beccf007ca72"
+      Hint: ImageDescription
+      Value: 

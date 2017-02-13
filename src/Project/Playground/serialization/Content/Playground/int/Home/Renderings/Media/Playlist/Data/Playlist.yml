@@ -1,0 +1,20 @@
+﻿---
+ID: "b78eddf2-f8be-45ba-a292-18a88da88e04"
+Parent: "e57ac3f8-2f18-41f7-b131-97d7528ae4fc"
+Template: "1bf71895-bc29-47da-8b79-7fd5f88363d9"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/media/playlist/Data/Playlist
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T092147Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "d3bf9175-3c00-4bd5-978b-d27df8c41482"
+      Hint: Title
+      Value: Example Playlist
