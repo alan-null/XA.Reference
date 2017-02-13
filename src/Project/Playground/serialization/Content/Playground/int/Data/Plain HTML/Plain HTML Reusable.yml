@@ -1,0 +1,174 @@
+﻿---
+ID: "8422ab6a-d0af-4a77-9dff-475161bdc7dd"
+Parent: "961eb488-fbd2-4ba5-b28b-e7396e0e4d3a"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Plain HTML/Plain HTML Reusable
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <style>@import url('https://fonts.googleapis.com/css?family=Raleway');
+        body {
+          background-color:black;
+        }
+        h1 {
+          color:#FF00E6;
+          font-family: 'Raleway', sans-serif;
+          font-size:64px;
+          letter-spacing:10px;
+          animation: text-flicker 3s linear infinite;
+        }
+        
+        #offset {
+          animation: letter-flicker 2s linear infinite;
+        }
+        
+        @keyframes text-flicker {
+          0% {
+            opacity:0.1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          
+          2% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          8% {
+            opacity:0.1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          9% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          12% {
+            opacity:0.1;
+            text-shadow: 0px 0px rgba(242, 22, 22, 1);
+          }
+          20% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1)
+          }
+          25% {
+            opacity:0.3;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1)
+          }
+          30% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1)
+          }
+          
+          70% {
+            opacity:0.7;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1)
+          }
+          
+          72% {
+            opacity:0.2;
+            text-shadow:0px 0px 29px rgba(242, 22, 22, 1)
+          }
+          
+          77% {
+            opacity:.9;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1)
+          }
+          100% {
+            opacity:.9;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1)
+          }
+        }
+        
+        @keyframes border-flicker {
+          0% {
+            opacity:0.1;
+            -webkit-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        -moz-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+          }
+          2% {
+            opacity:1;
+            -webkit-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        -moz-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+          }
+          4% {
+            opacity:0.1;
+            -webkit-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        -moz-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+          }
+          
+          8% {
+            opacity:1;
+            -webkit-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        -moz-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+          }
+          70% {
+            opacity:0.7;
+            -webkit-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        -moz-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+          }
+          100% {
+            opacity:1;
+            -webkit-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        -moz-box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+        box-shadow: 0px 0px 78px 4px rgba(16,134,232,0.73);
+          }
+        }
+        
+        @keyframes letter-flicker {
+          0% {
+            opacity:0.1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          2% {
+            opacity:0.1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          4% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          
+          
+          19% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          21% {
+            opacity:0.1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          23% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          
+          80% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          83% {
+            opacity:0.4;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+          87% {
+            opacity:1;
+            text-shadow: 0px 0px 29px rgba(242, 22, 22, 1);
+          }
+        }
+        </style>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T192021Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

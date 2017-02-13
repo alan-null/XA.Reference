@@ -1,0 +1,332 @@
+﻿---
+ID: "68692782-5c95-40fc-a6b8-71ab4cc3ce65"
+Parent: "207715bd-c6ad-4f7f-8d93-4155300a87df"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-content/plain-html/Data/HTML Code 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <style class="cp-pen-styles">
+            * {
+                box-sizing: border-box;
+            }
+            
+            /*body {
+                background: #f6ffec;
+                margin: 0;
+                font-family: Sahitya;
+                font-size: 18px;
+                color: #53565a;
+            }*/
+            
+            body section {
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                justify-content: flex-start;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                width: 100%;
+                max-width: 24em;
+                min-height: 100vh;
+                margin: auto;
+                padding: 1em;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -ms-flex-line-pack: center;
+                align-content: center;
+            }
+            
+            body section h1 {
+                font-size: 1.8em;
+                margin: 0;
+                line-height: .9;
+            }
+            
+            body section h4 {
+                font-size: .7em;
+                font-weight: normal;
+                margin: .5em 0 32px;
+            }
+            
+            body section .group,
+            body section .boxgroup {
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                justify-content: flex-start;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                justify-content: space-between;
+                width: 100%;
+                flex-wrap: wrap;
+                margin-bottom: 1em;
+            }
+            
+            body section .group label,
+            body section .boxgroup label {
+                -webkit-box-flex: 1;
+                -ms-flex: 1 0 auto;
+                flex: 1 0 auto;
+                line-height: 2;
+                position: relative;
+                top: 0em;
+                border-bottom: 1px solid #53565a;
+            }
+            
+            body section .group input,
+            body section .boxgroup input {
+                -webkit-box-flex: 10;
+                -ms-flex: 10 0 auto;
+                flex: 10 0 auto;
+                padding: 0 0 .1em .5em;
+                font-family: Sahitya;
+                font-size: 22px;
+                border: none;
+                border-bottom: 1px solid #53565a;
+                background: none;
+                margin: 0;
+            }
+            
+            body section .group input:focus,
+            body section .boxgroup input:focus {
+                outline: none;
+            }
+            
+            body section .boxgroup {
+                width: 100%;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                justify-content: flex-start;
+            }
+            
+            body section .boxgroup label {
+                text-align: left;
+                -webkit-box-flex: 10;
+                -ms-flex: 10 0 auto;
+                flex: 10 0 auto;
+                padding-left: 1.2em;
+            }
+            
+            body section .boxgroup label:before {
+                content: '';
+                font-size: 120%;
+                line-height: .5em;
+                width: .6em;
+                text-indent: .075em;
+                height: .6em;
+                border: 1px solid #53565a;
+                position: absolute;
+                left: 0;
+                bottom: .5em;
+            }
+            
+            body section .boxgroup label.checked {
+                font-weight: bold;
+            }
+            
+            body section .boxgroup label.checked:before {
+                content: 'x';
+            }
+            
+            body section .boxgroup input#norepeat {
+                width: auto;
+                -webkit-box-flex: 1;
+                -ms-flex: 1 0 auto;
+                flex: 1 0 auto;
+                margin: 0.32em 0.4em 0 0;
+                border-bottom: 1px solid black !important;
+                position: absolute;
+                left: -10000%;
+                opacity: 0;
+                z-index: -99999;
+            }
+            
+            body section button {
+                font-family: Sahitya;
+                padding: .5em 1em;
+                font-size: 18px;
+                margin-top: 32px;
+                background: #53565a;
+                border: 1px solid #53565a;
+                color: #fff;
+                cursor: pointer;
+                -webkit-transition: all .2s ease-in-out;
+                transition: all .2s ease-in-out;
+            }
+            
+            body section button:hover {
+                background: #a7a8aa;
+                -webkit-transform: scale(1.1);
+                transform: scale(1.1);
+            }
+            
+            body section button:focus {
+                outline: none;
+                background: #ffd100;
+                color: #53565a;
+            }
+            
+            body section #result {
+                width: 100%;
+                height: 1em;
+                line-height: 1em;
+                font-size: 36px;
+                text-align: left;
+                margin-top: .5em;
+            }
+            
+            body section #result .error {
+                color: red;
+                font-size: 40%;
+                line-height: .4em;
+                animate: bounce .5s ease-in-out forward;
+            }
+            
+            @-webkit-keyframes bounce {
+                0% {
+                    -webkit-transform: translateY(-0.25em);
+                    transform: translateY(-0.25em);
+                }
+                25% {
+                    -webkit-transform: translateY(0);
+                    transform: translateY(0);
+                }
+                50% {
+                    -webkit-transform: translateY(-0.25em);
+                    transform: translateY(-0.25em);
+                }
+                75% {
+                    -webkit-transform: translateY(0);
+                    transform: translateY(0);
+                }
+            }
+            
+            @keyframes bounce {
+                0% {
+                    -webkit-transform: translateY(-0.25em);
+                    transform: translateY(-0.25em);
+                }
+                25% {
+                    -webkit-transform: translateY(0);
+                    transform: translateY(0);
+                }
+                50% {
+                    -webkit-transform: translateY(-0.25em);
+                    transform: translateY(-0.25em);
+                }
+                75% {
+                    -webkit-transform: translateY(0);
+                    transform: translateY(0);
+                }
+            }
+            
+            @media (max-width: 25em) {
+                label {
+                    width: 100%;
+                    border: none !important;
+                }
+            }
+        </style>
+        <style type="text/css">
+             :root .ad {
+                display: none !important;
+            }
+        </style>
+        <section>
+            <h1>Random numbers generator</h1>
+            <h4>Generate any number of random values with or without repeats</h4>
+            <div class="group">
+                <label for="minimum">Minimum:</label>
+                <input type="number" step="1" id="minimum" />
+            </div>
+            <div class="group">
+                <label for="maximum">Maximum:</label>
+                <input type="number" step="1" id="maximum" />
+            </div>
+            <div class="group">
+                <label for="resultcount">How many results?</label>
+                <input type="number" min="1" step="1" id="resultcount" placeholder="1" />
+            </div>
+            <div class="boxgroup">
+                <input type="checkbox" id="norepeat" /><label for="norepeat">No repeat results</label>
+            </div>
+            <button onClick="crunch()">Generate</button>
+            <div id="result"></div>
+        </section>
+        <script>
+            var resultArea = document.querySelector('#result');
+            var noRepeatBox = document.querySelector('#norepeat');
+            var noRepeatLabel = document.querySelector('label[for=norepeat]')
+        
+            noRepeatBox.addEventListener('click', function () {
+                noRepeatLabel.classList.toggle('checked');
+            });
+        
+            function crunch() {
+                var noRepeat = document.querySelector('#norepeat').checked;
+                var min = Number(document.querySelector('#minimum').value);
+                //console.log(min);
+                var max = Number(document.querySelector('#maximum').value);
+                //console.log(max);
+                var resultCount = Number(document.querySelector('#resultcount').value);
+                var resultsArray = [];
+        
+                resultArea.innerHTML = '';
+        
+                if ((max - min) == 0) {
+                    resultArea.innerHTML = '<span class="error">Please choose a valid range.</span>'
+                    return;
+                } else if (max < min) {
+                    resultArea.innerHTML = '<span class="error">Invalid number range</span>'
+                    return;
+                } else if (noRepeat && resultCount > ((max - min) + 1)) {
+                    resultArea.innerHTML = '<span class="error">Range is too small to generate only unique numbers</span>'
+                    return;
+                } else if (min < 0) {
+                    resultArea.innerHTML = '<span class="error">Sorry, I don\'t work with negative numbers.</span>'
+                    return;
+                }
+                if (!resultCount) {
+                    resultCount = 1;
+                }
+        
+                function newNumber() {
+                    if (min <= 0) {
+                        var result = Math.floor(Math.random() * (max + 1));
+                    } else {
+                        var result = Math.floor(Math.random() * max + 1);
+                    }
+                    if (result < min || noRepeat && resultsArray.includes(result)) {
+                        return newNumber();
+                    }
+                    console.log(result);
+                    resultsArray.push(result);
+                }
+        
+                for (i = 1; i <= resultCount; i++) {
+                    newNumber();
+                }
+                console.log(resultsArray);
+                resultArea.innerHTML += resultsArray.join(', ');
+            }
+        </script>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T191933Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

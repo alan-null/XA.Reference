@@ -13,6 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{2034B266-35FB-4136-B671-EFCE95A1ACBE}"
+              s:ds=""
+              s:id="{76891D2D-6653-483F-AE86-A77FE6E96AC6}"
+              s:par="FieldNames&amp;Styles"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184123Z
@@ -22,6 +38,12 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
+    - ID: "6eed881f-cd1d-4501-8240-3389de8d04d6"
+      Hint: Content
+      Value: |
+        <h1 style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; text-align: left;">Lorem Ipsum</h1>
+        <h4 style="color: #000000; background-color: #ffffff; margin: 10px 10px 5px; padding: 0px; text-align: left;">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</h4>
+        <h5 style="color: #000000; background-color: #ffffff; margin: 5px 10px 20px; padding: 0px; text-align: left;">"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</h5>
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{76891D2D-6653-483F-AE86-A77FE6E96AC6}"

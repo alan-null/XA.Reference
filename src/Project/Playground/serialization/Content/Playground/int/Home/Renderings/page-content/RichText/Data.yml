@@ -1,0 +1,17 @@
+﻿---
+ID: "117ea38d-c40d-488b-8db2-50ef52c93d5e"
+Parent: "97b9e71d-8026-43d3-82ee-4ef6c2c56f84"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-content/richtext/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T192059Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

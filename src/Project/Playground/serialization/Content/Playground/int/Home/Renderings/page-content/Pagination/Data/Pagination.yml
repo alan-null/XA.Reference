@@ -1,0 +1,14 @@
+﻿---
+ID: "529c5def-0da9-4f9e-9d01-75bcf7cfd85b"
+Parent: "d766d19e-1767-4f19-872d-68d268a6d0cd"
+Template: "458a37ba-8222-4182-86e5-e086cfcdad5c"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-content/pagination/Data/Pagination"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T191802Z

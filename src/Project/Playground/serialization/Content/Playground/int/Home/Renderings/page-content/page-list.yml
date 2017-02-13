@@ -13,6 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6B55DB97-A212-49CA-9C3C-9B9C3DA7BDBF}"
+              s:ds="{E804058D-34C2-4959-90A3-C39579C5819C}"
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="ListSignature&amp;PageSize=10&amp;Offset&amp;FieldNames&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184123Z

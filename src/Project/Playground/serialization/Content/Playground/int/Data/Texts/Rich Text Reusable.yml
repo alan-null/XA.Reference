@@ -1,0 +1,35 @@
+﻿---
+ID: "02bcbbd6-8abf-4209-b6b9-6a5c74f9a455"
+Parent: "b5bddd28-74ee-4ac3-80f5-566a56571ba8"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Texts/Rich Text Reusable
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T192043Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h1>Lorem Ipsum</h1>
+        <h4>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</h4>
+        <h5>"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</h5>
+        <hr />
+        <div id="Content">
+        <div class="boxed">
+        <div id="lipsum">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis ligula sapien. Curabitur libero nisi, mollis id turpis vel, tempor volutpat purus. Nullam quis nisl ac odio rutrum condimentum. Mauris tincidunt id sem et gravida. Sed vitae nisi fermentum, convallis ex ac, varius diam. Morbi eu ultrices nisi. Sed finibus tincidunt pretium. Nullam mi risus, porttitor eu dictum non, tristique et felis. Quisque facilisis egestas ipsum vel ornare.</p>
+        <p>Nunc lorem dui, ornare at nulla sit amet, vulputate volutpat nibh. Phasellus mauris urna, aliquam sit amet venenatis eu, aliquet sed ipsum. Praesent quis pharetra mauris. Etiam ornare urna sed libero tincidunt eleifend. Maecenas dapibus finibus magna in auctor. Phasellus id efficitur nibh. Pellentesque in enim tortor. Vivamus laoreet nisl magna, eu convallis lorem euismod bibendum. Donec vehicula velit nec massa pretium, non posuere tellus imperdiet. Phasellus convallis odio a sollicitudin suscipit. Sed ex nisl, facilisis sed felis a, sagittis pharetra ipsum. Quisque et lacus sollicitudin, posuere ex blandit, pellentesque tortor. Fusce ullamcorper felis nec quam scelerisque porta. Nulla tincidunt, nibh ac lobortis molestie, quam lacus dapibus lectus, vel elementum felis mi quis eros.</p>
+        <p>Vestibulum lectus dui, pellentesque tincidunt tristique pretium, aliquet in ante. Sed bibendum hendrerit tortor eu tempus. Donec faucibus sem ut facilisis ultricies. Etiam ultrices felis non mauris ultricies sollicitudin. Integer viverra libero at porttitor aliquam. Nunc lobortis nibh lorem, sit amet convallis tortor mattis hendrerit. Integer in tincidunt eros. Phasellus convallis risus sem. Sed fringilla suscipit sapien, cursus auctor lectus rutrum id. Aenean quis lobortis magna.</p>
+        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin gravida orci augue, sit amet venenatis nibh imperdiet id. Nullam quis sem in risus vestibulum dignissim. Donec molestie id augue sit amet viverra. Morbi sit amet nibh tempor, ultrices tortor in, lobortis quam. Aliquam non lacus consectetur, malesuada nisi nec, pretium tortor. Suspendisse potenti. Sed libero urna, gravida ut est vitae, molestie pellentesque nunc. Maecenas sagittis lacus ultrices imperdiet facilisis. In hac habitasse platea dictumst. Duis nec cursus quam. Curabitur lobortis, lorem et malesuada mollis, sem nibh laoreet elit, a euismod tellus tellus sed leo. Suspendisse urna orci, gravida vel dictum eget, tincidunt eget dui. Suspendisse velit magna, lobortis sit amet nunc efficitur, ultricies finibus nulla.</p>
+        <p>Maecenas luctus ex id quam accumsan posuere. Nulla sit amet ipsum mauris. Suspendisse eros libero, semper eget nibh in, venenatis laoreet urna. Nullam a turpis elit. Sed posuere, justo non viverra ultrices, dolor enim pulvinar felis, id tincidunt nunc enim ac metus. Sed eu felis eget dolor vulputate sagittis ut ac sapien. Duis maximus odio eu orci rutrum, eu dapibus eros sagittis. Aenean vitae mauris efficitur orci consectetur vulputate.</p>
+        </div>
+        </div>
+        </div>

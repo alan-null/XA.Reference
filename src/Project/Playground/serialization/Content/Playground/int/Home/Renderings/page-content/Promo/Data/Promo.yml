@@ -1,0 +1,26 @@
+﻿---
+ID: "d213e4df-f36c-4085-b4c2-fb73f2271d60"
+Parent: "7b6702ab-45bc-4229-91aa-9b396b8a7f2f"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-content/promo/Data/Promo"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: <strong>Promo </strong>text
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: "<image mediaid=\"{04DAD0FD-DB66-4070-881F-17264CA257E1}\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T191959Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: "<link text=\"Promo Link\" anchor=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{0DAE33A2-6F53-473E-8ABD-B054D9BF3B75}\" />"

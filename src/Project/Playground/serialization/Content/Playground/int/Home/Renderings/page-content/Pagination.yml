@@ -13,6 +13,30 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{CA0F9B1A-B440-45AF-8AA4-8C28F34F6382}"
+              p:before="*"
+              s:ds=""
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="ListSignature=sign1&amp;PageSize=3&amp;Offset&amp;FieldNames&amp;Styles&amp;SourceType={9E4E90DF-6C97-47C0-ABF3-B4C76B750D1B}&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+            <r
+              uid="{0D78E68C-3073-4738-8931-DAB8A9C57402}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Pagination"
+              s:id="{390954AF-B5B3-4A61-928E-0FF2E1E78F94}"
+              s:par="CollapseModeThreshold=10&amp;ListSignature=sign1"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184123Z
