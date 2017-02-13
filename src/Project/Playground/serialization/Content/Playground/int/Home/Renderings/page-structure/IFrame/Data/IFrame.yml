@@ -1,0 +1,20 @@
+﻿---
+ID: "22e154bf-c7b2-42fb-911d-a9c1ea56bd91"
+Parent: "52bad548-60b9-4c90-8abd-f6010b5270e6"
+Template: "8e1f74db-15c0-43f3-85f0-86e4651df912"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-structure/iframe/Data/IFrame"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T221121Z
+    - ID: "4b737984-1eac-4e50-8dd1-883566fa7bde"
+      Hint: Link
+      Value: "<link text=\"Alan's blog\" linktype=\"external\" url=\"http://alan-null.github.io/\" anchor=\"\" target=\"\" />"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

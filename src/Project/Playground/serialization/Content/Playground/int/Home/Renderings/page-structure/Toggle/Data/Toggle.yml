@@ -1,0 +1,20 @@
+﻿---
+ID: "ef3b01a5-608f-4380-a86b-c914df1a442b"
+Parent: "af425fb3-ec6a-4000-be0a-5ef799c4de06"
+Template: "a2cb73c7-0054-4461-aab8-0969fdd2e094"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-structure/toggle/Data/Toggle"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T222853Z
+    - ID: "2d36cf85-84be-42d2-b710-8d13b8844cdd"
+      Hint: Text
+      Value: <strong>Toggle</strong> Datasource
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

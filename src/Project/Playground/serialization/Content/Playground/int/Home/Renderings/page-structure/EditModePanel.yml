@@ -13,6 +13,28 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{19F7A12E-495F-4480-9863-68BD713F49FE}"
+              p:before="*"
+              s:ds=""
+              s:id="{76891D2D-6653-483F-AE86-A77FE6E96AC6}"
+              s:par="FieldNames&amp;Styles"
+              s:ph="/main/edit-panel-" />
+            <r
+              uid="{0FE204D5-A869-43E9-9F65-6A33AC026793}"
+              p:after="*[1=2]"
+              s:id="{FE0F0660-13A7-4AC0-A71A-6CBFE2D158BE}"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184124Z
