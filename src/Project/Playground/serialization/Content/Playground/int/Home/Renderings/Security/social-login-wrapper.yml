@@ -13,6 +13,42 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9A52E536-651D-454D-91AE-E521BBCD510C}"
+              p:before="*"
+              s:id="{A58672D4-0B34-41B2-9CCF-5A48C275FD40}"
+              s:ph="/main/social-login-1" />
+            <r
+              uid="{F4376048-AF5E-49B3-9246-B83BF69B16A4}"
+              p:after="r[@uid='{9A52E536-651D-454D-91AE-E521BBCD510C}']"
+              s:id="{908BA80C-53C7-4607-99B9-04D28C340156}"
+              s:ph="/main/social-login-1" />
+            <r
+              uid="{367EF105-02E1-4227-AD51-8A195F8EC0B8}"
+              p:after="r[@uid='{F4376048-AF5E-49B3-9246-B83BF69B16A4}']"
+              s:id="{22EDCC9B-BD25-442F-B685-4CFC8656F653}"
+              s:ph="/main/social-login-1" />
+            <r
+              uid="{499D7915-2881-4337-8E36-DBD8FC649E18}"
+              p:after="r[@uid='{367EF105-02E1-4227-AD51-8A195F8EC0B8}']"
+              s:id="{E49F6EF0-B94B-4927-8B0E-443468249D9B}"
+              s:ph="/main/social-login-1" />
+            <r
+              uid="{455F81A2-3239-4F2B-A35A-39087E24D8DA}"
+              p:after="*[1=2]"
+              s:id="{CC2EB160-8FA6-4894-B599-2CEE7FC76820}"
+              s:par="Styles&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184126Z

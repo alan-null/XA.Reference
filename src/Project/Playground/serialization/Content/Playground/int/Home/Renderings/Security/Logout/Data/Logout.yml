@@ -1,0 +1,17 @@
+﻿---
+ID: "50fd4a2d-f9f6-410b-a61e-9e078cd10820"
+Parent: "1ef2bc61-4a16-4c4c-9831-1f223272b8f1"
+Template: "c2294d82-35a6-452a-94b1-5eb5e543b602"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/security/logout/Data/Logout
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170213T231309Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
