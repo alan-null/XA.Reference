@@ -1,0 +1,23 @@
+﻿---
+ID: "1b280baa-1204-4c01-b7ee-4075524f8194"
+Parent: "a4e4e919-8a3e-4061-b91c-3e9accae4550"
+Template: "1d840426-5def-4a76-811c-e73da21f64ac"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Twitter Apps/Twitter App
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170214T115119Z
+    - ID: "39ac23af-05d1-4cf6-af8d-0a5433bd86ce"
+      Hint: ConsumerSecret
+      Value: nwgMSlfDds14x4iaowEBtoBrF1O4Xf2k0coFdaquzYKHd5GsQn
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b63dfc4a-758d-4990-83cd-c0f82c9f1364"
+      Hint: ConsumerKey
+      Value: N8odZxKMSKvKOKTGqEdkOzbaD
