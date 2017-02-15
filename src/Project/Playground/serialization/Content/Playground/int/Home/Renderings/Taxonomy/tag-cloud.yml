@@ -13,6 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E9F3769E-0F70-452C-A741-65AD8FDF360F}"
+              s:ds="{0DAE33A2-6F53-473E-8ABD-B054D9BF3B75}"
+              s:id="{2400E52D-F9B3-445D-8629-A69720A22B44}"
+              s:par="SearchResultPage=%7BE6DB34DE-2CA2-4516-B43C-2E2F80164D0F%7D&amp;Facet&amp;FieldNames&amp;Styles"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184126Z
@@ -22,6 +38,9 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
+    - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+      Hint: SxaTags
+      Value: "{F53F255D-E0C3-4104-BAB3-82781CB7A983}"
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{2400E52D-F9B3-445D-8629-A69720A22B44}"

@@ -13,6 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E3E22A6D-38F1-4432-8F65-A2D33AE92288}"
+              s:ds="{C9566991-AACF-4BC4-9AA7-281E5AA0FA2E}"
+              s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+              s:par="SearchSignature&amp;FieldNames={12480C98-3400-435C-87C0-EC1536FAD2F2}&amp;Styles&amp;Scope&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184125Z
@@ -22,6 +38,9 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
+    - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+      Hint: SxaTags
+      Value: "{2F1F4C78-993C-459F-8BFF-C06578ECEF9C}"
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"

@@ -38,6 +38,9 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
+    - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+      Hint: SxaTags
+      Value: "{AA397B3C-081E-4EF9-99F7-3568CDED70BF}"
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{C71B8E71-7FF8-46B0-800E-C5621EFE1D4B}"

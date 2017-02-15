@@ -45,6 +45,9 @@ Languages:
         <p><strong>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</strong></p>
         <p><strong></strong><br />
         "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</p>
+    - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+      Hint: SxaTags
+      Value: "{260D2294-DAE9-41AB-B1CB-A4916E3C0427}"
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
