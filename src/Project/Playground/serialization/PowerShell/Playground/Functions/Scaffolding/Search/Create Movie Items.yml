@@ -1,0 +1,84 @@
+﻿---
+ID: "8de3816f-dd12-4526-8a25-d8bee10892f7"
+Parent: "cb9ee724-82f3-4286-adc1-19eff78e2e1c"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/SXA Reference/Playground/Functions/Scaffolding/Search/Create Movie Items
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    function Get-TagItems($str, $movieCountriesRoot){
+        
+        $str.Split(",") | % { $_.TrimEnd(" ") } | % { $_.TrimStart(" ") } | % {
+            $country = $_.Replace("/","")
+            $countryTag = gci -path $movieCountriesRoot | ? { $_.Name -eq $country}        
+            if($countryTag){
+                
+            }else{
+                write-host "New Tag '$($country)'"
+                if(Test-Path $movieCountriesRoot){
+                    $countryTag = New-Item -Name $country -Type "Feature/Experience Accelerator/Taxonomy/Datasource/Tag" -Path $movieCountriesRoot
+                }else{
+                    Write-Host "Could not find destination ($movieCountriesRoot)" -ForegroundColor Yellow
+                }
+            }
+            $countryTag
+        }    
+    }
+    
+    
+    
+    cd C:\temp\meta
+    $movieCountriesRoot = "master:/sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Country"
+    $movieLanguagesRoot = "master:/sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Language"
+    $movieGenresRoot    = "master:/sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Genre"
+    $movieTypeRoot      = "master:/sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Type"
+    $moviesRoot         = "master:/sitecore/content/SXA Reference/Playground/int/Home/movies"
+    
+    Get-ChildItem . | Select-Object -first 200 | % { 
+        $obj = gc $_ | ConvertFrom-Json 
+        $r = "$($obj.imdbID).json" -eq $_.Name
+        Write-Host "Processing movie: $($obj.imdbID)"
+        if(-not $r){
+            $r
+        }
+     
+        $released =  $obj.Released | ? { $_ -ne "N/A" } | % { Get-Date $_ } | %{ [Sitecore.DateUtil]::ToIsoDate($_) }
+        $movie = New-Item -Path $moviesRoot -ItemType "Project/SXA Reference/Playground/Movie Page" -Name "$($obj.imdbID)"
+        $movie."__Display Name" = $obj.Title
+        
+        $movie."Movie Title"        = $obj.Title
+        $movie."Movie Year"         = $obj.Year
+        $movie."Movie Rated"        = $obj.Rated
+        if($released){
+            $movie."Movie Released" = $released
+        }
+        $movie."Movie Runtime"      = $obj.Runtime.TrimEnd("min").TrimEnd(" ")
+        $movie."Movie Genre"        = Get-TagItems $obj.Genre $movieGenresRoot
+        $movie."Movie Director"     = $obj.Director
+        $movie."Movie Writer"       = $obj.Writer
+        $movie."Movie Actors"       = $obj.Actors
+        $movie."Movie Plot"         = $obj.Plot
+        $movie."Movie Language"     = Get-TagItems $obj.Language $movieLanguagesRoot
+        $movie."Movie Country"      = Get-TagItems $obj.Country $movieCountriesRoot
+        $movie."Movie Awards"       = $obj.Awards
+        $movie."Movie Poster"       = $obj.Poster
+        $movie."Movie Metascore"    = $obj.Metascore
+        $movie."Movie imdbRating"   = $obj.imdbRating
+        $movie."Movie imdbVotes"    = $obj.imdbVotes | %{$_.Replace(",","")}
+        $movie."Movie imdbID"       = $obj.imdbID
+        $movie."Movie Type"         = $obj.Type
+    }
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170215T232752Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

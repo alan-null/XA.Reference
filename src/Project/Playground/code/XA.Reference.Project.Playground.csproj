@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Project\XA.Reference\Playground\XA.Reference.Project.Playground.Serialization.config" />
+    <Content Include="App_Config\Include\Project\XA.Reference\Playground\XA.Reference.Project.Playground.Movies.Serialization.config" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\local.pubxml" />
     <None Include="Web.Debug.config">

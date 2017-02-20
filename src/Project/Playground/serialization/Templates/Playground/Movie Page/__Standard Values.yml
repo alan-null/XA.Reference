@@ -1,0 +1,19 @@
+﻿---
+ID: "8a6e2ffc-259d-43a7-ba99-bef25f92b1b9"
+Parent: "dfcef4ae-c894-463e-bd77-35cd002fc481"
+Template: "dfcef4ae-c894-463e-bd77-35cd002fc481"
+Path: /sitecore/templates/Project/SXA Reference/Playground/Movie Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T160803Z

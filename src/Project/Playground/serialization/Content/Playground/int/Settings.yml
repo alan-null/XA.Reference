@@ -39,6 +39,28 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T133339Z
+    - ID: "4b5d1cb7-e617-4cd0-a7e8-cc8a9fd80688"
+      Hint: Rule
+      Type: Rules
+      Value: |
+        <ruleset>
+          <rule
+            uid="{2444CF9C-DB60-4373-9825-F363D7A65FB5}">
+            <conditions>
+              <condition
+                id="{E7888105-3B3F-4BD1-B60F-5461EEF4A811}"
+                uid="9D331B65FCCD456ABC9FD79FA765471E"
+                operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+                value="{81003E8D-4232-433D-849E-6CA9574B5BD1}" />
+            </conditions>
+            <actions>
+              <action
+                id="{607FBC3F-6DD1-49C9-9930-0FBD06B99C31}"
+                uid="BEA803F6456244ACB9B2B24E9B20A513"
+                levels="2" />
+            </actions>
+          </rule>
+        </ruleset>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
