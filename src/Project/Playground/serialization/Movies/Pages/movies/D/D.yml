@@ -1,0 +1,17 @@
+﻿---
+ID: "f89bf8ef-2e53-48db-b987-aad3f0e180f4"
+Parent: "3e6068b9-fb92-43c0-bcf5-56818dae85cd"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/D/D
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T195437Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

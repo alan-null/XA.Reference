@@ -1,0 +1,20 @@
+﻿---
+ID: "8759648f-d3ca-41ea-b04b-8f572b3aa1a8"
+Parent: "b00d7a0a-4144-45df-8a48-48156f39c49b"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Language/Georgian
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T200946Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b8a8b6c9-4757-496b-9aae-5f46ff381563"
+      Hint: Title
+      Value: Georgian

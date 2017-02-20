@@ -1,0 +1,79 @@
+﻿---
+ID: "c2beda0d-f1e2-4492-aa5c-f18a9e2f1b78"
+Parent: "fe8bcf31-2c02-4fc9-a4b4-e8d7551a31c7"
+Template: "dfcef4ae-c894-463e-bd77-35cd002fc481"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/C/2/tt1690953
+DB: master
+SharedFields:
+- ID: "01132db9-0657-4a7f-af80-ad7b965454ae"
+  Hint: Movie Language
+  Value: "{9A24BA90-DE71-463C-9D66-1C202F875771}|{5528348E-E045-45BA-B027-BD6D7E6CCC23}"
+- ID: "4f977a9f-57e3-4c01-b1b4-6b53156ba8c5"
+  Hint: Movie Year
+  Value: 2013
+- ID: "75249d5e-18f3-4dba-bec2-237d7f39ffc5"
+  Hint: Movie Poster
+  Value: "<image mediaid=\"{21D2692E-57EA-45DB-9B59-E1FA5476AB18}\" />"
+- ID: "8524fb3c-46bf-4090-85de-94049becc857"
+  Hint: Movie imdbVotes
+  Value: 297504
+- ID: "9078db0a-e73c-46b3-8c23-8b63463ebdd1"
+  Hint: Movie Country
+  Value: "{9561297F-BE4A-4745-A87E-96D56E301843}"
+- ID: "9d2832c8-5782-4335-a2a2-ef7d48c4ae60"
+  Hint: Movie Released
+  Value: 20130703T000000
+- ID: "a21a3a2f-497f-4872-9505-f0c9697748c0"
+  Hint: Movie Rated
+  Value: "{F5BC92C0-F894-42BA-BC9F-E3B1FEFE6CE8}"
+- ID: "b4e80fe4-a7f8-4cbe-bab5-df1636bc493e"
+  Hint: Movie Runtime
+  Value: 98
+- ID: "baefaac0-0ffb-48d9-be64-dfbc6a1ec59e"
+  Hint: Movie Metascore
+  Value: 62
+- ID: "bd6152db-b1c8-4b92-88d0-b8d87695b227"
+  Hint: Movie imdbID
+  Value: tt1690953
+- ID: "cacc803a-0b5f-4c75-bc20-faea932ab518"
+  Hint: Movie Type
+  Value: "{0C167B05-32AC-435F-9E5A-12D6D2DDE2AC}"
+- ID: "efeefe0c-ed0f-41eb-8ba9-6947f47993f9"
+  Hint: Movie imdbRating
+  Value: 7.5
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Despicable Me 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2782c7-80cd-491f-a30d-df6d657a0d0a"
+      Hint: Movie Actors
+      Value: Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T205819Z
+    - ID: "2b86f975-2e42-46e1-8c6c-7716337c3231"
+      Hint: Movie Title
+      Value: Despicable Me 2
+    - ID: "2c5fecdc-66d3-487d-9eae-837696727a4e"
+      Hint: Movie Genre
+      Value: "{718D2727-C9D3-4F36-903C-0134FD091AD0}|{0B84023E-5805-4939-A0C0-DE39B28B0DBC}|{B684729A-4393-4862-BB7B-57717ED9242F}"
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: tt1690953
+    - ID: "aa867dd9-d0a8-4bc7-9430-fbf753244d1e"
+      Hint: Movie Plot
+      Value: "When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness."
+    - ID: "cd186b1d-fed2-405d-8c19-014e3db8e56a"
+      Hint: Movie Director
+      Value: Pierre Coffin, Chris Renaud
+    - ID: "f0c88408-24af-46ce-8599-404a911ab1c7"
+      Hint: Movie Writer
+      Value: Cinco Paul, Ken Daurio
+    - ID: "f4b02fda-3dc5-43a7-b515-73cf4e055b8c"
+      Hint: Movie Awards
+      Value: Nominated for 2 Oscars. Another 12 wins & 63 nominations.

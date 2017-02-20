@@ -1,0 +1,79 @@
+﻿---
+ID: "6a46530c-8841-4d78-824a-540d14a105f5"
+Parent: "57b8c236-95c6-475e-b302-39eaeb8c6c42"
+Template: "dfcef4ae-c894-463e-bd77-35cd002fc481"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/6/A/tt2521668
+DB: master
+SharedFields:
+- ID: "01132db9-0657-4a7f-af80-ad7b965454ae"
+  Hint: Movie Language
+  Value: "{60278B03-AAEF-4194-9014-93B4016A2E5E}"
+- ID: "4f977a9f-57e3-4c01-b1b4-6b53156ba8c5"
+  Hint: Movie Year
+  Value: 2012–
+- ID: "75249d5e-18f3-4dba-bec2-237d7f39ffc5"
+  Hint: Movie Poster
+  Value: "<image mediaid=\"{10D0379B-2D1B-4ADA-8BB4-51AFEC7D45D2}\" />"
+- ID: "8524fb3c-46bf-4090-85de-94049becc857"
+  Hint: Movie imdbVotes
+  Value: 16371
+- ID: "9078db0a-e73c-46b3-8c23-8b63463ebdd1"
+  Hint: Movie Country
+  Value: "{4AF51687-CB05-4389-86C5-38C5C1F12788}"
+- ID: "9d2832c8-5782-4335-a2a2-ef7d48c4ae60"
+  Hint: Movie Released
+  Value: 20131031T000000
+- ID: "a21a3a2f-497f-4872-9505-f0c9697748c0"
+  Hint: Movie Rated
+  Value: "{E60A07C2-DAF1-455E-B18A-8D9224A363DE}"
+- ID: "b4e80fe4-a7f8-4cbe-bab5-df1636bc493e"
+  Hint: Movie Runtime
+  Value: 52
+- ID: "baefaac0-0ffb-48d9-be64-dfbc6a1ec59e"
+  Hint: Movie Metascore
+  Value: N/A
+- ID: "bd6152db-b1c8-4b92-88d0-b8d87695b227"
+  Hint: Movie imdbID
+  Value: tt2521668
+- ID: "cacc803a-0b5f-4c75-bc20-faea932ab518"
+  Hint: Movie Type
+  Value: "{7D4DAD3C-91FE-4BC4-896A-8A367B5DF586}"
+- ID: "efeefe0c-ed0f-41eb-8ba9-6947f47993f9"
+  Hint: Movie imdbRating
+  Value: 8.3
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: The Returned
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2782c7-80cd-491f-a30d-df6d657a0d0a"
+      Hint: Movie Actors
+      Value: Anne Consigny, Clotilde Hesme, Frédéric Pierrot, Céline Sallette
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T210904Z
+    - ID: "2b86f975-2e42-46e1-8c6c-7716337c3231"
+      Hint: Movie Title
+      Value: The Returned
+    - ID: "2c5fecdc-66d3-487d-9eae-837696727a4e"
+      Hint: Movie Genre
+      Value: "{7C53AC0C-426E-45D1-A9A7-4EEC016BD398}|{33DDAA2E-44C8-4F10-ADD9-AAB2A7C76B92}|{E6EE6210-C94B-40D9-8813-20A780054630}"
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: tt2521668
+    - ID: "aa867dd9-d0a8-4bc7-9430-fbf753244d1e"
+      Hint: Movie Plot
+      Value: "The Returned opens in a small mountain community which is rocked to its core when several local people who are presumed dead suddenly re-appear at their homes. Despite having passed away ..."
+    - ID: "cd186b1d-fed2-405d-8c19-014e3db8e56a"
+      Hint: Movie Director
+      Value: N/A
+    - ID: "f0c88408-24af-46ce-8599-404a911ab1c7"
+      Hint: Movie Writer
+      Value: Fabrice Gobert
+    - ID: "f4b02fda-3dc5-43a7-b515-73cf4e055b8c"
+      Hint: Movie Awards
+      Value: 3 wins & 3 nominations.

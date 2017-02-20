@@ -1,0 +1,20 @@
+﻿---
+ID: "4e4aa255-bac1-44b1-b4e9-a735c721ce52"
+Parent: "ecc307a1-d81c-4e9f-9bee-bfdd4ca2b4ae"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Rate/G
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T220357Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b8a8b6c9-4757-496b-9aae-5f46ff381563"
+      Hint: Title
+      Value: G

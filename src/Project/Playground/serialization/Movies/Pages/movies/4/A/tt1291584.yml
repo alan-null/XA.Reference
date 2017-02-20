@@ -1,0 +1,79 @@
+﻿---
+ID: "4a191e5a-270d-4bdc-8304-c76b979cbbfe"
+Parent: "10a2a8b0-21a0-4340-a278-7930d2d67bf5"
+Template: "dfcef4ae-c894-463e-bd77-35cd002fc481"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/4/A/tt1291584
+DB: master
+SharedFields:
+- ID: "01132db9-0657-4a7f-af80-ad7b965454ae"
+  Hint: Movie Language
+  Value: "{9A24BA90-DE71-463C-9D66-1C202F875771}|{B2CD9C94-C422-4E78-90B6-E0EE3D64AB5A}"
+- ID: "4f977a9f-57e3-4c01-b1b4-6b53156ba8c5"
+  Hint: Movie Year
+  Value: 2011
+- ID: "75249d5e-18f3-4dba-bec2-237d7f39ffc5"
+  Hint: Movie Poster
+  Value: "<image mediaid=\"{34405950-00EC-4DE0-A2E6-F0CF64F57F13}\" />"
+- ID: "8524fb3c-46bf-4090-85de-94049becc857"
+  Hint: Movie imdbVotes
+  Value: 346532
+- ID: "9078db0a-e73c-46b3-8c23-8b63463ebdd1"
+  Hint: Movie Country
+  Value: "{9561297F-BE4A-4745-A87E-96D56E301843}"
+- ID: "9d2832c8-5782-4335-a2a2-ef7d48c4ae60"
+  Hint: Movie Released
+  Value: 20110909T000000
+- ID: "a21a3a2f-497f-4872-9505-f0c9697748c0"
+  Hint: Movie Rated
+  Value: "{DF23693D-3040-473E-A545-ABFF3862B31A}"
+- ID: "b4e80fe4-a7f8-4cbe-bab5-df1636bc493e"
+  Hint: Movie Runtime
+  Value: 140
+- ID: "baefaac0-0ffb-48d9-be64-dfbc6a1ec59e"
+  Hint: Movie Metascore
+  Value: 71
+- ID: "bd6152db-b1c8-4b92-88d0-b8d87695b227"
+  Hint: Movie imdbID
+  Value: tt1291584
+- ID: "cacc803a-0b5f-4c75-bc20-faea932ab518"
+  Hint: Movie Type
+  Value: "{0C167B05-32AC-435F-9E5A-12D6D2DDE2AC}"
+- ID: "efeefe0c-ed0f-41eb-8ba9-6947f47993f9"
+  Hint: Movie imdbRating
+  Value: 8.2
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Warrior
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2782c7-80cd-491f-a30d-df6d657a0d0a"
+      Hint: Movie Actors
+      Value: Joel Edgerton, Tom Hardy, Nick Nolte, Jennifer Morrison
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T204854Z
+    - ID: "2b86f975-2e42-46e1-8c6c-7716337c3231"
+      Hint: Movie Title
+      Value: Warrior
+    - ID: "2c5fecdc-66d3-487d-9eae-837696727a4e"
+      Hint: Movie Genre
+      Value: "{6B1EB4B0-54A3-41CD-B3F0-880BF3A0ABDA}|{7C53AC0C-426E-45D1-A9A7-4EEC016BD398}|{C5C03F52-DBD3-471E-9BA1-98A81D67DDBF}"
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: tt1291584
+    - ID: "aa867dd9-d0a8-4bc7-9430-fbf753244d1e"
+      Hint: Movie Plot
+      Value: "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother."
+    - ID: "cd186b1d-fed2-405d-8c19-014e3db8e56a"
+      Hint: Movie Director
+      Value: Gavin O'Connor
+    - ID: "f0c88408-24af-46ce-8599-404a911ab1c7"
+      Hint: Movie Writer
+      Value: Gavin O'Connor (screenplay), Anthony Tambakis (screenplay), Cliff Dorfman (screenplay), Gavin O'Connor (story), Cliff Dorfman (story)
+    - ID: "f4b02fda-3dc5-43a7-b515-73cf4e055b8c"
+      Hint: Movie Awards
+      Value: Nominated for 1 Oscar. Another 6 wins & 20 nominations.

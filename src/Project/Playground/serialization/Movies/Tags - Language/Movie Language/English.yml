@@ -1,0 +1,14 @@
+﻿---
+ID: "9a24ba90-de71-463c-9d66-1c202f875771"
+Parent: "b00d7a0a-4144-45df-8a48-48156f39c49b"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Language/English
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20170220T182132:636232116929187973Z"

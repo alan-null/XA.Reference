@@ -1,0 +1,14 @@
+﻿---
+ID: "cf064847-f0c3-4939-b63a-5b99309a1099"
+Parent: "bdfd68ae-77d9-40c6-ae74-7a065ec6adbb"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Genre/Family
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20170220T182132:636232116928932912Z"

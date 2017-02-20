@@ -1,0 +1,79 @@
+﻿---
+ID: "c5ba0811-89b3-4d89-95e4-247d67b0f84a"
+Parent: "9ef1d7d3-dc19-46fe-862c-2fc8d5625920"
+Template: "dfcef4ae-c894-463e-bd77-35cd002fc481"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/C/5/tt0131646
+DB: master
+SharedFields:
+- ID: "01132db9-0657-4a7f-af80-ad7b965454ae"
+  Hint: Movie Language
+  Value: "{9A24BA90-DE71-463C-9D66-1C202F875771}"
+- ID: "4f977a9f-57e3-4c01-b1b4-6b53156ba8c5"
+  Hint: Movie Year
+  Value: 1999
+- ID: "75249d5e-18f3-4dba-bec2-237d7f39ffc5"
+  Hint: Movie Poster
+  Value: "<image mediaid=\"{080FF86A-144B-4F9D-B050-82DD60396A5B}\" />"
+- ID: "8524fb3c-46bf-4090-85de-94049becc857"
+  Hint: Movie imdbVotes
+  Value: 14912
+- ID: "9078db0a-e73c-46b3-8c23-8b63463ebdd1"
+  Hint: Movie Country
+  Value: "{9561297F-BE4A-4745-A87E-96D56E301843}|{8D53E3BD-27C9-4D8C-BFED-AE81F25831FF}"
+- ID: "9d2832c8-5782-4335-a2a2-ef7d48c4ae60"
+  Hint: Movie Released
+  Value: 19990312T000000
+- ID: "a21a3a2f-497f-4872-9505-f0c9697748c0"
+  Hint: Movie Rated
+  Value: "{DF23693D-3040-473E-A545-ABFF3862B31A}"
+- ID: "b4e80fe4-a7f8-4cbe-bab5-df1636bc493e"
+  Hint: Movie Runtime
+  Value: 100
+- ID: "baefaac0-0ffb-48d9-be64-dfbc6a1ec59e"
+  Hint: Movie Metascore
+  Value: 21
+- ID: "bd6152db-b1c8-4b92-88d0-b8d87695b227"
+  Hint: Movie imdbID
+  Value: tt0131646
+- ID: "cacc803a-0b5f-4c75-bc20-faea932ab518"
+  Hint: Movie Type
+  Value: "{0C167B05-32AC-435F-9E5A-12D6D2DDE2AC}"
+- ID: "efeefe0c-ed0f-41eb-8ba9-6947f47993f9"
+  Hint: Movie imdbRating
+  Value: 4.1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Wing Commander
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2782c7-80cd-491f-a30d-df6d657a0d0a"
+      Hint: Movie Actors
+      Value: Freddie Prinze Jr., Saffron Burrows, Matthew Lillard, Tchéky Karyo
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T200524Z
+    - ID: "2b86f975-2e42-46e1-8c6c-7716337c3231"
+      Hint: Movie Title
+      Value: Wing Commander
+    - ID: "2c5fecdc-66d3-487d-9eae-837696727a4e"
+      Hint: Movie Genre
+      Value: "{6B1EB4B0-54A3-41CD-B3F0-880BF3A0ABDA}|{0B84023E-5805-4939-A0C0-DE39B28B0DBC}|{9E1122C9-1183-424B-A65F-C4EE069B30B6}"
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: tt0131646
+    - ID: "aa867dd9-d0a8-4bc7-9430-fbf753244d1e"
+      Hint: Movie Plot
+      Value: Blair, a fighter pilot, joins an interstellar war to fight the evil Kilrathi who are trying to destroy the universe.
+    - ID: "cd186b1d-fed2-405d-8c19-014e3db8e56a"
+      Hint: Movie Director
+      Value: Chris Roberts
+    - ID: "f0c88408-24af-46ce-8599-404a911ab1c7"
+      Hint: Movie Writer
+      Value: Chris Roberts (characters), Chris Roberts (story), Kevin Droney (screen story), Kevin Droney (screenplay)
+    - ID: "f4b02fda-3dc5-43a7-b515-73cf4e055b8c"
+      Hint: Movie Awards
+      Value: N/A

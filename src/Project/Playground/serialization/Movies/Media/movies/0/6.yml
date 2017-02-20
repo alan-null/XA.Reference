@@ -1,0 +1,14 @@
+﻿---
+ID: "880b1315-8a4b-4426-90b8-30ce24a56d73"
+Parent: "2f9d8781-9156-4d18-a563-ccb11c2a6412"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/SXA Reference/Playground/movies/0/6
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T212803Z

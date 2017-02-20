@@ -1,0 +1,14 @@
+﻿---
+ID: "b6dff3ca-ff2b-4b96-8e05-a754fcaf38b3"
+Parent: "afa56517-650e-4236-a5e7-c9534f56ccdf"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Country/Germany
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20170220T182133:636232116932891280Z"

@@ -1,0 +1,79 @@
+﻿---
+ID: "97eb920d-1fe1-4133-9a1b-56c4eebf206b"
+Parent: "a8e09730-7365-4983-94fb-4f9dfb7f0c39"
+Template: "dfcef4ae-c894-463e-bd77-35cd002fc481"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/9/7/tt0092337
+DB: master
+SharedFields:
+- ID: "01132db9-0657-4a7f-af80-ad7b965454ae"
+  Hint: Movie Language
+  Value: "{2C90183C-27CF-45DF-8E66-8D1162FDC5F8}"
+- ID: "4f977a9f-57e3-4c01-b1b4-6b53156ba8c5"
+  Hint: Movie Year
+  Value: 1989
+- ID: "75249d5e-18f3-4dba-bec2-237d7f39ffc5"
+  Hint: Movie Poster
+  Value: "<image mediaid=\"{E9CD4429-3DEC-441B-AEC0-B96412FD1009}\" />"
+- ID: "8524fb3c-46bf-4090-85de-94049becc857"
+  Hint: Movie imdbVotes
+  Value: 13270
+- ID: "9078db0a-e73c-46b3-8c23-8b63463ebdd1"
+  Hint: Movie Country
+  Value: "{0935D848-2584-48BB-9AD0-22501E7CC0A9}|{2BEDF82F-9A65-4D1C-989A-7F8A46B3B762}"
+- ID: "9d2832c8-5782-4335-a2a2-ef7d48c4ae60"
+  Hint: Movie Released
+  Value: 19891210T000000
+- ID: "a21a3a2f-497f-4872-9505-f0c9697748c0"
+  Hint: Movie Rated
+  Value: "{E60A07C2-DAF1-455E-B18A-8D9224A363DE}"
+- ID: "b4e80fe4-a7f8-4cbe-bab5-df1636bc493e"
+  Hint: Movie Runtime
+  Value: 572
+- ID: "baefaac0-0ffb-48d9-be64-dfbc6a1ec59e"
+  Hint: Movie Metascore
+  Value: 100
+- ID: "bd6152db-b1c8-4b92-88d0-b8d87695b227"
+  Hint: Movie imdbID
+  Value: tt0092337
+- ID: "cacc803a-0b5f-4c75-bc20-faea932ab518"
+  Hint: Movie Type
+  Value: "{7D4DAD3C-91FE-4BC4-896A-8A367B5DF586}"
+- ID: "efeefe0c-ed0f-41eb-8ba9-6947f47993f9"
+  Hint: Movie imdbRating
+  Value: 9.1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Dekalog
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2782c7-80cd-491f-a30d-df6d657a0d0a"
+      Hint: Movie Actors
+      Value: Artur Barcis, Olgierd Lukaszewicz, Olaf Lubaszenko, Piotr Machalica
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T195704Z
+    - ID: "2b86f975-2e42-46e1-8c6c-7716337c3231"
+      Hint: Movie Title
+      Value: Dekalog
+    - ID: "2c5fecdc-66d3-487d-9eae-837696727a4e"
+      Hint: Movie Genre
+      Value: "{7C53AC0C-426E-45D1-A9A7-4EEC016BD398}"
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: tt0092337
+    - ID: "aa867dd9-d0a8-4bc7-9430-fbf753244d1e"
+      Hint: Movie Plot
+      Value: Ten television drama films, each one based on one of the Ten Commandments.
+    - ID: "cd186b1d-fed2-405d-8c19-014e3db8e56a"
+      Hint: Movie Director
+      Value: N/A
+    - ID: "f0c88408-24af-46ce-8599-404a911ab1c7"
+      Hint: Movie Writer
+      Value: N/A
+    - ID: "f4b02fda-3dc5-43a7-b515-73cf4e055b8c"
+      Hint: Movie Awards
+      Value: 9 wins.
