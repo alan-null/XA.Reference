@@ -1,0 +1,24 @@
+﻿---
+ID: "e09afa13-db45-43c5-a2a2-61a7ab6cfc7f"
+Parent: "dfbcdb07-17c0-4233-9f05-c933d6216f95"
+Template: "6354d18e-54e9-45ad-9ec7-510769db4809"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Page Content/Movie Info/Movie Released/Movie Country
+DB: master
+SharedFields:
+- ID: "6a018521-3d58-4cdd-98fc-88be689650d5"
+  Hint: PassThroughField
+  Value: Movie Country
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T231320Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
