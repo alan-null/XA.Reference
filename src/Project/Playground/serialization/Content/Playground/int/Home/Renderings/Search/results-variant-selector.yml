@@ -13,6 +13,25 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8F8429DC-8E28-46C3-866D-16713E5E4957}"
+              s:ds=""
+              s:id="{54A41030-BFF4-49E5-90FC-42A99E602863}"
+              s:par="SearchSignature&amp;Styles&amp;AvailableVariants=%7B568F1C40-087F-4FB5-819F-BEF67EC08269%7D%7C%7B2CA6BDE6-69BC-4D2A-AC6B-6DD88E300CF9%7D"
+              s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
+          </d>
+        </r>
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{647D0A2E-1AF8-4DC0-8531-C93280B85F71}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184125Z

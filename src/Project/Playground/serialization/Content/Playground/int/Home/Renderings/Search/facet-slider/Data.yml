@@ -1,0 +1,17 @@
+﻿---
+ID: "bea64b7f-e7ca-4187-bb96-9c02348bc8fb"
+Parent: "05919a88-834f-4291-aaca-25ae790deea9"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/facet-slider/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T202028Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

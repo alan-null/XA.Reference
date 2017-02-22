@@ -1,0 +1,17 @@
+﻿---
+ID: "4d90265d-5d87-4a64-8a19-6c68945ebd75"
+Parent: "0d8eac65-a671-4a23-868b-7ef23fc530af"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/managed-range-filter/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T204751Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

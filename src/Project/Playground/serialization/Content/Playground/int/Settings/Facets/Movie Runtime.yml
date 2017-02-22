@@ -1,0 +1,24 @@
+﻿---
+ID: "0ea1cd51-1c95-483e-b28e-be6af784b594"
+Parent: "5a796b66-22fa-4e47-9b14-e27d51164f8a"
+Template: "cd7a8a06-aa77-45e9-a585-da9c4686b129"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Facets/Movie Runtime
+DB: master
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: movie_runtime
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T202219Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Movie Runtime
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

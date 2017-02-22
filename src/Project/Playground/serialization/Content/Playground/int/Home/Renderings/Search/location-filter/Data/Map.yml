@@ -1,0 +1,36 @@
+﻿---
+ID: "fc3f922d-dcd1-433b-a399-81d348410489"
+Parent: "de59cf36-9b85-4410-98c0-7692b30a6450"
+Template: "0aacd498-cea9-4e37-8ca0-61d1f024fb34"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/location-filter/Data/Map"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170222T093828Z
+    - ID: "37b1dd2c-ac94-4281-b9b5-c6437028072a"
+      Hint: CentralPointLongitude
+      Value: 20.2729815
+    - ID: "54addae0-9c54-42a0-9220-5aaac5312e1a"
+      Hint: Zoom
+      Value: "{5B19A359-69D0-45EF-81A9-FF5526E2DA3C}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "61bbf86d-0746-47db-92bd-3183d997cbe5"
+      Hint: Width
+      Value: 1000
+    - ID: "d9dd5de6-af41-4d3b-9f73-4ff9bd05898b"
+      Hint: CentralPointMode
+      Value: "{4D3501A6-E34B-4E19-B6B2-BDA2CFDA2C8A}"
+    - ID: "df9686ee-85f7-4ad3-bdd2-8a28d31740df"
+      Hint: POI
+      Type: Treelist
+      Value: "{96382947-4472-4672-B73D-89F8FA83FE06}"
+    - ID: "fcc4f148-2f8a-4310-a898-c38fee380e9e"
+      Hint: CentralPointLatidiute
+      Value: 52.2265674

@@ -1,0 +1,23 @@
+﻿---
+ID: "c4d6fe2c-ebf3-445f-a67b-e754e12f2c0d"
+Parent: "5d3eb207-6484-4c1f-b681-fbce905ad6a4"
+Template: "aaad4aad-2907-44dc-90b6-9e4e83a661ec"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/radius-filter/Data/Location Finder"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "250020ad-40d0-4d04-a79c-3aac82fe9aeb"
+      Hint: SearchButtonText
+      Value: Find
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170222T093048Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "8a67fca9-7e15-4b7c-b6b8-86f37cafe720"
+      Hint: Facet
+      Value: "{F120C4FC-88FA-4D2B-AED9-1D0B3ADCACEA}"

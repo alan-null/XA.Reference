@@ -1,0 +1,45 @@
+﻿---
+ID: "555a7f7f-36b0-4457-af24-4342d1f327ea"
+Parent: "c829aabd-3371-40d9-a6b9-a12e67757992"
+Template: "0a1787c2-96b5-4d40-8285-22564a5d8e03"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/range-slider-filter/Data/Filter Range Slider"
+DB: master
+SharedFields:
+- ID: "525e680a-29ab-415f-ae0c-724941c506fa"
+  Hint: MaxRangeValue
+  Value: 10
+- ID: "609d6909-8059-4e1b-98b6-ab7cc0ff77df"
+  Hint: MinRangeValue
+  Value: 0
+- ID: "928fa1b1-13bf-41e8-837e-d3d4ee505c0d"
+  Hint: ChangeStep
+  Value: 0,1
+- ID: "afb416d9-8261-4614-837a-ee61e78f9e84"
+  Hint: SelectedMaxValue
+  Value: 10
+- ID: "e7055ff1-f28b-4516-9e67-4adc1de1ab28"
+  Hint: SelectedMinValue
+  Value: 0
+- ID: "f1b4cec1-36b7-4a29-8a14-e7034e70f036"
+  Hint: Facet
+  Value: "{5E88F363-979F-4456-B174-3D0BA4B9A920}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T205331Z
+    - ID: "57008eba-acb7-4f86-a239-57c8027c2afe"
+      Hint: RemoveFilterText
+      Value: Clear
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Movie Rating
+    - ID: "c9d34357-c9bf-471b-a742-957bd73168db"
+      Hint: FormatString
+      Value: "Movies with rating between {from}-{to}"

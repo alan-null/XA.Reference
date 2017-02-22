@@ -1,0 +1,27 @@
+﻿---
+ID: "97420c69-d96b-418f-bcca-6fada2da156d"
+Parent: "f7b8a77a-5235-4da1-8346-b0da0495cac5"
+Template: "ea45c3ad-8e63-4e2a-bcc0-9e4c06f2aa12"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Search/Radius Filter/Radius Scheme/300km
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170222T093613Z
+    - ID: "4f892959-fde6-4020-8569-2cf934ba412c"
+      Hint: Value
+      Value: 300
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "6f0451f9-bf0e-4420-ad61-82bb14a257f9"
+      Hint: Title
+      Value: 300km

@@ -1,0 +1,24 @@
+﻿---
+ID: "1d81fa46-defe-4815-85af-45dbd2e10437"
+Parent: "5a796b66-22fa-4e47-9b14-e27d51164f8a"
+Template: "cd7a8a06-aa77-45e9-a585-da9c4686b129"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Facets/Movie Metascore
+DB: master
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: movie_metascore
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T202331Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Movie Metascore
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

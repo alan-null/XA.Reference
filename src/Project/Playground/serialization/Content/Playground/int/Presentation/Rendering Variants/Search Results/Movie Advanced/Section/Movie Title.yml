@@ -1,17 +1,19 @@
 ﻿---
-ID: "32a8ad4b-204e-464e-b748-b39b9fa72405"
-Parent: "fb85ae86-9b49-4047-963c-96521e880661"
+ID: "6357b94a-085a-4e41-94ca-23afa9e8f11d"
+Parent: "e923849b-fe65-453f-931c-46f540fee30c"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/SXA Reference/Playground/int/Settings/Browser Title/Title
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Search Results/Movie Advanced/Section/Movie Title
 DB: master
-BranchID: "cdd7e389-d931-4f1e-96ca-acb4deb8a64a"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: Title
+  Value: Movie Title
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: 
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: 
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
 Languages:
 - Language: en
   Versions:
@@ -19,7 +21,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170212T133413Z
+      Value: 20170221T195622Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

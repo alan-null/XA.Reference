@@ -1,0 +1,24 @@
+﻿---
+ID: "46afaa7c-cf40-4518-b553-3d8d56f636c7"
+Parent: "5a796b66-22fa-4e47-9b14-e27d51164f8a"
+Template: "43a7d301-17c0-44ff-bf47-e0c4cf6c891e"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Facets/Movie Released
+DB: master
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: movie_released
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T194611Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Movie Released
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

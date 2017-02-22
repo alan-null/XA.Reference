@@ -1,0 +1,36 @@
+﻿---
+ID: "fed0301b-c1e3-4551-9ad2-fa8b67d2b239"
+Parent: "4d90265d-5d87-4a64-8a19-6c68945ebd75"
+Template: "b3c7d7ef-474b-4447-a138-7894632ce199"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/managed-range-filter/Data/Filter Managed Range"
+DB: master
+SharedFields:
+- ID: "42c9489b-01b9-4533-9cac-1a84a4b4ab65"
+  Hint: Facet
+  Value: "{0EA1CD51-1C95-483E-B28E-BE6AF784B594}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d2ad3b3-aff3-4eb3-b186-efe2ee02de2e"
+      Hint: GoButtonLabel
+      Value: Filter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T204752Z
+    - ID: "3020ef4a-7b7f-4ed3-a220-2d78cf210974"
+      Hint: ToLabel
+      Value: To
+    - ID: "57008eba-acb7-4f86-a239-57c8027c2afe"
+      Hint: RemoveFilterText
+      Value: Clear
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "8c61c2d2-3b16-4e39-831d-9e45abb9454c"
+      Hint: FromLabel
+      Value: From
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Movie Runtime

@@ -13,6 +13,25 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DE7A6E4C-EC5F-41D4-83AC-3FA181FEA85B}"
+              s:ds="local:/Data/Filter Date"
+              s:id="{09EAAD94-9FE3-4649-A8B1-EB19AA1ABDFB}"
+              s:par="SearchSignature&amp;Styles&amp;FromDateDefaultOffset&amp;FromDateDisplayFormat=%7B0FC94EAC-0429-4D57-832F-E31BD9E5B71B%7D&amp;FromDateMonthsShown=1&amp;FromDatePastDays=1&amp;FromDateVisible=1&amp;ToDateDefaultOffset&amp;ToDateDisplayFormat=%7B0FC94EAC-0429-4D57-832F-E31BD9E5B71B%7D&amp;ToDateMonthsShown=1&amp;ToDateFutureDays=1&amp;ToDateVisible=1"
+              s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
+          </d>
+        </r>
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{647D0A2E-1AF8-4DC0-8531-C93280B85F71}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184124Z

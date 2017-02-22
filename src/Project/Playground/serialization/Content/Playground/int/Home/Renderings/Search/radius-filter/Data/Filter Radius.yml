@@ -1,0 +1,27 @@
+﻿---
+ID: "7309e213-911d-419b-be43-a796fc357fdc"
+Parent: "5d3eb207-6484-4c1f-b681-fbce905ad6a4"
+Template: "de3fa58e-ef9d-4544-9f77-dcd1dbb05b64"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/radius-filter/Data/Filter Radius"
+DB: master
+SharedFields:
+- ID: "ae5d211a-4ff1-4e9e-ba0f-9442b0abca91"
+  Hint: Facet
+  Value: "{F120C4FC-88FA-4D2B-AED9-1D0B3ADCACEA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170222T093123Z
+    - ID: "57008eba-acb7-4f86-a239-57c8027c2afe"
+      Hint: RemoveFilterText
+      Value: Clear
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Distance

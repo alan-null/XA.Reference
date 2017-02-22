@@ -1,0 +1,42 @@
+﻿---
+ID: "d9a3cf3b-0fbd-4ca6-82a3-e0614dfc366c"
+Parent: "bea64b7f-e7ca-4187-bb96-9c02348bc8fb"
+Template: "995ce2c7-319f-478b-84fe-22053ac85bb7"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/facet-slider/Data/Filter Slider"
+DB: master
+SharedFields:
+- ID: "0b1358cb-0123-494c-a786-f160f7faa337"
+  Hint: ChangeStep
+  Value: 1
+- ID: "5fd6392a-5778-4203-8c08-70115f38b4f3"
+  Hint: MinValue
+  Value: 1
+- ID: "94db1e7d-b26a-400e-95d6-9186e9ac7394"
+  Hint: Facet
+  Value: "{1D81FA46-DEFE-4815-85AF-45DBD2E10437}"
+- ID: "9eecbce9-8e42-4df4-8fde-50bb4e2f2bd2"
+  Hint: MaxValue
+  Value: 100
+- ID: "d388278b-fb70-4132-94b4-5a7b0158c934"
+  Hint: SelectedValue
+  Value: 80
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T202029Z
+    - ID: "2952c881-dd21-432d-9e4e-6a2efc87bee2"
+      Hint: FormatString
+      Value: "Movie with meta score: {value} "
+    - ID: "57008eba-acb7-4f86-a239-57c8027c2afe"
+      Hint: RemoveFilterText
+      Value: Clear
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Movie Metascore

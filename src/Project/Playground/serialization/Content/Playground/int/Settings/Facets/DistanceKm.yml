@@ -1,0 +1,20 @@
+﻿---
+ID: "f120c4fc-88fa-4d2b-aed9-1d0b3adcacea"
+Parent: "5a796b66-22fa-4e47-9b14-e27d51164f8a"
+Template: "bb3e6dc9-97aa-47fa-a5ea-7d833a9c4cfc"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Facets/DistanceKm
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170222T093308Z
+    - ID: "2c054663-0478-41ff-8f50-5d5d69cba936"
+      Hint: Unit
+      Value: Kilometers
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

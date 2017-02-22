@@ -25,10 +25,13 @@ Languages:
               uid="{E3E22A6D-38F1-4432-8F65-A2D33AE92288}"
               s:ds="{C9566991-AACF-4BC4-9AA7-281E5AA0FA2E}"
               s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
-              s:par="SearchSignature&amp;FieldNames={12480C98-3400-435C-87C0-EC1536FAD2F2}&amp;Styles&amp;Scope&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder"
+              s:par="SearchSignature&amp;FieldNames=%7B12480C98-3400-435C-87C0-EC1536FAD2F2%7D&amp;Styles&amp;Scope&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder"
               s:ph="main" />
           </d>
         </r>
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{3FA19D63-EA7F-47C7-ADF5-6418EFF41EB1}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184125Z

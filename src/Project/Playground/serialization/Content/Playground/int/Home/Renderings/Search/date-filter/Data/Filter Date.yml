@@ -1,0 +1,27 @@
+﻿---
+ID: "cbc0bf4b-f79b-4a08-87a7-95394229b1fb"
+Parent: "df4c10ce-21ee-4e82-adde-ed982bd33b45"
+Template: "ad89c1f1-e991-48ef-8659-38ab13aa28f1"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/date-filter/Data/Filter Date"
+DB: master
+SharedFields:
+- ID: "734f9a5a-c02a-4d34-87e8-29c732d8eb67"
+  Hint: Facet
+  Value: "{46AFAA7C-CF40-4518-B553-3D8D56F636C7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T194550Z
+    - ID: "57008eba-acb7-4f86-a239-57c8027c2afe"
+      Hint: RemoveFilterText
+      Value: Clear
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Movie release date

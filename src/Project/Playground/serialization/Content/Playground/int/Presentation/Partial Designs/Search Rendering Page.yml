@@ -1,0 +1,17 @@
+﻿---
+ID: "eebfffe8-1178-4f81-b6f0-7cdd2cf7bbcc"
+Parent: "38070dee-0084-4d00-a3a1-df47ce35c7cf"
+Template: "3b4f7e7a-9b8b-4dfd-bcdd-6add1df49613"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Search Rendering Page
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T193256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

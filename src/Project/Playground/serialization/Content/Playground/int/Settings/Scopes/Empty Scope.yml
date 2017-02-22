@@ -1,0 +1,20 @@
+﻿---
+ID: "a310e304-f08c-4095-a7f3-bc2510c231aa"
+Parent: "fd2a245f-3fc9-4be1-9fd1-4a37768bef03"
+Template: "8b649372-cc12-4f31-802a-8c3b3d09bb3f"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Empty Scope
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170222T154708Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b04fe662-2b23-44dd-b971-2b864a1ec55f"
+      Hint: ScopeQuery
+      Value: "+location:{FB57AAD8-7B06-4E66-B7E4-069E59045FF4};template:{6ebb38ce-04fc-425c-895b-3c81fa4a7b5c}"
