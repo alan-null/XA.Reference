@@ -40,6 +40,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{BC8E23EB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XA.Reference.Project.Common", "src\Project\Common\code\XA.Reference.Project.Common.csproj", "{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XA.Reference.Feature.Packaging", "src\Feature\Packaging\code\XA.Reference.Feature.Packaging.csproj", "{BB935824-1A1C-4F29-A656-0F9EA85C419E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB935824-1A1C-4F29-A656-0F9EA85C419E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB935824-1A1C-4F29-A656-0F9EA85C419E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB935824-1A1C-4F29-A656-0F9EA85C419E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB935824-1A1C-4F29-A656-0F9EA85C419E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,5 +76,6 @@ Global
 		{CB3ABEE7-F22F-4E71-B9D8-75A094499DBA} = {EC1F4471-89E1-4552-B5FC-44A6D9540340}
 		{BC8E23EB-F2C4-4F0A-951A-890F19B9058D} = {F1A7CF4A-7FEA-4545-805B-73AC9DF7B976}
 		{38C14C4E-5556-49E6-8BB7-8BDD8B874F1E} = {E90A0A5E-740D-49B4-97C2-88A3495450E1}
+		{BB935824-1A1C-4F29-A656-0F9EA85C419E} = {081DCB89-75EA-481F-BE22-3F4B640F21E0}
 	EndGlobalSection
 EndGlobal

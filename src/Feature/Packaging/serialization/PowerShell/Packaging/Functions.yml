@@ -1,0 +1,17 @@
+﻿---
+ID: "959f6ff3-ed2f-4a8d-8537-14bf907cf48e"
+Parent: "595cbb9b-5f18-4343-a080-ca79203971df"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/SXA Reference/Packaging/Functions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170224T072652Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
