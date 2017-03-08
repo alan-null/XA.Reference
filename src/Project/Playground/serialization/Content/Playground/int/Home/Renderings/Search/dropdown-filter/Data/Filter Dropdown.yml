@@ -27,7 +27,7 @@ Languages:
       Value: All types
     - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
       Hint: Title
-      Value: Movie Genres
+      Value: Movie Type
     - ID: "f043691d-4d65-4228-9f18-9559c503221c"
       Hint: EmptyValueText
       Value: "[NO GENRE]"
