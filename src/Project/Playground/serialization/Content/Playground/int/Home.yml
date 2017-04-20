@@ -10,6 +10,40 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{07A182F5-064D-452C-87C6-A4C876F6C7DE}"
+              p:before="*"
+              s:ds="local:/Data/Content"
+              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:ph="main" />
+            <r
+              uid="{3BF28705-BE3C-4188-B377-042B1D7B661C}"
+              p:after="r[@uid='{07A182F5-064D-452C-87C6-A4C876F6C7DE}']"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="FieldNames={2526D709-090A-464F-BD7E-0A201B5557E0}&amp;Styles&amp;NavigationRoot&amp;LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;Filter&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames"
+              s:ph="main" />
+            <r
+              uid="{66018128-F8BD-496A-8F10-EF8B4E049F4C}"
+              p:after="r[@uid='{3BF28705-BE3C-4188-B377-042B1D7B661C}']"
+              s:ds="local:/Data/Header"
+              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:ph="header" />
+            <r
+              uid="{E888CA9F-D9FA-4F9D-8455-1DE04C1E9F50}"
+              p:after="*[1=2]"
+              s:id="{5B9272A5-E147-4C16-B9F7-41CCDCB4CB5D}"
+              s:ph="header" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T133338Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "257e4f43-f877-4dc4-acee-4f49b082125f"
+Parent: "a2f19540-895c-41f5-a641-17c689869513"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T155437Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <style>
+            h1#moviehub {
+            font-weight: bold;
+            color: gray;
+            font-size: 32px;
+            }
+        </style>
+        <h1 id="moviehub">MoviesHub </h1>
+        <h3>The biggest movie database ever.</h3>
+        <p style="text-align: right;"><em>Search powered by <strong>SXA</strong></em></p>
+        <hr />

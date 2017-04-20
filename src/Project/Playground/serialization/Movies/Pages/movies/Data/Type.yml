@@ -1,0 +1,27 @@
+﻿---
+ID: "b3d4ad08-b36b-447c-b689-9ca890e0e633"
+Parent: "a2f19540-895c-41f5-a641-17c689869513"
+Template: "790c0f2c-1621-4604-a6c6-72b9f8ae830d"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Type
+DB: master
+SharedFields:
+- ID: "38d3de1f-f23c-4587-ae30-06ec5ed73e82"
+  Hint: Facet
+  Value: "{6F15AF67-CB67-4A39-AEFE-C136874BDAB6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170309T151048Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "938c972b-02ac-4cc1-a79e-d262ba7f2344"
+      Hint: UnselectedText
+      Value: All types
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Type

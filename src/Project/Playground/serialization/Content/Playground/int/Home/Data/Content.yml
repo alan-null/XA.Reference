@@ -1,0 +1,27 @@
+﻿---
+ID: "de072510-73d6-4453-a84c-8782f7b371b0"
+Parent: "4ec676ed-91b8-490b-85ea-28fd240a2690"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/Data/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T154418Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <strong>SXA Reference</strong> is an example Sitecore project build on top of <strong>Sitecore Experience Accelerator.</strong><br />
+        <br />
+        The main goal of this reference project is to show <strong>SXA </strong>features and give guidelines on how to build/configure new sites.
+        <br />
+        <h2>
+        How it works</h2>
+        Choose one of the pages below to see <strong>SXA </strong>features.

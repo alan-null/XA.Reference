@@ -1,0 +1,24 @@
+﻿---
+ID: "b37cf94c-4fb8-40f3-8662-812387661206"
+Parent: "a2f19540-895c-41f5-a641-17c689869513"
+Template: "6e188261-e572-4330-b88a-88c68b0926e7"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Genre
+DB: master
+SharedFields:
+- ID: "0a5dbe83-3914-4630-90ef-d1bbbcdede7f"
+  Hint: Facet
+  Value: "{FA09365E-2F9A-44CE-B92A-0496E0DBCA1B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170309T151012Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Genre

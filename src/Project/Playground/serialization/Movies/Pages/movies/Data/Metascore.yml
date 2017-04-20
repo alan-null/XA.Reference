@@ -1,0 +1,42 @@
+﻿---
+ID: "260eaa52-27fd-4963-9afb-20241cd14d68"
+Parent: "a2f19540-895c-41f5-a641-17c689869513"
+Template: "0a1787c2-96b5-4d40-8285-22564a5d8e03"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Metascore
+DB: master
+SharedFields:
+- ID: "525e680a-29ab-415f-ae0c-724941c506fa"
+  Hint: MaxRangeValue
+  Value: 100
+- ID: "609d6909-8059-4e1b-98b6-ab7cc0ff77df"
+  Hint: MinRangeValue
+  Value: 0
+- ID: "928fa1b1-13bf-41e8-837e-d3d4ee505c0d"
+  Hint: ChangeStep
+  Value: 1
+- ID: "afb416d9-8261-4614-837a-ee61e78f9e84"
+  Hint: SelectedMaxValue
+  Value: 100
+- ID: "e7055ff1-f28b-4516-9e67-4adc1de1ab28"
+  Hint: SelectedMinValue
+  Value: 50
+- ID: "f1b4cec1-36b7-4a29-8a14-e7034e70f036"
+  Hint: Facet
+  Value: "{1D81FA46-DEFE-4815-85AF-45DBD2E10437}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170309T200128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Metascore
+    - ID: "c9d34357-c9bf-471b-a742-957bd73168db"
+      Hint: FormatString
+      Value: "Metascore {from}-{to}:"
