@@ -4,6 +4,13 @@ Parent: "b32c6876-f8e6-4297-8ba6-fd35aa6cbb75"
 Template: "b7f764a3-ad45-4666-a169-0c5a836d8ae2"
 Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/social/feed/Data/Feed
 DB: master
+SharedFields:
+- ID: "ce0fae5a-7e2c-48be-aa15-12f0d55c582f"
+  Hint: ItemsNumber
+  Value: 5
+- ID: "ed0adccf-7ed0-407e-b42a-f3f8766ae53f"
+  Hint: CacheInterval
+  Value: 1
 Languages:
 - Language: en
   Versions:
@@ -21,12 +28,6 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "ce0fae5a-7e2c-48be-aa15-12f0d55c582f"
-      Hint: ItemsNumber
-      Value: 5
-    - ID: "ed0adccf-7ed0-407e-b42a-f3f8766ae53f"
-      Hint: CacheInterval
-      Value: 1
     - ID: "fefb37df-0883-4714-b7fc-607b5ada8908"
       Hint: Title
       Value: "Alan Płócieniak - Blog"

@@ -4,6 +4,10 @@ Parent: "e1d1a197-fc9e-4d8e-9668-17e834451219"
 Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
 Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-structure/row-splitter"
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{106C2FC8-5C12-4AB0-BC31-F084419D8542}"
 Languages:
 - Language: en
   Fields:
@@ -38,9 +42,6 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
-      Hint: SxaTags
-      Value: "{106C2FC8-5C12-4AB0-BC31-F084419D8542}"
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"

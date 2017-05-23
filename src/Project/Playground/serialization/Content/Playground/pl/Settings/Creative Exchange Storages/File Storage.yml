@@ -12,6 +12,9 @@ SharedFields:
 - ID: "52e8de18-7f21-4036-a6da-2b6c71eea601"
   Hint: ExportType
   Value: Sitecore.XA.Feature.CreativeExchange.Storage.Export.FileExportStorage,Sitecore.XA.Feature.CreativeExchange
+- ID: "5f32188e-d73c-47b8-97d4-7097070d8f46"
+  Hint: Destination Path
+  Value: $(creativeExchangeFolder)/FileStorage/pl
 Languages:
 - Language: en
   Versions:
@@ -23,6 +26,3 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "5f32188e-d73c-47b8-97d4-7097070d8f46"
-      Hint: Destination Path
-      Value: $(creativeExchangeFolder)/FileStorage/pl

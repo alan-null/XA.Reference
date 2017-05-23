@@ -9,9 +9,6 @@ SharedFields:
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{BBA2F5C9-0FA7-4B0C-BEDD-5FF485B37C5C}"
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 
 - ID: "d7264a2b-e343-4613-a71a-1727f50dbc15"
   Hint: ThemesFolder
   Value: "{BBA2F5C9-0FA7-4B0C-BEDD-5FF485B37C5C}"

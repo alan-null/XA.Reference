@@ -25,6 +25,10 @@ SharedFields:
 - ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
   Hint: EditingTheme
   Value: "{7A5FDD48-80C1-4985-91AA-12967298938B}"
+- ID: "beeede03-ab13-4558-96f9-c3e8957b46f8"
+  Hint: Themes
+  Type: Treelist
+  Value: "{3F46272C-F3B8-4913-8C00-3816B436A4D3}"
 - ID: "e81e1f9e-8b87-495b-9cb7-84a2a23133be"
   Hint: MediaLibrary
   Value: "{BBA2F5C9-0FA7-4B0C-BEDD-5FF485B37C5C}"
@@ -42,7 +46,3 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "beeede03-ab13-4558-96f9-c3e8957b46f8"
-      Hint: Themes
-      Type: Treelist
-      Value: "{3F46272C-F3B8-4913-8C00-3816B436A4D3}"

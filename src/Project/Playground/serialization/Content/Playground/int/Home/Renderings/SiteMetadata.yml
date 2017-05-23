@@ -4,6 +4,11 @@ Parent: "1abe17cb-1e86-4ff8-bcee-909b6b0404dd"
 Template: "60810b2c-45ec-450f-a60a-e681d93386e5"
 Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/sitemetadata
 DB: master
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Type: Checklist
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
 Languages:
 - Language: en
   Fields:
@@ -13,10 +18,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
-      Hint: NavigationFilter
-      Type: Checklist
-      Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184126Z

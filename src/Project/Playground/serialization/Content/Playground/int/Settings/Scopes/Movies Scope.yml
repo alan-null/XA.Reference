@@ -4,6 +4,10 @@ Parent: "fd2a245f-3fc9-4be1-9fd1-4a37768bef03"
 Template: "8b649372-cc12-4f31-802a-8c3b3d09bb3f"
 Path: /sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Movies Scope
 DB: master
+SharedFields:
+- ID: "b04fe662-2b23-44dd-b971-2b864a1ec55f"
+  Hint: ScopeQuery
+  Value: "+location:{81003e8d-4232-433d-849e-6ca9574b5bd1};+template:{dfcef4ae-c894-463e-bd77-35cd002fc481}"
 Languages:
 - Language: en
   Versions:
@@ -15,6 +19,3 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "b04fe662-2b23-44dd-b971-2b864a1ec55f"
-      Hint: ScopeQuery
-      Value: "+location:{81003e8d-4232-433d-849e-6ca9574b5bd1};+template:{dfcef4ae-c894-463e-bd77-35cd002fc481}"

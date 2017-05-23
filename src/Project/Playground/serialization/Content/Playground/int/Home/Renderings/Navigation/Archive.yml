@@ -4,6 +4,10 @@ Parent: "818fa5e2-cbb0-4e98-b3e1-fca739e66c81"
 Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
 Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/navigation/archive
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{B475A90D-AB1F-4A1C-B56E-D80BA27841DD}"
 Languages:
 - Language: en
   Fields:
@@ -38,9 +42,6 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
-      Hint: SxaTags
-      Value: "{B475A90D-AB1F-4A1C-B56E-D80BA27841DD}"
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{1B1FDBF9-551B-4A00-A6D8-BB2FB7B62A62}"

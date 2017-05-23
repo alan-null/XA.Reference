@@ -21,9 +21,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "15867cb6-e128-4d78-9d4f-739e5963dfc4"
-      Hint: Suffix
-      Value: 
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T133408Z

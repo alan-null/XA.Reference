@@ -4,6 +4,13 @@ Parent: "fed0301b-c1e3-4551-9ad2-fa8b67d2b239"
 Template: "958ffbdc-f1e1-4486-8667-c2dd451f5e31"
 Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/managed-range-filter/Data/Filter Managed Range/3"
 DB: master
+SharedFields:
+- ID: "55215831-d3c0-450a-ae0e-6f10e74b56be"
+  Hint: MaxValue
+  Value: 120
+- ID: "bd38a8a0-c8bb-42ca-9783-c80296fe8bac"
+  Hint: MinValue
+  Value: 61
 Languages:
 - Language: en
   Versions:
@@ -12,15 +19,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170221T205417Z
-    - ID: "55215831-d3c0-450a-ae0e-6f10e74b56be"
-      Hint: MaxValue
-      Value: 120
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
     - ID: "77f05fd0-6463-4a57-a37e-c2232293c891"
       Hint: Title
       Value: Average
-    - ID: "bd38a8a0-c8bb-42ca-9783-c80296fe8bac"
-      Hint: MinValue
-      Value: 61

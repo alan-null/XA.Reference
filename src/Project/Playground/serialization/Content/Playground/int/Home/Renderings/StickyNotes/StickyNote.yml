@@ -4,6 +4,14 @@ Parent: "cc384b05-5e30-458f-80ba-dbb9875ec1ba"
 Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
 Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/stickynotes/stickynote
 DB: master
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Type: Checklist
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{8CAC85BA-7B46-42A9-B1A8-764EEB5C911B}"
 Languages:
 - Language: en
   Fields:
@@ -13,10 +21,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
-      Hint: NavigationFilter
-      Type: Checklist
-      Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184126Z
@@ -26,9 +30,6 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
-      Hint: SxaTags
-      Value: "{8CAC85BA-7B46-42A9-B1A8-764EEB5C911B}"
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{619D4185-E73C-4C51-8407-3927E4812B98}"

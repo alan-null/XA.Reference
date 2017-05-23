@@ -5,17 +5,6 @@ Template: "6ebb38ce-04fc-425c-895b-3c81fa4a7b5c"
 Path: /sitecore/content/SXA Reference/Playground/int/Data/POIs/Sitecore Office/North America/Canada
 DB: master
 SharedFields:
-- ID: "7db4985a-73a1-44a3-9b2c-ffea56093431"
-  Hint: Description
-  Value: |
-    <p>65 Queen Street W, Suite 615&nbsp;<br />
-    M5H 2M5 Toronto&nbsp;<br />
-    ON</p>
-    <div>
-    <p><span>Phone</span><span>+1 855 Sitecore</span></p>
-    <p><span>Fax:</span><span>416-956-0608</span></p>
-    <p><span>Email: </span><span><a href="mailto:sales-ca@sitecore.net">sales-ca@sitecore.net</a></span></p>
-    </div>
 - ID: "8c1aea63-2e5e-4fee-b413-d3b1e050dd26"
   Hint: Longitude
   Value: "-79.384459"
@@ -25,9 +14,6 @@ SharedFields:
 - ID: "94969c59-c4b8-43ed-9c92-3fbf930c0acf"
   Hint: Latitude
   Value: 43.6515533
-- ID: "e428dd88-04a5-43c2-be37-35e0e3cf9890"
-  Hint: Title
-  Value: Canada
 Languages:
 - Language: en
   Versions:
@@ -39,3 +25,17 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
+    - ID: "7db4985a-73a1-44a3-9b2c-ffea56093431"
+      Hint: Description
+      Value: |
+        <p>65 Queen Street W, Suite 615&nbsp;<br />
+        M5H 2M5 Toronto&nbsp;<br />
+        ON</p>
+        <div>
+        <p><span>Phone</span><span>+1 855 Sitecore</span></p>
+        <p><span>Fax:</span><span>416-956-0608</span></p>
+        <p><span>Email: </span><span><a href="mailto:sales-ca@sitecore.net">sales-ca@sitecore.net</a></span></p>
+        </div>
+    - ID: "e428dd88-04a5-43c2-be37-35e0e3cf9890"
+      Hint: Title
+      Value: Canada

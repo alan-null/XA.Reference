@@ -4,6 +4,10 @@ Parent: "eb5ef213-5a69-4594-b2e7-29e55edb8481"
 Template: "70461699-48e4-45fa-b74b-0cce849fca6a"
 Path: /sitecore/content/SXA Reference/Playground/int/Settings/Maps Provider
 DB: master
+SharedFields:
+- ID: "d9ee34d4-1a82-4478-ac8b-b60d3cc5fa70"
+  Hint: Key
+  Value: AIzaSyDcZDBnxssEYCQnpueiZW8G_q_6eaddOi4
 Languages:
 - Language: en
   Versions:
@@ -15,6 +19,3 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "d9ee34d4-1a82-4478-ac8b-b60d3cc5fa70"
-      Hint: Key
-      Value: AIzaSyDcZDBnxssEYCQnpueiZW8G_q_6eaddOi4

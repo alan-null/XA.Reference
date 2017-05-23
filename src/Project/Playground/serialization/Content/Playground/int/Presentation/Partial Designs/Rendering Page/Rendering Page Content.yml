@@ -4,6 +4,10 @@ Parent: "ad5d4767-80fb-4215-93b4-43c6453d5f5b"
 Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Rendering Page/Rendering Page Content
 DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "rendering-page-content"
 Languages:
 - Language: en
   Versions:
@@ -12,9 +16,6 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T191142Z
-    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
-      Hint: Signature
-      Value: "rendering-page-content"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

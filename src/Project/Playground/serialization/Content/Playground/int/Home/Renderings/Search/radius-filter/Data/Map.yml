@@ -4,6 +4,17 @@ Parent: "5d3eb207-6484-4c1f-b681-fbce905ad6a4"
 Template: "0aacd498-cea9-4e37-8ca0-61d1f024fb34"
 Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/radius-filter/Data/Map"
 DB: master
+SharedFields:
+- ID: "54addae0-9c54-42a0-9220-5aaac5312e1a"
+  Hint: Zoom
+  Value: "{A0166E88-2B80-49DB-B822-111CBF8D01EE}"
+- ID: "61bbf86d-0746-47db-92bd-3183d997cbe5"
+  Hint: Width
+  Value: 1000
+- ID: "df9686ee-85f7-4ad3-bdd2-8a28d31740df"
+  Hint: POI
+  Type: Treelist
+  Value: "{96382947-4472-4672-B73D-89F8FA83FE06}"
 Languages:
 - Language: en
   Versions:
@@ -12,25 +23,6 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170222T093828Z
-    - ID: "37b1dd2c-ac94-4281-b9b5-c6437028072a"
-      Hint: CentralPointLongitude
-      Value: 
-    - ID: "54addae0-9c54-42a0-9220-5aaac5312e1a"
-      Hint: Zoom
-      Value: "{A0166E88-2B80-49DB-B822-111CBF8D01EE}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "61bbf86d-0746-47db-92bd-3183d997cbe5"
-      Hint: Width
-      Value: 1000
-    - ID: "d9dd5de6-af41-4d3b-9f73-4ff9bd05898b"
-      Hint: CentralPointMode
-      Value: "{B031BAEB-CB06-4F99-9993-D3106AF251C7}"
-    - ID: "df9686ee-85f7-4ad3-bdd2-8a28d31740df"
-      Hint: POI
-      Type: Treelist
-      Value: "{96382947-4472-4672-B73D-89F8FA83FE06}"
-    - ID: "fcc4f148-2f8a-4310-a898-c38fee380e9e"
-      Hint: CentralPointLatidiute
-      Value: 

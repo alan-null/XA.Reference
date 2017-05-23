@@ -4,6 +4,10 @@ Parent: "591a2cab-1ab6-47b3-b0cf-6f610f97d8fb"
 Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
 Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/facet-slider"
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{2F1F4C78-993C-459F-8BFF-C06578ECEF9C}"
 Languages:
 - Language: en
   Fields:
@@ -41,9 +45,6 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
-      Hint: SxaTags
-      Value: "{2F1F4C78-993C-459F-8BFF-C06578ECEF9C}"
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{F7330AA2-C915-4007-AA17-688C4FC4D6FF}"

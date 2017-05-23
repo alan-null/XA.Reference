@@ -4,6 +4,11 @@ Parent: "097f17c2-2494-4aeb-8aaa-9e30fb4f6d1e"
 Template: "ade9eff4-da78-4e26-9248-b01bd93eae95"
 Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/media/video/Data/Video
 DB: master
+SharedFields:
+- ID: "725a80dd-0cf3-451b-b2db-220da5247771"
+  Hint: Autoplay
+  Type: Checkbox
+  Value: 0
 Languages:
 - Language: en
   Versions:
@@ -15,16 +20,9 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "725a80dd-0cf3-451b-b2db-220da5247771"
-      Hint: Autoplay
-      Type: Checkbox
-      Value: 0
     - ID: "c4a0614e-5a4a-4ecf-b49b-b0d82e5eee7e"
       Hint: MovieCaption
       Value: "2-Hours Epic Music Mix | THE POWER OF EPIC MUSIC - Full Mix Vol. 2"
     - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
       Hint: YoutubeMovie
       Value: DeXoACwOT1o
-    - ID: "d2d5ef2a-c938-477e-9f7d-267439808068"
-      Hint: MovieLength
-      Value: 0

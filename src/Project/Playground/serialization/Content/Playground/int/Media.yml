@@ -5,6 +5,14 @@ Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
 Path: /sitecore/content/SXA Reference/Playground/int/Media
 DB: master
 BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Type: Treelist
+  Value: |
+    {B79D48B4-B2EC-4E37-9EC3-A2FFED9A7C65}
+    {94D63EC4-3F27-4D8C-8BE2-DD6CED74AD47}
+    {3D6658D8-A0BF-4E75-B3E2-D050FABCF4E1}
 Languages:
 - Language: en
   Versions:
@@ -16,10 +24,3 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
-      Hint: AdditionalChildren
-      Type: Treelist
-      Value: |
-        {B79D48B4-B2EC-4E37-9EC3-A2FFED9A7C65}
-        {94D63EC4-3F27-4D8C-8BE2-DD6CED74AD47}
-        {3D6658D8-A0BF-4E75-B3E2-D050FABCF4E1}

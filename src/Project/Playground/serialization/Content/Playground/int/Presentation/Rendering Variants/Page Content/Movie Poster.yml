@@ -4,6 +4,10 @@ Parent: "7ab80277-4781-48db-b316-4c6370ae7c13"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Page Content/Movie Poster
 DB: master
+SharedFields:
+- ID: "90294353-706a-431c-b855-cd245824d9fa"
+  Hint: LinkField
+  Value: Movie Poster
 Languages:
 - Language: en
   Versions:
@@ -15,6 +19,3 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "90294353-706a-431c-b855-cd245824d9fa"
-      Hint: LinkField
-      Value: Movie Poster

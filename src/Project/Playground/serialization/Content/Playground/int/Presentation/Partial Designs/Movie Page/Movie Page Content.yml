@@ -4,6 +4,10 @@ Parent: "2c58c05d-9674-478c-877c-23f486cd798c"
 Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Movie Page/Movie Page Content
 DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "movie-page-content"
 Languages:
 - Language: en
   Versions:
@@ -84,9 +88,6 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170220T222600Z
-    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
-      Hint: Signature
-      Value: "movie-page-content"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

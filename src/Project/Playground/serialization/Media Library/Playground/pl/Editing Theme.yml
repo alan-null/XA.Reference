@@ -5,9 +5,9 @@ Template: "78086ca4-8985-45eb-8aa7-b2948d2a0e06"
 Path: /sitecore/media library/Project/SXA Reference/Playground/pl/Editing Theme
 DB: master
 SharedFields:
-- ID: "384c2d3c-3e34-4493-9cb2-ade68caf0da2"
+- ID: "e0367cd6-e333-4625-9993-baa4f1c0c92b"
   Hint: BaseLayout
-  Type: Treelist
+  Type: Multilist
   Value: |
     {47E2FFF3-3900-4D32-8C70-8C76B8EFA66A}
     {BB9FCC9B-9302-41B4-B75E-849A1870E6ED}

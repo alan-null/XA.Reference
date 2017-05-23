@@ -6,9 +6,6 @@ Path: /sitecore/content/SXA Reference/Playground/int/Data/Search/Sort Results/De
 DB: master
 BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
 SharedFields:
-- ID: "73a7c430-816e-4481-b4c1-3ab8c2c1052b"
-  Hint: Direction
-  Value: "{81810FDC-BB9F-4338-9B62-18142C63F3A8}"
 - ID: "c95b7bad-fa93-41f0-82de-c2c2bf0a0e89"
   Hint: Facet
   Value: "{20B99FEA-2DA9-41D7-B137-175145BECAC2}"

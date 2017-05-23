@@ -4,6 +4,10 @@ Parent: "de59cf36-9b85-4410-98c0-7692b30a6450"
 Template: "aaad4aad-2907-44dc-90b6-9e4e83a661ec"
 Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/location-filter/Data/Location Finder"
 DB: master
+SharedFields:
+- ID: "8a67fca9-7e15-4b7c-b6b8-86f37cafe720"
+  Hint: Facet
+  Value: "{F120C4FC-88FA-4D2B-AED9-1D0B3ADCACEA}"
 Languages:
 - Language: en
   Versions:
@@ -18,6 +22,3 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "8a67fca9-7e15-4b7c-b6b8-86f37cafe720"
-      Hint: Facet
-      Value: "{F120C4FC-88FA-4D2B-AED9-1D0B3ADCACEA}"

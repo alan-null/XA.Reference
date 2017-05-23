@@ -4,32 +4,30 @@ Parent: "3495e188-321e-4c34-8538-061a4d336d9f"
 Template: "c27aaa1e-2764-46e4-908c-bb3a4c75c68f"
 Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/social/twitter/Data/Twitter
 DB: master
+SharedFields:
+- ID: "07d2d2ac-a816-4d9e-8e46-a9413464a369"
+  Hint: TweetsNumber
+  Value: 5
+- ID: "50b49831-4e52-4a67-8393-d7393f22cf37"
+  Hint: TwitterApp
+  Value: /sitecore/content/SXA Reference/Playground/int/Settings/Twitter Apps/Twitter App
+- ID: "cac61c98-28fb-4b4b-9fd3-081d74fea9c1"
+  Hint: CacheInterval
+  Value: 0
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "07d2d2ac-a816-4d9e-8e46-a9413464a369"
-      Hint: TweetsNumber
-      Value: 5
     - ID: "0b339a1f-4a43-4375-9f6a-39be90f5a107"
       Hint: ScreenName
       Value: AlanPloc
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170214T115901Z
-    - ID: "50b49831-4e52-4a67-8393-d7393f22cf37"
-      Hint: TwitterApp
-      Value: /sitecore/content/SXA Reference/Playground/int/Settings/Twitter Apps/Twitter App
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "614b5da5-76b7-4efa-bb0c-1c56b27cfadf"
-      Hint: Hashtag
-      Value: 
     - ID: "ae1eb2d8-3a7c-4337-83df-1b0b0c857bee"
       Hint: Title
       Value: Twitter
-    - ID: "cac61c98-28fb-4b4b-9fd3-081d74fea9c1"
-      Hint: CacheInterval
-      Value: 0
