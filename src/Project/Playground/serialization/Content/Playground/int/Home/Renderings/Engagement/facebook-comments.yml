@@ -25,7 +25,7 @@ Languages:
               uid="{CDE1F152-D811-473B-A0B5-89DC38945630}"
               s:ds=""
               s:id="{4DF237E8-B788-4145-A5C1-3F2158107BE8}"
-              s:par="Number of Posts=5&amp;Color Scheme=Light"
+              s:par="Number of Posts=5&amp;Color Scheme=Light&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

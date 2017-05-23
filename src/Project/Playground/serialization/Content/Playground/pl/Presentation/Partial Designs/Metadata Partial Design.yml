@@ -57,6 +57,43 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C25D0951-438E-4331-9C43-A4D00297F64D}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{8C48DA85-6B31-4F08-8771-73E3CB15B7EE}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{DBF6C0E9-ED70-4EAA-9224-A9D64D4389EF}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{FEE372B4-6D01-48CA-8986-0F2F31AE0D49}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{63FEEEA2-31CA-49CD-B618-CA4388E6DE36}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{983B2C7F-CCA1-44C5-B7A3-975D136B9973}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{FF646CF5-2BAE-4766-B613-E2E8A0261CB9}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{02C33C54-12D8-4D44-8DA9-102C25AF5C75}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{86025857-C3A0-4486-87CD-09AD06F516FA}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T213610Z

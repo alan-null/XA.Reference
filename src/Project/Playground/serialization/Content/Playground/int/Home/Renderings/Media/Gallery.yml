@@ -25,7 +25,7 @@ Languages:
               uid="{B081866C-9041-4A86-A973-998FF9E474DD}"
               s:ds="local:/Data/Gallery"
               s:id="{DC7CD1BE-7E89-4D96-B52B-72653ADF82B1}"
-              s:par="Styles&amp;GalleryHeight=500"
+              s:par="Styles&amp;GalleryHeight=500&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

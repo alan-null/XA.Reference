@@ -25,6 +25,7 @@ Languages:
               uid="{11889E22-3CC6-443B-A951-B9326B0A3F72}"
               s:ds="local:/Data/Logout"
               s:id="{E7AF0BB2-969E-4B4F-86AC-62FC4F2FE2D6}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

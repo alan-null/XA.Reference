@@ -25,7 +25,7 @@ Languages:
               uid="{6FF29B97-881A-4B49-9D81-D15968EB9EED}"
               s:ds="local:/Data/Filter Managed Range"
               s:id="{3C09F738-A63B-451B-A976-8925364316C4}"
-              s:par="SearchSignature&amp;Styles&amp;SelectedMinValue=0&amp;SelectedMaxValue=600&amp;Ranges=Show%20manual%20and%20managed%20range&amp;ManagedRangeMode"
+              s:par="SearchSignature&amp;Styles&amp;SelectedMinValue=0&amp;SelectedMaxValue=600&amp;Ranges=Show manual and managed range&amp;ManagedRangeMode&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
           </d>
         </r>

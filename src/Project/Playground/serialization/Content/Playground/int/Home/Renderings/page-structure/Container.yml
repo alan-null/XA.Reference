@@ -25,7 +25,7 @@ Languages:
               uid="{63379BDF-1FF4-461A-A553-4D159CD8374E}"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="BackgroundImage=%3Cimage%20mediaid%3D%22%7B04DAD0FD-DB66-4070-881F-17264CA257E1%7D%22%20alt%3D%22Sitecore%20cover%22%20height%3D%22%22%20width%3D%22%22%20hspace%3D%22%22%20vspace%3D%22%22%20%2F%3E&amp;Styles=%7B491CA023-050A-4704-8828-0B0AA9CAD53C%7D&amp;DynamicPlaceholderId=1"
+              s:par="BackgroundImage=&lt;image mediaid=&quot;{04DAD0FD-DB66-4070-881F-17264CA257E1}&quot; alt=&quot;Sitecore cover&quot; height=&quot;&quot; width=&quot;&quot; hspace=&quot;&quot; vspace=&quot;&quot; /&gt;&amp;Styles={491CA023-050A-4704-8828-0B0AA9CAD53C}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

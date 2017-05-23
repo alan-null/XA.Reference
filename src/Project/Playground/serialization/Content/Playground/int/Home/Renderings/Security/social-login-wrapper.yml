@@ -25,27 +25,31 @@ Languages:
               uid="{9A52E536-651D-454D-91AE-E521BBCD510C}"
               p:before="*"
               s:id="{A58672D4-0B34-41B2-9CCF-5A48C275FD40}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/social-login-1" />
             <r
               uid="{F4376048-AF5E-49B3-9246-B83BF69B16A4}"
               p:after="r[@uid='{9A52E536-651D-454D-91AE-E521BBCD510C}']"
               s:id="{908BA80C-53C7-4607-99B9-04D28C340156}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/social-login-1" />
             <r
               uid="{367EF105-02E1-4227-AD51-8A195F8EC0B8}"
               p:after="r[@uid='{F4376048-AF5E-49B3-9246-B83BF69B16A4}']"
               s:id="{22EDCC9B-BD25-442F-B685-4CFC8656F653}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/social-login-1" />
             <r
               uid="{499D7915-2881-4337-8E36-DBD8FC649E18}"
               p:after="r[@uid='{367EF105-02E1-4227-AD51-8A195F8EC0B8}']"
               s:id="{E49F6EF0-B94B-4927-8B0E-443468249D9B}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/social-login-1" />
             <r
               uid="{455F81A2-3239-4F2B-A35A-39087E24D8DA}"
               p:after="*[1=2]"
               s:id="{CC2EB160-8FA6-4894-B599-2CEE7FC76820}"
-              s:par="Styles&amp;DynamicPlaceholderId=1"
+              s:par="Styles&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

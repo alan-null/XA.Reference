@@ -25,7 +25,7 @@ Languages:
               uid="{96308C73-1A3E-424F-B187-5F86D6C002E2}"
               s:ds="local:/Data/Tabs"
               s:id="{886B8CCC-816E-4D3A-BF05-4876B6C23686}"
-              s:par="Styles&amp;TabControlBelowContent&amp;DynamicPlaceholderId=1"
+              s:par="Styles&amp;TabControlBelowContent&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

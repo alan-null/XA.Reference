@@ -25,7 +25,7 @@ Languages:
               uid="{E9F3769E-0F70-452C-A741-65AD8FDF360F}"
               s:ds="{0DAE33A2-6F53-473E-8ABD-B054D9BF3B75}"
               s:id="{2400E52D-F9B3-445D-8629-A69720A22B44}"
-              s:par="SearchResultPage=%7BE6DB34DE-2CA2-4516-B43C-2E2F80164D0F%7D&amp;Facet&amp;FieldNames&amp;Styles"
+              s:par="SearchResultPage={E6DB34DE-2CA2-4516-B43C-2E2F80164D0F}&amp;Facet&amp;FieldNames&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

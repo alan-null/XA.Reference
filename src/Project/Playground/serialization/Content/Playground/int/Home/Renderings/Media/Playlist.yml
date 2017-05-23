@@ -26,13 +26,14 @@ Languages:
               p:before="*"
               s:ds="local:/Data/Playlist"
               s:id="{F16CE601-EECF-4DFC-B278-DE5F9562551B}"
-              s:par="FieldNames&amp;Styles&amp;TitleHeadingLevel&amp;Autoplay&amp;AutoplaySelected&amp;PlayNext&amp;RepeatAfterAll&amp;ShowPrevNext&amp;Player"
+              s:par="FieldNames&amp;Styles&amp;TitleHeadingLevel&amp;Autoplay&amp;AutoplaySelected&amp;PlayNext&amp;RepeatAfterAll&amp;ShowPrevNext&amp;Player&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
             <r
               uid="{C458BBD2-1199-4526-A320-ADDB8110FF04}"
               p:after="*[1=2]"
               s:ds="local:/Data/Video"
               s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

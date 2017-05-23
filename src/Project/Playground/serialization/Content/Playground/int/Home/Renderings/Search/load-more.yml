@@ -25,7 +25,7 @@ Languages:
               uid="{85801DB8-3D73-4F89-99E2-3AC96F5AAE1C}"
               s:ds="{C3E8F16D-75DE-4B16-B8F9-87FA6458AFE8}"
               s:id="{8B668FFA-D23C-43DB-A86F-D47D1D97090C}"
-              s:par="SearchSignature&amp;Styles"
+              s:par="SearchSignature&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
           </d>
         </r>

@@ -1,0 +1,19 @@
+﻿---
+ID: "47b9dd15-d28f-4f20-b5e6-2418c1ad7e86"
+Parent: "87bb479e-ab31-4f91-aa49-ad031821a697"
+Template: "4c1dc3cf-36d2-4484-ba4e-40af34d01e95"
+Path: /sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/JSON Content
+DB: master
+BranchID: "1c28cde5-00f2-4392-833f-674b06bc9c67"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_gear.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170523T154220Z

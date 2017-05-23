@@ -25,7 +25,7 @@ Languages:
               uid="{2463EF19-4C0A-4621-B221-EC9F2A71C702}"
               s:ds="local:/Data/Accordion"
               s:id="{DEE8DDA7-AF00-48F6-9C60-19AB73EBA80D}"
-              s:par="Styles&amp;EasingFunction=Swing&amp;Speed=500&amp;CanOpenMultiple=1&amp;CanToggle=1&amp;ExpandedByDefault&amp;ExpandOnHover&amp;DynamicPlaceholderId=1"
+              s:par="Styles&amp;EasingFunction=Swing&amp;Speed=500&amp;CanOpenMultiple=1&amp;CanToggle=1&amp;ExpandedByDefault&amp;ExpandOnHover&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

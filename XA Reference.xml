@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>1.0</Version>
+      <Version>2.0</Version>
       <Revision />
       <License />
       <Comment />
@@ -1297,6 +1297,42 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Social Media Groups/Default/Pinterest/{C38694F1-7ABA-4AC8-9F61-9298CF4A25DE}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Social Media Groups/Default/Twitter/{FC4CACC0-02D9-4B0F-895E-C449D7661F4A}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Twitter Apps/{0899F930-2722-47C8-9B59-1F54A1EE0320}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Available Renderings/JSON/{2B35E97A-E3A5-4AF5-B759-7D5D89B60700}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON Content/{F7DDDE6D-A14C-4716-8780-0C6B5B06EFD9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON Content/Default/{FE8162FA-AB5C-430C-A28B-ED063D95B01D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON Content/Default/Content/{C2EF49CE-C243-4B9E-B208-11A368484CDB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON Content/Default/Title/{D32B892E-A787-46FC-90F4-8696482807A1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON List/{37C18814-862B-4F45-9EF0-B81D816B3D10}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON List/Default/{1DBB3508-BE85-4C11-96CD-7C7B1AF6102A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON List/Default/Content/{811F6EA9-AD4E-41BB-8C0D-14108AF63E2C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON List/Default/Title/{BDAD0838-A9C1-4A73-8DA7-101402135CB9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON Results/{35F9BCAE-EB0B-4159-9C6E-9B788DFD3036}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON Results/Default/{9234A251-5C4E-41B7-8E90-C32EB09C1286}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON Results/Default/Content/{F87585A7-6367-4784-BD4B-A16D68AE41AC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON Results/Default/Title/{765B819B-9FB5-4FBF-9FF0-4F0F62B9C87D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/Data/{4EC676ED-91B8-490B-85EA-28FD240A2690}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/Data/Content/{DE072510-73D6-4453-A84C-8782F7B371B0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/Data/Header/{5957CF9B-0E6D-4553-A360-CD33500BC4C7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/{A2F19540-895C-41F5-A641-17C689869513}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Genre/{B37CF94C-4FB8-40F3-8662-812387661206}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Metascore/{260EAA52-27FD-4963-9AFB-20241CD14D68}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Rated/{84C0E94B-F867-4798-8073-56C57E8CA402}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Released/{49FB11E6-4751-4AA9-AC6E-F16C760F1D3C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Runtime/{D52CCF67-1318-4957-8F87-68EDE3F72066}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Runtime/1/{9CAC36BA-5C5C-4916-9AEF-BB7418C7B35F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Runtime/2/{89FA7A94-4A42-4A54-B86D-ADEF8AB7DE45}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Runtime/3/{54EDBD32-154C-4ED3-8EF1-02CBE4BDF249}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Runtime/4/{88BD0CDC-E39D-4CA7-B523-A3B9AB0687A7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Runtime/5/{BD5C6B9F-7A47-462C-95F6-4B379CDD5276}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Runtime/6/{7593AFDD-52E3-4311-8622-6B47A0C21AE3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Search Box/{C33FC696-B8B5-4573-A5D2-3E2D3AAB5948}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Text 1/{257E4F43-F877-4DC4-ACEE-4F49B082125F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/movies/Data/Type/{B3D4AD08-B36B-447C-B689-9CA890E0E633}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/{2526D709-090A-464F-BD7E-0A201B5557E0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/Content/{8DC165C4-F8FB-48C9-B7F3-8532C6337A39}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/NavigationTitle/__Display Name/{EEC69521-8047-44D9-9871-85A6240941D1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/NavigationTitle/{CDCA9AAE-DB8E-47EA-A6D8-A25383AA2401}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/NavigationTitle/Title/{20659C95-8E01-4C4D-83D5-D895070EF3C7}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>

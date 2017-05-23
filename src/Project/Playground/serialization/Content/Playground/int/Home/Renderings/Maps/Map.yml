@@ -25,7 +25,7 @@ Languages:
               uid="{1CB28842-DA04-4A75-8F67-711C19C5A99D}"
               s:ds="local:/Data/Map"
               s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
-              s:par="Signature&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles"
+              s:par="Signature&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

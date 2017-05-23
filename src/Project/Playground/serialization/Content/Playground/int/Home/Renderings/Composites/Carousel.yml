@@ -25,7 +25,7 @@ Languages:
               uid="{E973A1C0-99C3-45E2-9386-CDD17E484253}"
               s:ds="local:/Data/Carousel"
               s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
-              s:par="Styles&amp;Navigation={848DFE42-2B13-430E-A0B9-89CE25730A06}&amp;Transition={D4B706CC-7EEC-4DB9-A87D-123B29803490}&amp;Timeout=2000&amp;PauseOnHover=1&amp;NavigationPrefix=Previous&amp;NavigationPostfix=Next&amp;DynamicPlaceholderId=1"
+              s:par="Styles&amp;Navigation={848DFE42-2B13-430E-A0B9-89CE25730A06}&amp;Transition={D4B706CC-7EEC-4DB9-A87D-123B29803490}&amp;Timeout=2000&amp;PauseOnHover=1&amp;NavigationPrefix=Previous&amp;NavigationPostfix=Next&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

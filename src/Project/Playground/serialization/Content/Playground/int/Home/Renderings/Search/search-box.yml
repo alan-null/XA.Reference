@@ -25,7 +25,7 @@ Languages:
               uid="{5D05BD25-4E01-440A-BFCD-F3C0266BE089}"
               s:ds="{4213EBDF-8F0D-401B-9DA1-01B271BDB2A1}"
               s:id="{EECE4E4B-4E5F-42FD-A934-7AFD048AFD03}"
-              s:par="SearchSignature&amp;FieldNames=%7B63C042FF-7353-4917-8B7B-C71F796459AE%7D&amp;Styles&amp;TargetSignature&amp;Scope=%7BBAFF04C0-7332-4B72-A108-EE9814C62F16%7D&amp;MaxPredictiveResultsCount=5&amp;SearchResultPage&amp;AutocompleteFields=MovieTitle&amp;SearchTextBoxVisible=1"
+              s:par="SearchSignature&amp;FieldNames={63C042FF-7353-4917-8B7B-C71F796459AE}&amp;Styles&amp;TargetSignature&amp;Scope={BAFF04C0-7332-4B72-A108-EE9814C62F16}&amp;MaxPredictiveResultsCount=5&amp;SearchResultPage&amp;AutocompleteFields=MovieTitle&amp;SearchTextBoxVisible=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
           </d>
         </r>

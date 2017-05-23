@@ -1,0 +1,15 @@
+﻿---
+ID: "1dbb3508-be85-4c11-96cd-7c7b1af6102a"
+Parent: "37c18814-862b-4f45-9ef0-b81d816b3d10"
+Template: "2e1d7985-0bf1-469b-a00b-4f2ac443940c"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/JSON List/Default
+DB: master
+BranchID: "08c12327-7685-4c17-bfca-6aae7a55f4c5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170523T154323Z

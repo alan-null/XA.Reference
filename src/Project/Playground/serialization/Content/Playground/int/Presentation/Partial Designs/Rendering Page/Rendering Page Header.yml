@@ -22,14 +22,14 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
-              s:par="FieldNames=%7B11781CC0-CB21-4706-8A50-4EB2CF611DB7%7D&amp;Styles&amp;BreadcrumbRoot=%7B0DAE33A2-6F53-473E-8ABD-B054D9BF3B75%7D&amp;Separator=%3E&amp;IsNavigation&amp;Filter"
+              s:par="FieldNames={11781CC0-CB21-4706-8A50-4EB2CF611DB7}&amp;Styles&amp;BreadcrumbRoot={0DAE33A2-6F53-473E-8ABD-B054D9BF3B75}&amp;Separator=&gt;&amp;IsNavigation&amp;Filter&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="header" />
             <r
               uid="{47C86D0C-1CF3-4B9C-ABEA-B4D236F0B55A}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
-              s:par="FieldNames={A4CC8A7B-8916-4D11-8833-C494FE170375}&amp;Styles={08EE6B75-C545-44C0-B579-3D72B86A7561}"
+              s:par="FieldNames={A4CC8A7B-8916-4D11-8833-C494FE170375}&amp;Styles={08EE6B75-C545-44C0-B579-3D72B86A7561}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="header" />
           </d>
         </r>

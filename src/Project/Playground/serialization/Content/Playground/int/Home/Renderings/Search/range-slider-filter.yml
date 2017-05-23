@@ -25,7 +25,7 @@ Languages:
               uid="{0162B47F-977D-43DE-8F05-9560021B266D}"
               s:ds="local:/Data/Filter Range Slider"
               s:id="{FF6523B5-E93D-4396-8990-38FC537D71AD}"
-              s:par="SearchSignature&amp;Styles"
+              s:par="SearchSignature&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
           </d>
         </r>

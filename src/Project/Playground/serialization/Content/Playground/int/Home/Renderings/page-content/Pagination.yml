@@ -26,14 +26,14 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="ListSignature=sign1&amp;PageSize=3&amp;Offset&amp;FieldNames&amp;Styles&amp;SourceType={9E4E90DF-6C97-47C0-ABF3-B4C76B750D1B}&amp;DynamicPlaceholderId=1"
+              s:par="ListSignature=sign1&amp;PageSize=3&amp;Offset&amp;FieldNames&amp;Styles&amp;SourceType={9E4E90DF-6C97-47C0-ABF3-B4C76B750D1B}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
             <r
               uid="{0D78E68C-3073-4738-8931-DAB8A9C57402}"
               p:after="*[1=2]"
               s:ds="local:/Data/Pagination"
               s:id="{390954AF-B5B3-4A61-928E-0FF2E1E78F94}"
-              s:par="CollapseModeThreshold=10&amp;ListSignature=sign1"
+              s:par="CollapseModeThreshold=10&amp;ListSignature=sign1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

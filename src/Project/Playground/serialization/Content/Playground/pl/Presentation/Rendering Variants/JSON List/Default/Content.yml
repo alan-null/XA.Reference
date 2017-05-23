@@ -1,0 +1,19 @@
+﻿---
+ID: "1aee19f9-24d9-4a17-b299-a03430901329"
+Parent: "2c5b3152-b872-4956-bbc6-f026a35e8206"
+Template: "f69d787d-0ecf-43d3-b9cb-35b303d5233a"
+Path: /sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/JSON List/Default/Content
+DB: master
+BranchID: "08c12327-7685-4c17-bfca-6aae7a55f4c5"
+SharedFields:
+- ID: "3183d84b-d0b9-4e0c-8813-a82465ccbdc8"
+  Hint: Field Name
+  Value: Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170523T154221Z

@@ -26,21 +26,21 @@ Languages:
               p:before="*"
               s:ds="local:/Data/Location Finder"
               s:id="{1FCE892D-2141-4BA0-9884-CA7C0EC2B1B5}"
-              s:par="Mode=CurrentLocation&amp;MaxPredictiveResultsCount=5&amp;SearchSignature=123&amp;Styles"
+              s:par="Mode=CurrentLocation&amp;MaxPredictiveResultsCount=5&amp;SearchSignature=123&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
             <r
               uid="{16A25F6D-4F6C-4F63-869A-3BB6C4D86A4E}"
               p:after="r[@uid='{8C5DB3DA-1DF3-4549-9F5F-C6886800E029}']"
               s:ds="local:/Data/Map"
               s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
-              s:par="Signature=123&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles"
+              s:par="Signature=123&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
             <r
               uid="{789E6407-D4FF-4D53-8C31-64CA32719953}"
               p:after="*[1=2]"
               s:ds="{C9566991-AACF-4BC4-9AA7-281E5AA0FA2E}"
               s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
-              s:par="SearchSignature&amp;FieldNames&amp;Styles&amp;Scope=%7BA310E304-F08C-4095-A7F3-BC2510C231AA%7D&amp;PageSize=0&amp;DefaultLanguageFilter&amp;DefaultSortOrder"
+              s:par="SearchSignature&amp;FieldNames&amp;Styles&amp;Scope={A310E304-F08C-4095-A7F3-BC2510C231AA}&amp;PageSize=0&amp;DefaultLanguageFilter&amp;DefaultSortOrder&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="hidden" />
           </d>
         </r>

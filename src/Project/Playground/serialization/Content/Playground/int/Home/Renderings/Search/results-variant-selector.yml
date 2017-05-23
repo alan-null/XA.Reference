@@ -25,7 +25,7 @@ Languages:
               uid="{8F8429DC-8E28-46C3-866D-16713E5E4957}"
               s:ds=""
               s:id="{54A41030-BFF4-49E5-90FC-42A99E602863}"
-              s:par="SearchSignature&amp;Styles&amp;AvailableVariants=%7B568F1C40-087F-4FB5-819F-BEF67EC08269%7D%7C%7B2CA6BDE6-69BC-4D2A-AC6B-6DD88E300CF9%7D"
+              s:par="SearchSignature&amp;Styles&amp;AvailableVariants={568F1C40-087F-4FB5-819F-BEF67EC08269}|{2CA6BDE6-69BC-4D2A-AC6B-6DD88E300CF9}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
           </d>
         </r>

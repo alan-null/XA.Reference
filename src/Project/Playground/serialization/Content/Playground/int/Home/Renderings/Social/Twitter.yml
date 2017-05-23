@@ -25,6 +25,7 @@ Languages:
               uid="{C9EED112-D29F-4807-B226-ADBAE943E496}"
               s:ds="local:/Data/Twitter"
               s:id="{09ED2F12-913C-4675-B3C8-0FB978CFA7DC}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

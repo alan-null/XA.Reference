@@ -22,13 +22,14 @@ Languages:
               p:before="*"
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
             <r
               uid="{E0E2CC35-98AD-4F4E-B0A4-A6E9ACE10A64}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
-              s:par="FieldNames&amp;Styles&amp;NavigationRoot&amp;LevelFrom={A5B4C448-4764-4C76-8737-94270639BAFD}&amp;LevelTo={A5B4C448-4764-4C76-8737-94270639BAFD}&amp;Filter&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames"
+              s:par="FieldNames&amp;Styles&amp;NavigationRoot&amp;LevelFrom={A5B4C448-4764-4C76-8737-94270639BAFD}&amp;LevelTo={A5B4C448-4764-4C76-8737-94270639BAFD}&amp;Filter&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

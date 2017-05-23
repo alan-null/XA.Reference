@@ -26,12 +26,13 @@ Languages:
               p:before="*"
               s:ds="{F14750C3-7BF1-46BA-A8EE-46E93ED01372}"
               s:id="{F2CCA16D-7524-4E99-8EE0-78FF6394A3B3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/mvcform-1" />
             <r
               uid="{C4A66CFB-8EA3-4848-BB21-DF29713C1A1D}"
               p:after="*[1=2]"
               s:id="{8C00D7C3-0A17-4A36-88A3-FFCB7BD2CCF5}"
-              s:par="DynamicPlaceholderId=1"
+              s:par="DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

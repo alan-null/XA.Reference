@@ -26,21 +26,21 @@ Languages:
               p:before="*"
               s:ds="local:/Data/Location Finder"
               s:id="{1FCE892D-2141-4BA0-9884-CA7C0EC2B1B5}"
-              s:par="Mode=Mixed&amp;MaxPredictiveResultsCount=5&amp;SearchSignature&amp;Styles"
+              s:par="Mode=Mixed&amp;MaxPredictiveResultsCount=5&amp;SearchSignature&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
             <r
               uid="{F9408C08-2096-47A6-AC90-237403214DC1}"
               p:after="r[@uid='{E8203C6D-AC17-493C-89A1-AF2C22257F39}']"
               s:ds="local:/Data/Filter Radius"
               s:id="{0530B0DA-35E3-405A-A50E-48B0199E8E22}"
-              s:par="Radius Scheme=%7BF7B8A77A-5235-4DA1-8346-B0DA0495CAC5%7D&amp;SearchSignature&amp;Styles"
+              s:par="Radius Scheme={F7B8A77A-5235-4DA1-8346-B0DA0495CAC5}&amp;SearchSignature&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
             <r
               uid="{A02FFA16-0962-411B-999E-A41A53E29669}"
               p:after="*[1=2]"
               s:ds="local:/Data/Map"
               s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
-              s:par="Signature&amp;CenterOnFoundPOI=1&amp;AnimateFoundPOI=1&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles"
+              s:par="Signature&amp;CenterOnFoundPOI=1&amp;AnimateFoundPOI=1&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

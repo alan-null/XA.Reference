@@ -25,7 +25,7 @@ Languages:
               uid="{6BD1B2CD-9E33-4101-B627-4255E69C9AB2}"
               s:ds="local:/Data/Filter Checklist"
               s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
-              s:par="SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection=1&amp;MultiSelection"
+              s:par="SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection=1&amp;MultiSelection&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
           </d>
         </r>

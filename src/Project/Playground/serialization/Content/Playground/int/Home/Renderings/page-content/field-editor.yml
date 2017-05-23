@@ -25,7 +25,7 @@ Languages:
               uid="{2034B266-35FB-4136-B671-EFCE95A1ACBE}"
               s:ds=""
               s:id="{76891D2D-6653-483F-AE86-A77FE6E96AC6}"
-              s:par="FieldNames&amp;Styles"
+              s:par="FieldNames&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

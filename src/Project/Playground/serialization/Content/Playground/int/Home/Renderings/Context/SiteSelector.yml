@@ -24,6 +24,7 @@ Languages:
             <r
               uid="{47EBB1E3-3EDC-4728-AA44-A3D391BBF6D2}"
               s:id="{7E905ED5-E2A7-41A4-90E4-1C5E4807074E}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

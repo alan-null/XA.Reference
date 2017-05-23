@@ -25,7 +25,7 @@ Languages:
               uid="{59EAE6FA-0305-40CE-B227-0720AD970C01}"
               s:ds="local:/Data/Promo"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="FieldNames&amp;Styles&amp;DynamicPlaceholderId=1"
+              s:par="FieldNames&amp;Styles&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

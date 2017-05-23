@@ -25,7 +25,7 @@ Languages:
               uid="{A9E2EE6F-A11C-4744-88FF-1B9425BD45BF}"
               s:ds="local:/Data/Flip"
               s:id="{00C953FE-D508-4836-96A4-CF60887AE5F1}"
-              s:par="Styles&amp;DynamicPlaceholderId=1"
+              s:par="Styles&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

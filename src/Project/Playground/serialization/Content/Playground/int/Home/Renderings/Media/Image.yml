@@ -25,6 +25,7 @@ Languages:
               uid="{80BEA47D-97EF-48C5-80D2-F8BE1077D400}"
               s:ds="local:/Data/Image 1"
               s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

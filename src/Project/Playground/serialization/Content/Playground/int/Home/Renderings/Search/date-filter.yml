@@ -25,7 +25,7 @@ Languages:
               uid="{DE7A6E4C-EC5F-41D4-83AC-3FA181FEA85B}"
               s:ds="local:/Data/Filter Date"
               s:id="{09EAAD94-9FE3-4649-A8B1-EB19AA1ABDFB}"
-              s:par="SearchSignature&amp;Styles&amp;FromDateDefaultOffset&amp;FromDateDisplayFormat=%7BE4AA0F63-C3D7-4BB3-A0FF-C6C59734D382%7D&amp;FromDateMonthsShown=1&amp;FromDatePastDays=1&amp;FromDateVisible=1&amp;ToDateDefaultOffset&amp;ToDateDisplayFormat=%7BE4AA0F63-C3D7-4BB3-A0FF-C6C59734D382%7D&amp;ToDateMonthsShown=1&amp;ToDateFutureDays=1&amp;ToDateVisible=1"
+              s:par="SearchSignature&amp;Styles&amp;FromDateDefaultOffset&amp;FromDateDisplayFormat={E4AA0F63-C3D7-4BB3-A0FF-C6C59734D382}&amp;FromDateMonthsShown=1&amp;FromDatePastDays=1&amp;FromDateVisible=1&amp;ToDateDefaultOffset&amp;ToDateDisplayFormat={E4AA0F63-C3D7-4BB3-A0FF-C6C59734D382}&amp;ToDateMonthsShown=1&amp;ToDateFutureDays=1&amp;ToDateVisible=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
           </d>
         </r>

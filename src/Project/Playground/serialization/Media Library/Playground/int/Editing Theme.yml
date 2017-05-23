@@ -1,16 +1,19 @@
 ﻿---
 ID: "0ca7940e-44d0-4387-af1d-c989c22fd295"
 Parent: "b79d48b4-b2ec-4e37-9ec3-a2ffed9a7c65"
-Template: "f7653f31-6f17-4daa-9217-8e116babc927"
+Template: "78086ca4-8985-45eb-8aa7-b2948d2a0e06"
 Path: /sitecore/media library/Project/SXA Reference/Playground/int/Editing Theme
 DB: master
 SharedFields:
 - ID: "384c2d3c-3e34-4493-9cb2-ade68caf0da2"
   Hint: BaseLayout
-  Type: Multilist
+  Type: Treelist
   Value: |
     {47E2FFF3-3900-4D32-8C70-8C76B8EFA66A}
     {BB9FCC9B-9302-41B4-B75E-849A1870E6ED}
+    {458A21EB-EA0B-4494-A91C-0441C72D0224}
+    {60FA207F-B0AB-417F-B187-2824D6EF7C8E}
+    {B2808B2D-50FC-4D77-BEAB-2FDA5F654B91}
 Languages:
 - Language: en
   Versions:

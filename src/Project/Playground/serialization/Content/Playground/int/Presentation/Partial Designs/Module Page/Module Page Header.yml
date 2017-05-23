@@ -22,14 +22,14 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
-              s:par="FieldNames&amp;Styles&amp;BreadcrumbRoot&amp;Separator=&gt;&amp;IsNavigation&amp;Filter"
+              s:par="FieldNames&amp;Styles&amp;BreadcrumbRoot&amp;Separator=&gt;&amp;IsNavigation&amp;Filter&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="header" />
             <r
               uid="{73F26E6B-1309-46A2-8064-BCF16A402722}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
-              s:par="FieldNames={B1E91DA9-A959-47BA-B2B9-F22F72B6EA21}&amp;Styles={08EE6B75-C545-44C0-B579-3D72B86A7561}"
+              s:par="FieldNames={B1E91DA9-A959-47BA-B2B9-F22F72B6EA21}&amp;Styles={08EE6B75-C545-44C0-B579-3D72B86A7561}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="header" />
           </d>
         </r>

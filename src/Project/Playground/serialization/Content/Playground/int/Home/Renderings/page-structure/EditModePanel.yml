@@ -26,12 +26,13 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{76891D2D-6653-483F-AE86-A77FE6E96AC6}"
-              s:par="FieldNames&amp;Styles"
+              s:par="FieldNames&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/edit-panel-" />
             <r
               uid="{0FE204D5-A869-43E9-9F65-6A33AC026793}"
               p:after="*[1=2]"
               s:id="{FE0F0660-13A7-4AC0-A71A-6CBFE2D158BE}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>

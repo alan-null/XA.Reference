@@ -4,6 +4,10 @@ Parent: "dbf95b59-47d0-4b49-b686-1a6b72cd67a6"
 Template: "dbf95b59-47d0-4b49-b686-1a6b72cd67a6"
 Path: /sitecore/templates/Project/SXA Reference/Playground/Settings/__Standard Values
 DB: master
+SharedFields:
+- ID: "ad84cc6b-32ef-49d8-9326-916976cb2520"
+  Hint: Grid Mapping
+  Value: "{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}={8250F168-8C71-49AF-A4C2-F2C95D607CB8}"
 Languages:
 - Language: en
   Versions:
