@@ -155,6 +155,9 @@ Languages:
     - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
       Hint: Title
       Value: MoviesHub
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 
     - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
       Hint: MetaDescription
       Value: Example search page which uses most of SXA search renderings to present how they can play together.
