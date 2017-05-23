@@ -1,0 +1,37 @@
+﻿---
+ID: "a77d883b-9df2-4d09-b61a-47cc71ef2083"
+Parent: "6beae1c2-bac8-4ede-a67a-fe734f43cadf"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/json/json-list"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: JSON List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}">
+            <r
+              uid="{E919120E-8436-47DC-9CA1-A957A80BA86D}"
+              s:ds="{6BEAE1C2-BAC8-4EDE-A67A-FE734F43CADF}"
+              s:id="{D8C494B3-981D-47BF-8FC4-00EBA63FFEBC}"
+              s:par="SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;Property Name=data&amp;FieldNames={1DBB3508-BE85-4C11-96CD-7C7B1AF6102A}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170523T195811Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

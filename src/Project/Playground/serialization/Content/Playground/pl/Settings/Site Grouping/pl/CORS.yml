@@ -1,0 +1,15 @@
+﻿---
+ID: "b871b1aa-309e-496f-b535-5228abd7ee2d"
+Parent: "7fab29c9-931b-486c-9cdf-c3ed38d62255"
+Template: "3d55c326-3353-48cd-bedc-e8ae0cb9ef4d"
+Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Site Grouping/pl/CORS
+DB: master
+BranchID: "f0e39dc1-6a4f-41ed-b0fe-b65bf09a1745"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170523T203645Z

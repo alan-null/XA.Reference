@@ -5,6 +5,13 @@ Template: "6669dc16-f106-44b5-96be-7a31ae82b5b5"
 Path: /sitecore/content/SXA Reference/Playground/int
 DB: master
 BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "33d9005e-1f71-415f-b107-53b965c3b037"
+  Hint: SiteMediaLibrary
+  Value: "{B79D48B4-B2EC-4E37-9EC3-A2FFED9A7C65}"
+- ID: "d7264a2b-e343-4613-a71a-1727f50dbc15"
+  Hint: ThemesFolder
+  Value: "{B79D48B4-B2EC-4E37-9EC3-A2FFED9A7C65}"
 Languages:
 - Language: en
   Versions:

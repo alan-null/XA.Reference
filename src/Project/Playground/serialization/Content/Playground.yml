@@ -12,6 +12,9 @@ SharedFields:
 - ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
   Hint: Templates
   Value: "{1530FE31-19BD-4059-8F9C-ADABCA39D828}"
+- ID: "abfb8c52-73a8-4f60-a32a-f27dd8e1b83a"
+  Hint: Themes
+  Value: "{63AB1E3B-C182-4EF0-874E-1831D1DF4BBF}"
 - ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
   Value: "{63AB1E3B-C182-4EF0-874E-1831D1DF4BBF}"

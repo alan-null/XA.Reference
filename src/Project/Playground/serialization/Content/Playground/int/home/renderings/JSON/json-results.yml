@@ -1,0 +1,36 @@
+﻿---
+ID: "e910a6ed-b9e7-4661-8f12-48c1bc670ee8"
+Parent: "6beae1c2-bac8-4ede-a67a-fe734f43cadf"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/json/json-results"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: JSON Results
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}">
+            <r
+              uid="{89C1B585-BAE1-4CE2-B880-CE346E68800F}"
+              s:id="{E082338F-800E-42FE-8AED-87F586960F24}"
+              s:par=""
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170523T195757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
