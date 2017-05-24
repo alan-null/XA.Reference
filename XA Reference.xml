@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>2.0</Version>
+      <Version>2.1</Version>
       <Revision />
       <License />
       <Comment />
@@ -1333,6 +1333,14 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/NavigationTitle/__Display Name/{EEC69521-8047-44D9-9871-85A6240941D1}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/NavigationTitle/{CDCA9AAE-DB8E-47EA-A6D8-A25383AA2401}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/NavigationTitle/Title/{20659C95-8E01-4C4D-83D5-D895070EF3C7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/json/{6BEAE1C2-BAC8-4EDE-A67A-FE734F43CADF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/json/json-content/{8ADB2EA5-0360-45DD-A4B2-056EB72CA393}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/json/json-list/{A77D883B-9DF2-4D09-B61A-47CC71EF2083}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/json/json-results/{E910A6ED-B9E7-4661-8F12-48C1BC670EE8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Site Grouping/playground/CORS/{D6118964-8F26-4D19-975D-E4CE0C91BE4D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Site Grouping/playground/CORS/default/{4E36B82B-864B-4692-A480-C96E6611BD8E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Site Grouping/pl/CORS/{B871B1AA-309E-496F-B535-5228ABD7EE2D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Site Grouping/pl/CORS/default/{16502E52-116B-4F65-84F6-7C096186FF2F}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
