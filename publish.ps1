@@ -4,6 +4,7 @@ $configuration  = "Debug"
 
 $publishsettings = ".\publishsettings.targets"
 $sxaReferenceConfig = ".\zzz.Sxa.Reference.config"
+$MSBuildCall = "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MSBUILD.exe"
 ####
 
 
@@ -40,7 +41,7 @@ Write-Host "2. Building projects" -ForegroundColor "Green"
 Get-ChildItem $currentDirectory.FullName -Recurse -Filter "*.csproj"| %{
     $projectPath = $_.FullName.Replace($currentDirectory.FullName,".")
     Write-Host "`tBuilding project $($_.Name)" -ForegroundColor "Cyan"
-    msbuild $projectPath /p:Configuration=$configuration /p:Platform=AnyCPU /t:WebPublish /p:WebPublishMethod=FileSystem /p:DeleteExistingFiles=$deleteExistingFiles /p:publishUrl=$publishPath /v:q
+    & $MSBuildCall $projectPath /p:Configuration=$configuration /p:Platform=AnyCPU /t:WebPublish /p:WebPublishMethod=FileSystem /p:DeleteExistingFiles=$deleteExistingFiles /p:publishUrl=$publishPath /v:q
 }
 
 
