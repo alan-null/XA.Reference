@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>2.1</Version>
+      <Version>3.0</Version>
       <Revision />
       <License />
       <Comment />
@@ -991,6 +991,16 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Breadcrumb/Default/NavigationTitle/__Display Name/{47CC7EC8-A371-4508-9F35-F955B170A4CE}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Breadcrumb/Default/NavigationTitle/{E204E6D6-A49B-4128-81CA-1E86D533E398}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Breadcrumb/Default/NavigationTitle/Title/{9720CCCC-7768-47C9-9B16-3617E6038F48}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/{8DF507FB-5FF6-4538-B298-01615BA78422}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/{7F2F4340-C348-4F48-A3AC-11D1625A1FFE}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/Event Info/{945A7BA4-2235-4797-9690-83363B24FD03}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/Event Info/EventDescription/{A6C3C915-F7FA-47A5-9E58-C0368921C73C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/Event Info/EventName/{7925C3EF-5B07-4074-A0A9-3F8BEF2713A9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/Event List Time/{CE6738B2-60E9-48D8-8E99-DF5F8D24DD2F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/Event List Time/EventEnd/{2FF29F06-F8F3-4F73-8516-C4259D17B50E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/Event List Time/EventStart/{3165262E-82F5-41D6-99F1-D3BF90E4F3E6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/EventLink/{CDEC182A-8FAC-4986-9469-E1195BD565C1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/EventPlace/{EFB7F81D-C296-4761-A6BF-1635B5BE094B}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Field Editor/{F9378ED2-A3A1-4B47-95BF-D0DA1561D165}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Field Editor/Default/__Created by/{A7973A35-4890-465F-957A-B45B6865541D}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Field Editor/Default/__Updated/{CA3F7E5E-41B8-4B4C-A337-805B3253085B}/invariant/0</x-item>
@@ -1004,9 +1014,18 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/File List/All Fields/File/$Size/{2D5F9264-F809-494E-907B-448A2C48FD3E}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/File List/All Fields/File/{6198C51C-AC6C-4B82-AF11-D74A612907BE}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/File List/All Fields/LinkText/{F89CD42E-3097-4A31-B2E9-E66D6AD30967}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Image/{345923A5-598A-4E63-81E9-2AFB8B6226C4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Image/Default/{7ED82F21-11C0-420F-B4BE-2B85656EA0CB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Image/Default/Image/{A45B2A6A-F267-4A67-89AC-3FF5C6289432}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Image/Default/ImageCaption/{C1B81515-A9AF-4016-BE00-AF5457A1C6B6}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Link List/{676179E1-3F48-4161-818B-66744B2D48F0}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Link List/Default/{A2E902BD-88ED-431B-A744-E5EB887CAA5B}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Link List/Default/Link/{DB10A459-21A4-466B-82DB-D887EE2223F6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Link/{297EFBF4-8BF8-46B3-92AB-930A622CE36E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Link/Default/{94D39E46-A4A7-49AC-A772-6ADCCE3ADBD4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Link/Default/Link/__Display Name/{BBC34E70-6313-4E8A-96A5-A62069BF2CBF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Link/Default/Link/{B668B04E-0412-4814-80E0-3F70CE1AD567}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Link/Default/Link/Title/{A9E23775-EEDD-4967-A0EB-C051ED31A071}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Media Link/{69A1D428-2712-407D-B13B-586CE100B8E2}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Media Link/Default/{6DD4DE26-1860-4AF4-9362-FD631AD2217E}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Media Link/Default/File/{A16219CC-E1DA-456B-A402-666A87650FDA}/invariant/0</x-item>
@@ -1078,6 +1097,9 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Promo/Default/Promo Text/Promo Body/{ECBD9E15-CDBB-4F2A-8332-7532DC26A8CC}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Promo/Default/Promo Text/Promo Body/Promo Text/{BA69110C-F9D3-46EE-AF08-F7CABE2CCA20}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Promo/Default/Promo Text/Promo Link/{624CA3CA-E4F8-48C9-9DE3-3994C7BE1CE6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/RichText/{10C8E9F6-FDAD-4075-9AF8-949EA7DD165C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/RichText/Default/{50D79F37-1B8C-4246-B86D-B19559DCB5A3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/RichText/Default/Text/{6FBACC0E-118F-42F9-B601-ACFE51EE73B8}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Search Box/{0662E73B-C1EB-4EF0-A7D5-B43763F3A95C}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Search Box/Default/{4688BCA4-93C9-42EF-BD4F-779FD6A039B6}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Search Box/Default/Title/__Display Name/{3C752B94-969C-4ED3-B2CE-3A72A0832CF3}/invariant/0</x-item>
@@ -1265,6 +1287,31 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Partial Designs/Metadata Partial Design/{C8112CE5-1608-4933-B787-0EB4FE21A63B}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/POI Types/{1A9CA573-BEE5-425D-8253-1281D3146374}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/{87BB479E-AB31-4F91-AA49-AD031821A697}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/{9CAB34D2-2144-4515-B798-96949C45D1D6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/{FEB42D07-E00F-4EEF-901D-38B7C8C800AA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/Event Info/{92596942-DCA3-4276-826D-69F1696FEA82}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/Event Info/EventDescription/{2C061979-8A2F-497D-98D4-9E3A16EE0744}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/Event Info/EventName/{72875E66-C7A4-41FA-BC6E-90927BEEAA00}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/Event List Time/{C1A91041-22EC-4AF0-B9A6-E2B73E1F4399}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/Event List Time/EventEnd/{DF225A37-17A8-4708-8899-17696EE2C3EF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/Event List Time/EventStart/{C4E3D666-41B6-4DA0-83A7-3AA48588551D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/EventLink/{2579A9D1-8697-4F0B-A0AD-6FCB97AA51E6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Event List/Default/EventPlace/{B739A8B9-F535-47BF-B182-4F6E43DA20FD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Image/{764883B3-79CB-4EB2-939B-108981861C94}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Image/Default/{489C6839-AB44-4A80-9CF5-17C8E8D137C1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Image/Default/Image/{9D319310-6C9F-455E-B60A-320E702E0D61}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Image/Default/ImageCaption/{F8DC3451-3CE3-4615-B336-5599F7591214}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Link List/{58684490-21AF-4608-8512-25E35E595E65}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Link List/Default/{F0F8FA19-8FE0-4A7B-A5D7-BAAD89C1FDBF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Link List/Default/Link/{9F11B079-6AFE-4E06-93A3-C4601BC95A7C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Link/{891199B1-4406-4F0E-9D91-BAC72DDC550F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Link/Default/{E545790B-2D24-4B66-9545-5C94BAA60DA2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Link/Default/Link/__Display Name/{EDC4F593-2644-4BEA-9AC3-7775D7AF3AC8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Link/Default/Link/{2AA6665E-1725-4145-8375-8907D0654455}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/Link/Default/Link/Title/{4C9B7713-9F0E-4D55-ADA2-B3642A9EB28C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/RichText/{4EC0E95F-8030-414D-9D1C-05AD81D9EB40}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/RichText/Default/{0564BF4C-DF01-4BC7-BFC6-0F121D5EE3EC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/RichText/Default/Text/{F1072E76-619F-4B18-9163-7ABE3AB9DB11}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Styles/{8B469A6B-A491-4DDE-8953-C5070D4074F8}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/{8B34E43A-FE4F-4160-A50C-2EF89A827361}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Browser Title/{7869C377-95E3-44C4-A3FA-12C197CE28AB}/invariant/0</x-item>
