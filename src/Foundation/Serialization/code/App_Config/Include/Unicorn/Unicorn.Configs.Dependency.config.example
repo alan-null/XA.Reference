@@ -23,6 +23,31 @@
 				<!-- You may depend on more than one configuration. Transitive dependency relationships (e.g. A->B->C) are respected. -->
 				<configuration name="Sample Doubly Dependent Configuration" dependencies="Default Configuration,Sample Dependent Configuration">
 				</configuration>
+
+				<!-- You may depend on configurations by wildcards. -->
+				<configuration name="Sample Wildcard Dependent Configuration" dependencies="Foundation.*,Project.*">
+				</configuration>
+
+				<!-- 
+					Configurations will AUTOMATICALLY depend on each other if they include descendant roots of each other
+					e.g. in this example, 'Sample Implicit Child Configuration' will depend on 'Sample Implicit Parent Configuration'
+				-->
+				<configuration name="Sample Implicit Parent Configuration">
+					<predicate>
+						<include database="master" path="/sitecore/content" />
+					</predicate>
+				</configuration>
+				<configuration name="Sample Implicit Child Configuration">
+					<predicate>
+						<include database="master" path="/sitecore/content/Home" />
+					</predicate>
+				</configuration>
+				
+				<!-- 
+					Picked up an implicit dependency you don't want? You can reject specific implicit dependencies, including with wildcards:
+				-->
+				<configuration name="Sample Rejected Implicit Dependency Configuration" ignoredImplicitDependencies="Foundation.Serialization,Project.*">
+				</configuration>
 			</configurations>
 		</unicorn>
 	</sitecore>
