@@ -4,6 +4,29 @@ Parent: "117fc52d-ef29-402a-ab1d-2f3685d3ce2b"
 Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
 Path: /sitecore/content/SXA Reference/Playground/int/Home/renderings/composites/flip/Data/Flip/Flipside 2
 DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{B794ED3A-F795-4C94-B366-FCFDF57D75AE}">
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles"
+          ph="section-title"
+          uid="{8B6D9007-3E84-4EA7-A4E9-84E73AF789D6}" />
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles"
+          ph="section-content"
+          uid="{5A337C15-5B29-4461-86E0-9B9A31D17D64}" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -14,7 +37,8 @@ Languages:
       Value: 20170212T211817Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."

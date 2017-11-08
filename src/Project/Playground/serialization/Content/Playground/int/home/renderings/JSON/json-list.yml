@@ -26,7 +26,7 @@ Languages:
               s:ds="{6BEAE1C2-BAC8-4EDE-A67A-FE734F43CADF}"
               s:id="{D8C494B3-981D-47BF-8FC4-00EBA63FFEBC}"
               s:par="SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;Property Name=data&amp;FieldNames={1DBB3508-BE85-4C11-96CD-7C7B1AF6102A}"
-              s:ph="main" />
+              s:ph="json" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
@@ -40,4 +40,5 @@ Languages:
       Value: JSON List
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

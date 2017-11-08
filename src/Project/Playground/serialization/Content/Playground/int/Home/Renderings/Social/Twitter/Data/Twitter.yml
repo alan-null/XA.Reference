@@ -10,7 +10,7 @@ SharedFields:
   Value: 5
 - ID: "50b49831-4e52-4a67-8393-d7393f22cf37"
   Hint: TwitterApp
-  Value: /sitecore/content/SXA Reference/Playground/int/Settings/Twitter Apps/Twitter App
+  Value: "{1B280BAA-1204-4C01-B7EE-4075524F8194}"
 - ID: "cac61c98-28fb-4b4b-9fd3-081d74fea9c1"
   Hint: CacheInterval
   Value: 0
@@ -27,7 +27,8 @@ Languages:
       Value: 20170214T115901Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "ae1eb2d8-3a7c-4337-83df-1b0b0c857bee"
       Hint: Title
       Value: Twitter

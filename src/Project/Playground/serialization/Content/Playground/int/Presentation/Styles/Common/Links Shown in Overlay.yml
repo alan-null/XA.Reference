@@ -36,6 +36,10 @@ SharedFields:
     {F0DE3E5B-F5E0-4299-B3A2-59C234B985C3}
     {76891D2D-6653-483F-AE86-A77FE6E96AC6}
     {896A2C68-1362-4E88-8BA0-1805AE6D4837}
+- ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
+  Hint: IsVerifiedStyle
+  Type: Checkbox
+  Value: 1
 Languages:
 - Language: en
   Versions:
@@ -46,4 +50,5 @@ Languages:
       Value: 20170212T133348Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

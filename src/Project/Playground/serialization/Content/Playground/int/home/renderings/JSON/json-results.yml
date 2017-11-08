@@ -25,7 +25,7 @@ Languages:
               uid="{89C1B585-BAE1-4CE2-B880-CE346E68800F}"
               s:id="{E082338F-800E-42FE-8AED-87F586960F24}"
               s:par=""
-              s:ph="main" />
+              s:ph="json" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
@@ -39,4 +39,5 @@ Languages:
       Value: JSON Results
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

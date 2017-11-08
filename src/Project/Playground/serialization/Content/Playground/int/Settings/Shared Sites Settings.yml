@@ -1,0 +1,18 @@
+﻿---
+ID: "f93024ca-afc6-420b-affa-691f1213484b"
+Parent: "eb5ef213-5a69-4594-b2e7-29e55edb8481"
+Template: "18d0bd79-7da4-4c2a-a924-b93a2b99d669"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Shared Sites Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171108T150439Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

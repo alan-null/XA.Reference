@@ -14,6 +14,7 @@ SharedFields:
     {458A21EB-EA0B-4494-A91C-0441C72D0224}
     {60FA207F-B0AB-417F-B187-2824D6EF7C8E}
     {B2808B2D-50FC-4D77-BEAB-2FDA5F654B91}
+    {F7EBFA55-129B-43C4-88EB-E9D03D2E0C41}
 Languages:
 - Language: en
   Versions:
@@ -24,4 +25,5 @@ Languages:
       Value: 20170212T133419Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

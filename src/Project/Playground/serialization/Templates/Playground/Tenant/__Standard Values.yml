@@ -1,0 +1,14 @@
+﻿---
+ID: "c95435e1-e5db-441e-8d03-5df1d8b7a1a7"
+Parent: "9acada96-b36b-4c42-9e63-1bae1d87b941"
+Template: "9acada96-b36b-4c42-9e63-1bae1d87b941"
+Path: /sitecore/templates/Project/SXA Reference/Playground/Tenant/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171108T150456Z

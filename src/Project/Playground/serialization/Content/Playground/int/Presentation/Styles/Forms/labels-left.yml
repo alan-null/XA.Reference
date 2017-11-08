@@ -13,6 +13,10 @@ SharedFields:
   Hint: Allowed Renderings
   Type: TreelistEx
   Value: "{8C00D7C3-0A17-4A36-88A3-FFCB7BD2CCF5}"
+- ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
+  Hint: IsVerifiedStyle
+  Type: Checkbox
+  Value: 1
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 1500
@@ -30,4 +34,5 @@ Languages:
       Value: 20170212T133350Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
