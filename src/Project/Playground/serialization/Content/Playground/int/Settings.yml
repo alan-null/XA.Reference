@@ -22,6 +22,9 @@ SharedFields:
     {B14BAB5B-8965-466B-886B-1F93175BCAB3}
     {041C1F9F-99A4-4EE6-8308-985499F91032}
     {5A6BF1D1-836B-425A-A6E6-32CEAA8FF3A5}
+- ID: "ad84cc6b-32ef-49d8-9326-916976cb2520"
+  Hint: Grid Mapping
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B8250F168-8C71-49AF-A4C2-F2C95D607CB8%257D"
 - ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
   Hint: EditingTheme
   Value: "{0CA7940E-44D0-4387-AF1D-C989C22FD295}"
@@ -31,6 +34,7 @@ SharedFields:
   Value: |
     {3F46272C-F3B8-4913-8C00-3816B436A4D3}
     {B38FC757-8CDF-4339-8907-BFFB445DBDE8}
+    {B43D07BD-61D5-448F-9323-8B6ACAD4F3C4}
 - ID: "e81e1f9e-8b87-495b-9cb7-84a2a23133be"
   Hint: MediaLibrary
   Value: "{B79D48B4-B2EC-4E37-9EC3-A2FFED9A7C65}"
@@ -69,4 +73,5 @@ Languages:
         </ruleset>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
