@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>3.0</Version>
+      <Version>4.0</Version>
       <Revision />
       <License />
       <Comment />
@@ -57,6 +57,10 @@
         <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Rendering Page/Data/Rendering Reference/{AB53E834-AAF0-47A7-B077-D7818393AAB8}/invariant/0</x-item>
         <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Settings/__Standard Values/{9DCDC937-BAFF-483D-AEB9-30AAFC6CA3CD}/invariant/0</x-item>
         <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Settings/{DBF95B59-47D0-4B49-B686-1A6B72CD67A6}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Site/__Standard Values/{50FBD67E-954C-41B9-8903-C3F2C677F99C}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Site/{E36A6A30-1CCF-4EB5-AA5B-7C950479976A}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Tenant/__Standard Values/{C95435E1-E5DB-441E-8D03-5DF1D8B7A1A7}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Tenant/{9ACADA96-B36B-4C42-9E63-1BAE1D87B941}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
@@ -1386,8 +1390,11 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/json/json-results/{E910A6ED-B9E7-4661-8F12-48C1BC670EE8}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Site Grouping/playground/CORS/{D6118964-8F26-4D19-975D-E4CE0C91BE4D}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Site Grouping/playground/CORS/default/{4E36B82B-864B-4692-A480-C96E6611BD8E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Shared Sites Settings/{F93024CA-AFC6-420B-AFFA-691F1213484B}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Site Grouping/pl/CORS/{B871B1AA-309E-496F-B535-5228ABD7EE2D}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Site Grouping/pl/CORS/default/{16502E52-116B-4F65-84F6-7C096186FF2F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Shared Sites Settings/{90EBD65E-2502-4EEF-8A38-6C17EB7D618D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Page Designs/Empty/{9E8F30CD-9FCE-45C6-B8AE-9257BE7F789A}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
