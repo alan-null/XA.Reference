@@ -1,0 +1,18 @@
+﻿---
+ID: "ec8ec897-fa9f-4a4c-ab5f-5901d2dfad53"
+Parent: "492a53da-c7e2-4e16-9dec-2fb79686beb5"
+Template: "5c76ad53-96cd-4b96-9690-dd9af2650171"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings/Item Queries
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210940Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "48c3fbe9-bc5c-41d5-b582-62a4ab4659ea"
+Parent: "9a04d780-85b6-4d92-843a-a4a483313462"
+Template: "8302b292-e67b-4396-ba95-b4f8289249fc"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Maps
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210904Z

@@ -1,0 +1,24 @@
+﻿---
+ID: "0b04073d-92d6-4ca0-b670-f642ba743fcf"
+Parent: "da951c3a-a222-4d69-886a-424a5dd6928f"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Image/Default
+DB: master
+SharedFields:
+- ID: "90294353-706a-431c-b855-cd245824d9fa"
+  Hint: LinkField
+  Value: File
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "file-type-icon-media-link"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D7856572-AFC2-4CB8-84A1-D4CAD015545D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210910Z

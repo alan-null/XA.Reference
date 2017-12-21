@@ -1,0 +1,24 @@
+﻿---
+ID: "0b335b3e-150c-48a5-9fd9-4b877d5517d9"
+Parent: "63b67a76-b9f1-48d5-84a6-1127b98972f9"
+Template: "3e53ac1b-65e8-4ae2-8c5b-8baf9c3d655e"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/Published/Published Asc
+DB: master
+SharedFields:
+- ID: "73a7c430-816e-4481-b4c1-3ab8c2c1052b"
+  Hint: Direction
+  Value: "{71617747-9B14-4E49-8C1B-DBF4669B729F}"
+- ID: "c95b7bad-fa93-41f0-82de-c2c2bf0a0e89"
+  Hint: Facet
+  Value: "{189F350D-1BD3-4F97-A50F-B3BF4F84AC7A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171216T110316Z
+    - ID: "f3b01c7d-bd46-4972-ab13-4c9c95c4f23d"
+      Hint: Title
+      Value: Published

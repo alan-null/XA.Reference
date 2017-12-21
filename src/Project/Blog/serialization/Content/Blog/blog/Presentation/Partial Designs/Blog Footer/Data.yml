@@ -1,0 +1,14 @@
+﻿---
+ID: "893d2406-f2c3-4bd8-8047-51e95f36e4e8"
+Parent: "f068f5c7-c730-45a2-ae59-3746fb0037ed"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Footer/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T220512Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "e74bc9ee-0bae-483e-b3db-183e070e2bdb"
+Parent: "947dddd8-5a95-4ee2-8727-443b8cc34d02"
+Template: "df757e41-d77e-4125-bad0-aa2e75ee4085"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Search/Checklist Filter
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3F0D79A3-62DE-4C9C-9C44-66E3E73AB9CD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T211008Z

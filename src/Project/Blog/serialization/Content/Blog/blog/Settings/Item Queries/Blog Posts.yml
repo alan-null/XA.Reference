@@ -1,0 +1,22 @@
+﻿---
+ID: "c4ff5a19-5e37-4599-829e-5f952bca42bd"
+Parent: "ec8ec897-fa9f-4a4c-ab5f-5901d2dfad53"
+Template: "e379ca4e-ec5d-4001-9489-c0a7ceca4c94"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings/Item Queries/Blog Posts
+DB: master
+SharedFields:
+- ID: "e9657877-584c-4ccf-8300-dc9246c8c80b"
+  Hint: Query
+  Value: "+location:{1E3EA51E-AC2E-4E5E-ACB8-2D40BF2428FD};+template:{efa62406-cfd7-43c6-b702-3f53dfb1cee3};sort:published[desc]"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T215050Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

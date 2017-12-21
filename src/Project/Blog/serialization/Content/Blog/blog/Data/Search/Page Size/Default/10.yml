@@ -1,0 +1,21 @@
+﻿---
+ID: "845ea539-57dc-4894-8452-751a645bb696"
+Parent: "e86f6e6b-fdcb-465a-ae2d-3f7ca20d0019"
+Template: "b682562e-0af6-4b3e-9e3b-45273bbe152d"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Size/Default/10
+DB: master
+SharedFields:
+- ID: "befc61bf-8cfd-4478-9f5c-8422e6e2f005"
+  Hint: Value
+  Value: 10
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{42BA1C4C-DB6C-4B6B-93C5-DE4335100BD6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T211009Z

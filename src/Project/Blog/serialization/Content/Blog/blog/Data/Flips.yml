@@ -1,0 +1,14 @@
+﻿---
+ID: "36b2b859-6092-4242-ba0b-bf8492cd99e7"
+Parent: "9a04d780-85b6-4d92-843a-a4a483313462"
+Template: "8d84f263-a22a-4967-9cce-cc12407e05fc"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Flips
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210847Z

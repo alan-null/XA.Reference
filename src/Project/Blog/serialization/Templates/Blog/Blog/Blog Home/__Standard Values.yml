@@ -1,0 +1,25 @@
+﻿---
+ID: "cf4bca73-0fd2-4cd4-a494-8bdf329da6e4"
+Parent: "49b0550f-c180-40cd-a864-c3fab78d2444"
+Template: "49b0550f-c180-40cd-a864-c3fab78d2444"
+Path: /sitecore/templates/Project/SXA Reference/Blog/Blog/Blog Home/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {EFA62406-CFD7-43C6-B702-3F53DFB1CEE3}
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T212754Z

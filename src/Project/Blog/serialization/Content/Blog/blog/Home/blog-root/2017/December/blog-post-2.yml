@@ -1,0 +1,41 @@
+﻿---
+ID: "0f6a5cf9-9806-45de-b381-123642ee2760"
+Parent: "1d8eb449-b73a-419d-9e3a-ac21eacd98bd"
+Template: "efa62406-cfd7-43c6-b702-3f53dfb1cee3"
+Path: "/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-2"
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{C4438FA0-3C35-4552-960F-85F3706FBC1F}|{BE94A23C-6B01-4B4E-9047-6B263F6DE626}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Blog Post 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T213904Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blog Post 2
+    - ID: "55222d22-7c6b-4493-b501-d4909a8deca8"
+      Hint: Introduction
+      Value: Blog Post 2 Introduction
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8265ac8c-d4a4-403d-bb64-2427a593eb53"
+      Hint: Title
+      Value: Blog Post 2
+    - ID: "df28e3ca-d812-48e6-9947-6daa6b4163a7"
+      Hint: Content
+      Value: Phasellus auctor justo sit amet mauris malesuada mollis nec vestibulum lectus. Aenean ultricies id metus sit amet varius. Curabitur eget fringilla leo, eget dignissim justo. Fusce sit amet arcu eu ligula cursus molestie ac vitae est. Maecenas vel ex purus. Nulla facilisi. Vestibulum luctus tincidunt nibh, eu pellentesque sem efficitur eu.
+    - ID: "fbcbcae4-6360-48e4-addb-defd4a16a5e2"
+      Hint: Published
+      Value: 20171202T220100Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "eb23b72d-0b9f-4553-8de3-8735fea57dc4"
+Parent: "1d8eb449-b73a-419d-9e3a-ac21eacd98bd"
+Template: "efa62406-cfd7-43c6-b702-3f53dfb1cee3"
+Path: "/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-4"
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{C4438FA0-3C35-4552-960F-85F3706FBC1F}|{135DE097-A093-4260-82BF-F2C7D4037592}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Blog Post 4
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T215855Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blog Post 4
+    - ID: "55222d22-7c6b-4493-b501-d4909a8deca8"
+      Hint: Introduction
+      Value: Blog Post 4 Introduction
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8265ac8c-d4a4-403d-bb64-2427a593eb53"
+      Hint: Title
+      Value: Blog Post 4
+    - ID: "df28e3ca-d812-48e6-9947-6daa6b4163a7"
+      Hint: Content
+      Value: Nullam suscipit felis ut magna accumsan, at hendrerit metus viverra. Duis vitae faucibus sapien, sit amet dapibus lacus. Sed nec porta tellus. Aenean nec lectus ut magna dapibus fringilla quis efficitur lorem. Quisque non quam sed libero tempus pulvinar. Nullam in orci id odio ultrices malesuada. Quisque sagittis, nibh eu placerat aliquet, nibh ipsum tempor nisl, eu tristique leo nulla eget lorem. Aenean fringilla, lacus nec tristique auctor, metus lacus gravida lacus, in accumsan neque velit accumsan enim. Pellentesque commodo pulvinar justo et cursus. Curabitur nec rutrum lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ut placerat massa, at semper augue. Vivamus nisl nibh, maximus vel pharetra a, mollis sed diam. Sed porttitor massa vel metus porta hendrerit vitae vel est. Duis iaculis lorem sed scelerisque vulputate.
+    - ID: "fbcbcae4-6360-48e4-addb-defd4a16a5e2"
+      Hint: Published
+      Value: 20171204T220100Z

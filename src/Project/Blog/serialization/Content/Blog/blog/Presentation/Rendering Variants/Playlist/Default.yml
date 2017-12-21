@@ -1,0 +1,21 @@
+﻿---
+ID: "244d3b6d-867d-4fb9-b151-7abdb9298bd3"
+Parent: "cba8ec34-814a-41e4-b738-84504dacff0c"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Playlist/Default
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "default-playlist"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7D35F9CA-4377-4285-A505-426D0902A318}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210913Z

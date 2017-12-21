@@ -1,0 +1,18 @@
+﻿---
+ID: "cc6f6c9f-4d6c-4d91-9ec8-440a06e64178"
+Parent: "492a53da-c7e2-4e16-9dec-2fb79686beb5"
+Template: "0d792404-79aa-483d-bb0c-50785f2e295b"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings/Creative Exchange Storages
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{92A521E9-38BD-4591-84DB-31DFC002033D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210824Z

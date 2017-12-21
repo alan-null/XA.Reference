@@ -1,0 +1,18 @@
+﻿---
+ID: "848240c6-529f-4c92-93ee-f85c00343da7"
+Parent: "10b18615-b2fa-4b5a-8acc-5fffc2730648"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page List/Post List/Introduction
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Introduction
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T214959Z

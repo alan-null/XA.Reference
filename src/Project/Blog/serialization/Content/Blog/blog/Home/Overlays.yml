@@ -1,0 +1,14 @@
+﻿---
+ID: "e69cc6ae-5049-4c9e-9f5a-1f5bd4428045"
+Parent: "161a0b41-907c-4d6b-af43-e5f05335514b"
+Template: "d7bffbe5-dad8-4137-85de-28013313f72f"
+Path: /sitecore/content/SXA Reference/Blog/blog/Home/Overlays
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210826Z

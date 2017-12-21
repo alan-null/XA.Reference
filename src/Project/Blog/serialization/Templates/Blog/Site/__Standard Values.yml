@@ -1,0 +1,22 @@
+﻿---
+ID: "8abc95e9-d746-4b9f-8c18-184ff733435c"
+Parent: "494b6afa-f37c-436d-93e6-0f2ff1e6ebcf"
+Template: "494b6afa-f37c-436d-93e6-0f2ff1e6ebcf"
+Path: /sitecore/templates/Project/SXA Reference/Blog/Site/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {E8E8C94F-4248-43C3-A79F-99FBB49D78E6}
+    {C403EF44-0E81-4336-949F-DEB656EF7F82}
+    {5ECD34F4-B36F-4533-9643-DF41CD8B5036}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210618Z

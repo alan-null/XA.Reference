@@ -1,0 +1,14 @@
+﻿---
+ID: "7d2b6e1b-7376-4a91-8cf0-d477b60b74c1"
+Parent: "9a04d780-85b6-4d92-843a-a4a483313462"
+Template: "a13a1b91-fd2b-494b-9086-008852175b0a"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Carousels
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210847Z

@@ -1,0 +1,28 @@
+﻿---
+ID: "c1ac383e-0dc2-4d35-bce7-e1a5e67d38bb"
+Parent: "8e7a5044-10b3-4770-b892-bc8e20fed5a0"
+Template: "e9686bed-0cf1-4d1f-993f-95a344393767"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Page Designs
+DB: master
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b72681BE7-81AF-4614-B485-EAF07F915387%7d%3d%257B8E69087F-A588-45DB-ABBA-F4025E0EAB0F%257D%26%7b0C0EF8B3-C1A5-4880-8312-18FB5B18D526%7d%3d%257B8E69087F-A588-45DB-ABBA-F4025E0EAB0F%257D%26%7b49B0550F-C180-40CD-A864-C3FAB78D2444%7d%3d%257BBE2D2F01-105F-415F-95D4-C4C9E61D68B4%257D%26%7bEFA62406-CFD7-43C6-B702-3F53DFB1CEE3%7d%3d%257B127F12E4-AC45-43BE-A707-ABE16031539E%257D"
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257BB43D07BD-61D5-448F-9323-8B6ACAD4F3C4%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

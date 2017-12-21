@@ -1,0 +1,14 @@
+﻿---
+ID: "813140ea-0b92-401a-84a0-4c1bd2cfda4c"
+Parent: "8e7a5044-10b3-4770-b892-bc8e20fed5a0"
+Template: "fd612519-1c44-48b7-a44a-d582e22c38dd"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Event Types
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210853Z

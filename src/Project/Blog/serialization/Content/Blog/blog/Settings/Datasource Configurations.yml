@@ -1,0 +1,14 @@
+﻿---
+ID: "18d03607-235c-4f24-b9a3-33652bebf7db"
+Parent: "492a53da-c7e2-4e16-9dec-2fb79686beb5"
+Template: "f86fe270-00a4-492f-bfaf-5bf27e40ce13"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings/Datasource Configurations
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210825Z

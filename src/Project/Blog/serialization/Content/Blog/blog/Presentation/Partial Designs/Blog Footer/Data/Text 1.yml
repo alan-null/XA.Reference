@@ -1,0 +1,21 @@
+﻿---
+ID: "1f0dc606-e5c4-4bd4-8743-d49d3c4a7a2d"
+Parent: "893d2406-f2c3-4bd8-8047-51e95f36e4e8"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Footer/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T220512Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<p>SXA - Blog Example</p>"

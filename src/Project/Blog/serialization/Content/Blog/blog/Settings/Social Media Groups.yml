@@ -1,0 +1,18 @@
+﻿---
+ID: "3bb0640e-4de1-4bcc-9ce0-82c444dbd980"
+Parent: "492a53da-c7e2-4e16-9dec-2fb79686beb5"
+Template: "b14bab5b-8965-466b-886b-1f93175bcab3"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0C61D3F5-59C2-40AD-B24F-D0DAE93EAC65}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T211000Z

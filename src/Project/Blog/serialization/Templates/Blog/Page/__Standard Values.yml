@@ -1,0 +1,36 @@
+﻿---
+ID: "6f129341-33aa-4521-a7c9-2c320ebfea34"
+Parent: "72681be7-81af-4614-b485-eaf07f915387"
+Template: "72681be7-81af-4614-b485-eaf07f915387"
+Path: /sitecore/templates/Project/SXA Reference/Blog/Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {72681BE7-81AF-4614-B485-EAF07F915387}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210618Z
+    - ID: "8265ac8c-d4a4-403d-bb64-2427a593eb53"
+      Hint: Title
+      Value: $name

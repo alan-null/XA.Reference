@@ -1,0 +1,25 @@
+﻿---
+ID: "3dc77f64-683f-4ab4-8c85-85fd601b26f2"
+Parent: "b164a730-2439-4a80-8db5-c7c866f694b9"
+Template: "bb3e6dc9-97aa-47fa-a5ea-7d833a9c4cfc"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings/Facets/Distance
+DB: master
+SharedFields:
+- ID: "2c054663-0478-41ff-8f50-5d5d69cba936"
+  Hint: Unit
+  Value: Kilometers
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3D31398F-C8FC-46A5-B97A-4B3898752D44}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210938Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

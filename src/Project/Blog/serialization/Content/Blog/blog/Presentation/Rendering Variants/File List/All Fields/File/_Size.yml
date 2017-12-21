@@ -1,0 +1,24 @@
+﻿---
+ID: "fec0bdb1-64ec-43ac-8d6c-3e973da5f5ee"
+Parent: "9dfa72f9-025d-4917-afc5-4146d700e0b1"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/File/$Size
+DB: master
+SharedFields:
+- ID: "3a4dd4df-8d32-405f-831a-39f87a550085"
+  Hint: Token
+  Value: $Size
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0C4C1B82-8CAF-4C9E-A7AA-07C19B933B11}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210909Z

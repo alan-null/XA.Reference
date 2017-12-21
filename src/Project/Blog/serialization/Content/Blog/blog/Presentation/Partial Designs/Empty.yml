@@ -1,0 +1,25 @@
+﻿---
+ID: "c62b57db-35d7-4b14-8793-00848112a153"
+Parent: "9b229935-34e7-401b-9c5e-e96b8e49520e"
+Template: "77d700a9-b518-4ffb-973e-d59eec4d1a6d"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Empty
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: empty
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5EAD902D-16C3-4395-B3B3-6A15523215E8}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Empty
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210821Z

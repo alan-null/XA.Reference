@@ -1,0 +1,21 @@
+﻿---
+ID: "c9623e7b-99c5-4802-87b2-b0365413e6b8"
+Parent: "2b71e20b-7820-425a-8f73-4e5e9d37dedf"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Media link/Horizontal media link
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "media-link-horizontal"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7CC9458F-BEFD-4AE4-A678-F5948962A5F4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210839Z

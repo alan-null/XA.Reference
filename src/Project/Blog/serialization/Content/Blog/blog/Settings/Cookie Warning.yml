@@ -1,0 +1,14 @@
+﻿---
+ID: "4470b380-07af-4030-9115-a9ab8afebd2b"
+Parent: "492a53da-c7e2-4e16-9dec-2fb79686beb5"
+Template: "dc66d5da-3216-48e6-ae78-bac8445b6a46"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings/Cookie Warning
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210844Z

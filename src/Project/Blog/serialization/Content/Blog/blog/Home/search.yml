@@ -1,0 +1,55 @@
+﻿---
+ID: "c0a5efa0-5bb3-4925-bae7-2d40023860ef"
+Parent: "161a0b41-907c-4d6b-af43-e5f05335514b"
+Template: "72681be7-81af-4614-b485-eaf07f915387"
+Path: /sitecore/content/SXA Reference/Blog/blog/Home/search
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{2E333890-98AC-49FB-A5BB-A3F90289717F}"
+              p:before="*"
+              s:ds="{14453336-729A-4977-B87A-55D09042C5A4}"
+              s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;SearchSignature&amp;FieldNames=%7B5AA0E7DA-805B-4BDB-AA26-518CEE68B423%7D&amp;Styles&amp;Scope=%7B4DB17BEA-B892-436D-92C5-16574D21E80C%7D&amp;PageSize=5&amp;DefaultLanguageFilter&amp;DefaultSortOrder=%7B99000BAF-B25F-4477-A203-36EA42276130%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-blog-base/column-1-1" />
+            <r
+              uid="{642C61A2-DF1E-4F24-A23A-9373FBC18782}"
+              p:after="*[1=2]"
+              s:ds="{6F435035-8B21-445D-85C2-E7EA86F0AE72}"
+              s:id="{8B668FFA-D23C-43DB-A86F-D47D1D97090C}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-blog-base/column-1-1" />
+          </d>
+        </r>
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{80951561-7031-4C2D-B9D4-F56702EA0411}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171215T221935Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Search
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8265ac8c-d4a4-403d-bb64-2427a593eb53"
+      Hint: Title
+      Value: Search

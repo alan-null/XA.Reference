@@ -1,0 +1,14 @@
+﻿---
+ID: "8c3ec0ba-eda2-42a6-88a6-2efeff27170c"
+Parent: "492a53da-c7e2-4e16-9dec-2fb79686beb5"
+Template: "456067df-fc7d-4639-9177-41f69e81c927"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings/Twitter Apps
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T211001Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "63b67a76-b9f1-48d5-84a6-1127b98972f9"
+Parent: "3b2f0220-eea9-4e1c-bb35-76c7e7dc6655"
+Template: "cd618631-e4e3-4943-a3a4-d3b4b39df327"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/Published
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171216T110310Z

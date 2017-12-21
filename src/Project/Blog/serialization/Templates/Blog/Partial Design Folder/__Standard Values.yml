@@ -1,0 +1,21 @@
+﻿---
+ID: "50f2b01d-1417-410c-824f-d86be2010c83"
+Parent: "36bf4a22-45f6-44a8-ab99-75c355baca96"
+Template: "36bf4a22-45f6-44a8-ab99-75c355baca96"
+Path: /sitecore/templates/Project/SXA Reference/Blog/Partial Design Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {36BF4A22-45F6-44A8-AB99-75C355BACA96}
+    {77D700A9-B518-4FFB-973E-D59EEC4D1A6D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210618Z

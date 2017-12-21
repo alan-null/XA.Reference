@@ -1,0 +1,18 @@
+﻿---
+ID: "31f0871e-df6d-4184-8a25-afe9b9d9824a"
+Parent: "947dddd8-5a95-4ee2-8727-443b8cc34d02"
+Template: "7d431148-b2a1-452d-900f-7e36d864df02"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Search/Range Slider Filter
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9C654BB7-A9B1-4564-A150-A7CCF45056E9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T211009Z

@@ -1,0 +1,36 @@
+﻿---
+ID: "1e3ea51e-ac2e-4e5e-acb8-2d40bf2428fd"
+Parent: "161a0b41-907c-4d6b-af43-e5f05335514b"
+Template: "49b0550f-c180-40cd-a864-c3fab78d2444"
+Path: "/sitecore/content/SXA Reference/Blog/blog/Home/blog-root"
+DB: master
+SharedFields:
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: "{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Blog Root
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{BE2D2F01-105F-415F-95D4-C4C9E61D68B4}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T213850Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blog
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8265ac8c-d4a4-403d-bb64-2427a593eb53"
+      Hint: Title
+      Value: Blog

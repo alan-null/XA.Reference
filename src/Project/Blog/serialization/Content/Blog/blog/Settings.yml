@@ -1,0 +1,71 @@
+﻿---
+ID: "492a53da-c7e2-4e16-9dec-2fb79686beb5"
+Parent: "35d0cd06-43bb-44c1-bbd9-f57651e4fe22"
+Template: "c403ef44-0e81-4336-949f-deb656ef7f82"
+Path: /sitecore/content/SXA Reference/Blog/blog/Settings
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {11F57D7B-CBB2-4647-B98C-71457564BA4F}
+    {0D792404-79AA-483D-BB0C-50785F2E295B}
+    {F86FE270-00A4-492F-BFAF-5BF27E40CE13}
+    {E1CF805E-7F49-4EC9-A25A-182DC798CB5F}
+    {DC66D5DA-3216-48E6-AE78-BAC8445B6A46}
+    {70461699-48E4-45FA-B74B-0CCE849FCA6A}
+    {20EF5E69-B366-4E9E-960B-E451B24DBD46}
+    {5C76AD53-96CD-4B96-9690-DD9AF2650171}
+    {44936C95-BCA9-4FB3-9D98-2066A5FBBB4D}
+    {5A6BF1D1-836B-425A-A6E6-32CEAA8FF3A5}
+    {B14BAB5B-8965-466B-886B-1F93175BCAB3}
+    {041C1F9F-99A4-4EE6-8308-985499F91032}
+- ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+  Hint: EditingTheme
+  Value: "{1B63DA7E-1976-4EB5-B0CC-C83C1C9B0A9D}"
+- ID: "beeede03-ab13-4558-96f9-c3e8957b46f8"
+  Hint: Themes
+  Type: Treelist
+  Value: |
+    {3F46272C-F3B8-4913-8C00-3816B436A4D3}
+    {B43D07BD-61D5-448F-9323-8B6ACAD4F3C4}
+- ID: "e81e1f9e-8b87-495b-9cb7-84a2a23133be"
+  Hint: MediaLibrary
+  Value: "{D4A83A7E-E9EC-4B3E-9E94-DD1053EDB6E4}"
+- ID: "e8881464-38af-4655-be4a-ee10586578a2"
+  Hint: Templates
+  Value: "{9F6B07F8-4135-4903-B38E-03CE11BBB7CD}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3E739E69-859C-4694-8D14-2BA6CA779CC6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210821Z
+    - ID: "4b5d1cb7-e617-4cd0-a7e8-cc8a9fd80688"
+      Hint: Rule
+      Type: Rules
+      Value: |
+        <ruleset>
+          <rule
+            uid="{F0085F97-31B0-4B92-94F4-4DA9507D3E04}">
+            <conditions>
+              <condition
+                id="{E7888105-3B3F-4BD1-B60F-5461EEF4A811}"
+                uid="CCFABC09E1D647B79C5ACB38AF5FB778"
+                operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+                value="{1E3EA51E-AC2E-4E5E-ACB8-2D40BF2428FD}" />
+            </conditions>
+            <actions>
+              <action
+                id="{B9EDB000-4C7C-4770-AD29-BEC226213AFC}"
+                uid="9B2A35B1BE974A348FF60802C8F1653D"
+                format="yyyy/MMMM" />
+            </actions>
+          </rule>
+        </ruleset>

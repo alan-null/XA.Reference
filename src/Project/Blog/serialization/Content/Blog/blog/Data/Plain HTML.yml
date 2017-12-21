@@ -1,0 +1,14 @@
+﻿---
+ID: "5a2d585c-1439-45d0-9014-b8890b70e9e0"
+Parent: "9a04d780-85b6-4d92-843a-a4a483313462"
+Template: "5ab4ae85-0e97-4afb-8498-b93c657a0df0"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Plain HTML
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210924Z
