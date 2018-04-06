@@ -7,7 +7,8 @@ DB: master
 SharedFields:
 - ID: "143876b0-7834-4a7d-9da1-6fecafa9b98e"
   Hint: SwfSource
-  Value: "<link linktype=\"media\" target=\"\" id=\"{C983EC9C-7F95-49D1-8627-962526E2BC54}\" />"
+  Value: |
+    <link linktype="media" target="" id="{C983EC9C-7F95-49D1-8627-962526E2BC54}" />
 - ID: "33b40c29-01f9-4782-8a0b-ae6bbe60ed4c"
   Hint: Wmode
   Value: "{0E9D4BD6-0E93-41CE-B3C1-2673C561DF02}"
@@ -21,4 +22,5 @@ Languages:
       Value: 20170213T092008Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

@@ -11,15 +11,11 @@ Languages:
     Fields:
     - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
       Hint: PartialDesigns
-      Type: Treelist
-      Value: |
-        {9D30CC7A-C9F2-4655-9B4A-8248CEFE98D9}
-        {F4C5F8D6-05D9-4FF7-8AD4-31C475719718}
-        {595655FC-6676-4FA1-99E0-480ED7444786}
-        {B463B75A-3672-48B1-BE3B-AAE9783D7E5E}
+      Value: "{9D30CC7A-C9F2-4655-9B4A-8248CEFE98D9}|{F4C5F8D6-05D9-4FF7-8AD4-31C475719718}|{595655FC-6676-4FA1-99E0-480ED7444786}|{B463B75A-3672-48B1-BE3B-AAE9783D7E5E}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184615Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

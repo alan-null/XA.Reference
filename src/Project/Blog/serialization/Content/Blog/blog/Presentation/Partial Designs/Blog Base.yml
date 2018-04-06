@@ -53,7 +53,7 @@ Languages:
               uid="{4BAD2172-09FA-4A67-B7A5-215045745C56}"
               p:after="*[1=2]"
               s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={F6043E6B-4CE6-4381-87CA-A33E8FD7F3B4}&amp;ColumnWidth2={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1,2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={F6043E6B-4CE6-4381-87CA-A33E8FD7F3B4}&amp;ColumnWidth2={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1"
               s:ph="main" />
           </d>
         </r>

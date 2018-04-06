@@ -24,7 +24,8 @@ Languages:
       Value: 20170212T233355Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7db4985a-73a1-44a3-9b2c-ffea56093431"
       Hint: Description
       Value: |

@@ -14,16 +14,19 @@ Languages:
       Value: 20170213T092349Z
     - ID: "413f42d9-9868-418a-9a0e-770202b9ccc4"
       Hint: CustomImage
-      Value: "<image mediaid=\"{DB854E88-4293-4D0B-9623-85F58FCAB7D6}\" />"
+      Value: |
+        <image mediaid="{DB854E88-4293-4D0B-9623-85F58FCAB7D6}" />
     - ID: "58deef8c-1a88-449e-b165-bfe3be9b53b7"
       Hint: LinkText
       Value: LinkText (Chris)
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
       Hint: File
-      Value: "<file mediaid=\"{DB854E88-4293-4D0B-9623-85F58FCAB7D6}\" src=\"-/media/DB854E8842934D0B962385F58FCAB7D6.ashx\" />"
+      Value: |
+        <file mediaid="{DB854E88-4293-4D0B-9623-85F58FCAB7D6}" src="-/media/DB854E8842934D0B962385F58FCAB7D6.ashx" />
     - ID: "75797cec-589f-47e2-b416-45cff546eee1"
       Hint: Description
       Value: Chris 128x128 description

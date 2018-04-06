@@ -21,7 +21,8 @@ Languages:
       Value: 20170222T093613Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6f0451f9-bf0e-4420-ad61-82bb14a257f9"
       Hint: Title
       Value: 100km

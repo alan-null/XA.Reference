@@ -27,7 +27,8 @@ Languages:
       Value: Clear
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "8c61c2d2-3b16-4e39-831d-9e45abb9454c"
       Hint: FromLabel
       Value: From

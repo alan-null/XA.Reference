@@ -19,7 +19,8 @@ Languages:
       Value: 20170213T092251Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "c4a0614e-5a4a-4ecf-b49b-b0d82e5eee7e"
       Hint: MovieCaption
       Value: "2-Hours Epic Music Mix | THE POWER OF EPIC MUSIC - Full Mix Vol. 2"

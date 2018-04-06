@@ -15,7 +15,8 @@ Languages:
       Value: 20170212T133411Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "904cb4ca-42d1-4690-8a99-9ecf22855e88"
       Hint: ResultsNotFoundText
       Value: No results

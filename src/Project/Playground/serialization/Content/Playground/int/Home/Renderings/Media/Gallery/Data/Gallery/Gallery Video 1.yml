@@ -17,7 +17,8 @@ Languages:
       Value: "{9D072721-207D-4722-AB27-BC6B3588E12F}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6c0c3c28-8d0b-4540-b090-207d0505a61a"
       Hint: VideoID
       Value: DeXoACwOT1o

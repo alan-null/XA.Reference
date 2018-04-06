@@ -19,7 +19,8 @@ Languages:
       Value: 20170212T133400Z
     - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
       Hint: ButtonCode
-      Value: "<div class=\"g-plusone\" data-size=\"medium\"></div>"
+      Value: |
+        <div class="g-plusone" data-size="medium"></div>
     - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
       Hint: OnlyOnceCode
       Value: |
@@ -32,4 +33,5 @@ Languages:
         </script>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

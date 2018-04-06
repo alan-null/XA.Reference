@@ -19,7 +19,6 @@ SharedFields:
   Value: "{4D3501A6-E34B-4E19-B6B2-BDA2CFDA2C8A}"
 - ID: "df9686ee-85f7-4ad3-bdd2-8a28d31740df"
   Hint: POI
-  Type: Treelist
   Value: "{96382947-4472-4672-B73D-89F8FA83FE06}"
 - ID: "fcc4f148-2f8a-4310-a898-c38fee380e9e"
   Hint: CentralPointLatidiute
@@ -34,4 +33,5 @@ Languages:
       Value: 20170222T093828Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

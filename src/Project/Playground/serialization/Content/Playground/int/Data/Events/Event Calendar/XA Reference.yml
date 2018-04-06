@@ -24,7 +24,8 @@ Languages:
       Value: 20170212T224316Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "79825619-c640-4892-98a8-9c4b112673d5"
       Hint: EventDescription
       Value: |
@@ -33,4 +34,5 @@ Languages:
         The main goal of this reference project is to show <strong>SXA</strong> features and give guidelines on how to build/configure new sites.</p>
     - ID: "84bfa68d-1d6a-4187-86d4-d7ec6294d5f0"
       Hint: EventLink
-      Value: "<link text=\"XA.Reference\" linktype=\"external\" url=\"https://github.com/alan-null/XA.Reference\" anchor=\"\" title=\"XA.Reference\" target=\"\" />"
+      Value: |
+        <link text="XA.Reference" linktype="external" url="https://github.com/alan-null/XA.Reference" anchor="" title="XA.Reference" target="" />

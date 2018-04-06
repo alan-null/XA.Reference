@@ -47,7 +47,8 @@ Languages:
       Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
       Hint: Rendering Reference
       Value: "{09EAAD94-9FE3-4649-A8B1-EB19AA1ABDFB}"

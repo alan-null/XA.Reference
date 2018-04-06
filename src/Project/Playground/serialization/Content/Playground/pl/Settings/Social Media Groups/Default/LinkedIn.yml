@@ -19,10 +19,13 @@ Languages:
       Value: 20170212T213635Z
     - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
       Hint: ButtonCode
-      Value: "<script type=\"IN/Share\" data-counter=\"right\"></script>"
+      Value: |
+        <script type="IN/Share" data-counter="right"></script>
     - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
       Hint: OnlyOnceCode
-      Value: "<script src=\"//platform.linkedin.com/in.js\" type=\"text/javascript\"></script>"
+      Value: |
+        <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

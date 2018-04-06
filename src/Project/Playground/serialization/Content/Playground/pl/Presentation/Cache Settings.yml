@@ -1,0 +1,14 @@
+﻿---
+ID: "e12a6bcc-480f-4b65-ae95-7b14f02d9cbb"
+Parent: "e417082a-0486-4d06-8d66-99aac6adce5a"
+Template: "26fce9bf-0256-458d-8281-a713a5bf5520"
+Path: /sitecore/content/SXA Reference/Playground/pl/Presentation/Cache Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180405T184726Z

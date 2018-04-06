@@ -21,7 +21,8 @@ Languages:
       Value: 20170221T205417Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "77f05fd0-6463-4a57-a37e-c2232293c891"
       Hint: Title
       Value: Average

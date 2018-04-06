@@ -14,7 +14,9 @@ Languages:
       Value: 20170213T221121Z
     - ID: "4b737984-1eac-4e50-8dd1-883566fa7bde"
       Hint: Link
-      Value: "<link text=\"Alan's blog\" linktype=\"external\" url=\"http://alan-null.github.io/\" anchor=\"\" target=\"\" />"
+      Value: |
+        <link text="Alan's blog" linktype="external" url="http://alan-null.github.io/" anchor="" target="" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

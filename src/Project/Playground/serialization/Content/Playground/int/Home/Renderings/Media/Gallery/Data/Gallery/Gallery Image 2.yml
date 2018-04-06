@@ -17,10 +17,12 @@ Languages:
       Value: 20170213T144759Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "cbdaab5f-3f7a-4072-8b7f-6a325a4a2205"
       Hint: Image
-      Value: "<link linktype=\"media\" target=\"\" id=\"{094AED03-02E7-4868-80CB-19926661FB77}\" />"
+      Value: |
+        <image mediaid="{094AED03-02E7-4868-80CB-19926661FB77}" />
     - ID: "d8f2eb04-e684-46c0-8d03-beccf007ca72"
       Hint: ImageDescription
       Value: Sitecore Logo
