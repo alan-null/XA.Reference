@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>4.0</Version>
+      <Version>5.0</Version>
       <Revision />
       <License />
       <Comment />
@@ -61,6 +61,42 @@
         <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Site/{E36A6A30-1CCF-4EB5-AA5B-7C950479976A}/invariant/0</x-item>
         <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Tenant/__Standard Values/{C95435E1-E5DB-441E-8D03-5DF1D8B7A1A7}/invariant/0</x-item>
         <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Tenant/{9ACADA96-B36B-4C42-9E63-1BAE1D87B941}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/{9F6B07F8-4135-4903-B38E-03CE11BBB7CD}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Blog/{6287BF00-C479-4267-B20C-BFAF328BBBD0}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Blog/Blog Home/__Standard Values/{CF4BCA73-0FD2-4CD4-A494-8BDF329DA6E4}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Blog/Blog Home/{49B0550F-C180-40CD-A864-C3FAB78D2444}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Blog/Blog Post/__Standard Values/{B29E3B89-EB19-4251-B5CE-CDE40D9C5761}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Blog/Blog Post/{EFA62406-CFD7-43C6-B702-3F53DFB1CEE3}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Blog/Blog Post/Content/{B493C6E5-5CEF-46B0-B573-AF0297CB6923}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Blog/Blog Post/Content/Introduction/{55222D22-7C6B-4493-B501-D4909A8DECA8}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Blog/Blog Post/Content/Published/{FBCBCAE4-6360-48E4-ADDB-DEFD4A16A5E2}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Home/__Standard Values/{631F8E5A-6D1D-4DE9-8C42-9999A3262F8F}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Home/{0C0EF8B3-C1A5-4880-8312-18FB5B18D526}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Metadata Partial Design/__Standard Values/{2A025C89-3B93-4880-BBCD-9AD9D0C4B941}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Metadata Partial Design/{D8436DDE-A774-4654-B10B-8CC156B7F760}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page Design Folder/__Standard Values/{2CED1171-5608-4E93-8E31-80012E147837}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page Design Folder/{4A117385-8904-45E1-846E-A1B191634BC4}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page Design/__Standard Values/{D55D5849-5D1F-400F-AD40-259EDF334549}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page Design/{671457AB-2C9B-4DD5-8924-ABBE49BD6A6E}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page Designs/__Standard Values/{4855EB41-8039-4CA4-9132-280B4BC87E97}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page Designs/{E9686BED-0CF1-4D1F-993F-95A344393767}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page/__Standard Values/{6F129341-33AA-4521-A7C9-2C320EBFEA34}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page/{72681BE7-81AF-4614-B485-EAF07F915387}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page/Content/{262BB65B-569F-45F0-88AC-B262D5211E08}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page/Content/Content/{DF28E3CA-D812-48E6-9947-6DAA6B4163A7}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Page/Content/Title/{8265AC8C-D4A4-403D-BB64-2427A593EB53}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Partial Design Folder/__Standard Values/{50F2B01D-1417-410C-824F-D86BE2010C83}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Partial Design Folder/{36BF4A22-45F6-44A8-AB99-75C355BACA96}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Partial Design/__Standard Values/{D64B4167-DBEB-4DC0-8E4F-26866BA5EA21}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Partial Design/{77D700A9-B518-4FFB-973E-D59EEC4D1A6D}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Partial Designs/__Standard Values/{AF6CC3A8-049C-406C-B52B-41C60D3F3F7F}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Partial Designs/{6B215647-873C-4E78-A659-B88AF643C22E}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Settings/__Standard Values/{73D5878C-B017-4779-90F1-207E5DBB8A55}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Settings/{C403EF44-0E81-4336-949F-DEB656EF7F82}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Site/__Standard Values/{8ABC95E9-D746-4B9F-8C18-184FF733435C}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Site/{494B6AFA-F37C-436D-93E6-0F2FF1E6EBCF}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Tenant/__Standard Values/{B87C9F71-FBB0-41A0-8C0E-8EC8632DEB12}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Tenant/{B9E9E9B9-2876-4936-99E1-2248E36649CC}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
@@ -91,6 +127,7 @@
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/pl/{BBA2F5C9-0FA7-4B0C-BEDD-5FF485B37C5C}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/pl/Editing Theme/{7A5FDD48-80C1-4985-91AA-12967298938B}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/shared/{94D63EC4-3F27-4D8C-8BE2-DD6CED74AD47}/invariant/0</x-item>
+		<x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/{CDE925F3-9032-4AAC-A5F2-6C6C79E580FC}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/4/8/tt0770802/{65DDF14C-39F5-4BD0-A89B-E147BD389D68}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/4/8/{1650D3BD-91D7-42B6-9C7B-61AADC999226}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/4/{FF226F36-A42D-4A5B-B1D2-FB32FCBB5E9A}/invariant/0</x-item>
@@ -295,6 +332,9 @@
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/8/3/tt2275671/{F8E13676-BE5C-4499-B3FD-C678B303AE36}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/8/3/{C7D05230-B4DB-4665-B737-C2C3543CEA27}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/8/{3CCDA68E-4A93-44BB-8BBD-EDB318B339BD}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Project/SXA Reference/Blog/{96713504-AF2F-434D-B264-B100F3273DBB}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Project/SXA Reference/Blog/blog/{D4A83A7E-E9EC-4B3E-9E94-DD1053EDB6E4}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Project/SXA Reference/Blog/shared/{2277AB78-6E9C-48A6-98B9-D4BC1511F894}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
@@ -1395,6 +1435,390 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Site Grouping/pl/CORS/default/{16502E52-116B-4F65-84F6-7C096186FF2F}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Settings/Shared Sites Settings/{90EBD65E-2502-4EEF-8A38-6C17EB7D618D}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Page Designs/Empty/{9E8F30CD-9FCE-45C6-B8AE-9257BE7F789A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Cache Settings/{C3CF6CAA-F573-42FA-B34B-189C4CAACD2B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/pl/Presentation/Cache Settings/{E12A6BCC-480F-4B65-AE95-7B14F02D9CBB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/{02980CAF-E716-4954-8050-58030C37A01B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/{35D0CD06-43BB-44C1-BBD9-F57651E4FE22}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/{9A04D780-85B6-4D92-843A-A4A483313462}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Accordions/{AC7B5F62-B179-46A0-A907-B3AEAA1DEE8F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Carousels/{7D2B6E1B-7376-4A91-8CF0-D477B60B74C1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Content Tokens/{C96F7D3E-4A30-4ABB-9397-C3815FD98501}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Events/{D88E8620-A4A7-46FA-BDE2-4EBED1507F64}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Feeds/{AD7950B9-1B60-47BD-BDE1-900AE3F2C769}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/File Lists/{04B76F55-61DF-4576-A16E-EC4998C464BC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Flashes/{D8CC064D-2B16-43C2-9C99-0A74E23EFFA6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Flips/{36B2B859-6092-4242-BA0B-BF8492CD99E7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Forms/{7531B880-8802-4BD6-A083-C69AAAB8F014}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Galleries/{5E0A443F-F04F-4FB5-9E4F-25AD1A37D2DB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/IFrames/{FEB7D7A2-C10A-4309-BDDB-820C90DC2089}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Images/{E28CF42C-AC49-421D-A1DB-6A2BD7BCF727}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Link Lists/{64D4919F-CFF2-475B-9873-42FE56FE02FD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Links/{DCB19E30-60FA-4DA3-BF5E-ED0273B87942}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Maps/{48C3FBE9-BC5C-41D5-B582-62A4AB4659EA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Media/{05653BC2-6B7E-46FF-B148-E0CDAD4B3957}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Navigation Filters/{145151E4-BE94-4674-B994-18A1A90FEDCD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Pagination/{F96D272F-C353-4DC0-9D7D-96B924286DAE}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Pagination/Post List/{BC84FDEB-7C9D-4AD5-BEAA-ADCADB12E5C7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Plain HTML/{5A2D585C-1439-45D0-9014-B8890B70E9E0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Playlists/{C1D6DEFE-19E6-49D6-82F1-6340F67CB9D8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/POIs/{FB1F4D17-CE62-4FC4-BBEB-C0DABD84ECDF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/POIs/My Location POI/{48FF9F30-5DDD-407C-BF1F-F4152360E0D8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Promos/{F42D026F-5412-402C-B33B-E7D1007BA0C9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/{947DDDD8-5A95-4EE2-8727-443B8CC34D02}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Checklist Filter/{E74BC9EE-0BAE-483E-B3DB-183E070E2BDB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Date Filter/{2C2DB6AA-00EC-4B72-949F-BE2BF5475B8B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Date Filter/Default/{2DAB5448-F120-4AB9-B346-606444780034}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Dropdown Filter/{4A1F1379-F86B-4A00-95E8-B29572EFB9F7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Facet Slider/{9FA8712C-C95E-482C-9BEF-4C0116AADBD7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Load More/{3FDE0385-39F3-42AF-B2CE-283C22DCA436}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Load More/Default/{6F435035-8B21-445D-85C2-E7EA86F0AE72}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Location Filter/{5FB5E221-C483-4CBE-A240-463786DF239C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Managed Range Filter/{6F832312-D9E4-4D8A-BD33-91C9244DF769}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Selector/{355DBE6E-1FC9-43FD-8A5B-6820A0E80ECB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Selector/Default/{E3CA6F16-65CD-43EC-88C8-BB70464C6577}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Size/{0363A11A-23E3-4AB5-A92B-96C27E25A94D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Size/Default/{E86F6E6B-FDCB-465A-AE2D-3F7CA20D0019}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Size/Default/10/{845EA539-57DC-4894-8452-751A645BB696}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Size/Default/20/{E332F1AC-A64D-4C79-A94C-27D412A6047C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Size/Default/5/{62DCE9C3-CC89-4C48-B646-202B314C145C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Page Size/Default/50/{1374C38C-9DF4-4DE0-90EA-2E6E69003DBA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Radius Filter/{F6426D81-2073-4D8A-A452-BA5A2527BADD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Radius Filter/Radius Scheme/{74C04AE2-8F13-44BE-AF9B-94A0E0B941F6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Radius Filter/Radius Scheme/1000km/{C8736B82-11E8-4F1F-8919-A57136878B58}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Radius Filter/Radius Scheme/100km/{CA54FD5A-54AB-476C-B370-7D3CE732C837}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Radius Filter/Radius Scheme/10km/{84861D53-EDE4-4835-BF10-FEC43FC721D8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Radius Filter/Radius Scheme/20km/{B3105A33-9C66-49D1-93A1-80E3E98C30DA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Radius Filter/Radius Scheme/50km/{C09154F2-C216-486F-B5A0-8D5657ABA666}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Range Slider Filter/{31F0871E-DF6D-4184-8A25-AFE9B9D9824A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Results Count/{B0ED45C5-CB7D-4980-ABA0-50CB4C514BF4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Results Count/Default/{FF2B2F59-8354-45AF-9177-59BF2C405547}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Search Box/{E4B15842-0B51-416C-8ACF-CF17C3D2C1E6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Search Box/Default/{0D8F61D1-4BDF-48DB-97A6-9383A2BDB689}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Search Results/{6CD1AB05-D3AB-4232-BCBA-3209DF0B149C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Search Results/Default/{14453336-729A-4977-B87A-55D09042C5A4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/{3B2F0220-EEA9-4E1C-BB35-76C7E7DC6655}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/Default/{A9EF5A8D-0228-4A68-A954-A25DF383901C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/Default/Title Asc/{C5B4A506-F190-4BE9-85C4-CCDE1815711B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/Default/Title Desc/{D3E6DB32-00EC-45D0-A502-F7C5E37E2BF9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/Published/{63B67A76-B9F1-48D5-84A6-1127B98972F9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/Published/Published Asc/{0B335B3E-150C-48A5-9FD9-4B877D5517D9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Sort Results/Published/Published Desc/{99000BAF-B25F-4477-A203-36EA42276130}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Security/{58E7AB34-3EE0-4A00-B8B0-B56D70674EEB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Tabs/{EBAF55AA-125E-4B72-9620-98186F568821}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Tags/{3811A8B3-9589-424E-8E4F-19222B9E4CEA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Tags/blog/{135DE097-A093-4260-82BF-F2C7D4037592}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Tags/code/{B90D8D38-ED95-4E94-AB89-EE418B1C53EB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Tags/sitecore/{BE94A23C-6B01-4B4E-9047-6B263F6DE626}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Tags/sxa/{C4438FA0-3C35-4552-960F-85F3706FBC1F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Texts/{4A725A7E-AFA9-4CE4-950E-ACFE99801139}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Toggles/{F22F0E42-C87C-4AC1-975C-12EE6FC6922F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Twitters/{471FBA19-7391-422E-A1AF-D267D5ED2840}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Videos/{323F8997-1BFC-4151-BF04-5560157B6EA7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/{161A0B41-907C-4D6B-AF43-E5F05335514B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/{1E3EA51E-AC2E-4E5E-ACB8-2D40BF2428FD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/{96D08E73-AA14-45CC-94F7-E7DF9E6EC52C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/{1D8EB449-B73A-419D-9E3A-AC21EACD98BD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-1/{0957E517-B2C5-43BC-9B70-FA11FA84398A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-2/{0F6A5CF9-9806-45DE-B381-123642EE2760}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-3/{D0E27AF2-6679-43A0-B52C-F31F4DFD97E0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-4/{EB23B72D-0B9F-4553-8DE3-8735FEA57DC4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-5/{99A9B25F-B09B-4F4F-BAE2-4C35443FFEDB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-6/{C38433AE-3478-4CE7-9D0C-7220F4D66762}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/blog-root/2017/December/blog-post-7/{5FD50671-8DA3-4F67-BEE1-200B52FFB222}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/Overlays/{E69CC6AE-5049-4C9E-9F5A-1F5BD4428045}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Home/search/{C0A5EFA0-5BB3-4925-BAE7-2D40023860EF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Media/{D692FE04-8E78-483B-8CE1-B2DB49E6425E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/{8E7A5044-10B3-4770-B892-BC8E20FED5A0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/{690189AF-F324-4454-9E70-A333BC628A8A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Compilancy/{525349A3-F215-4EC8-8214-4E19FE4DE75B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Composites/{B45344E7-E831-4A25-9A82-4873C3442D9C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Context/{5FA8ED98-CD13-46C6-990B-BE3CB686D4D5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Engagement/{09E31387-5A4A-4425-B404-92D858253574}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Events/{A642DAE2-DA44-4431-914D-CDC0D8FFD46F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Forms/{963030AF-9B11-497B-BB9C-6BD9720D993A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/JSON/{B29F92F4-4EF4-45FE-8D90-8B4AE08F59C1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Layout Service/{AA91E76B-11B5-4F64-A4C6-B6391C2B7683}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Maps/{F713991A-153B-46CE-9B40-A5446C96884D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Media/{7EA4D6EA-816E-4120-A93F-6021CB64F74B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Navigation/{C6D17E3E-D411-419A-87BD-1E6349B15DE1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Page Content/{CC3D0817-0C60-4615-A32A-FC10ECC01E0F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Page Structure/{BEE943BB-BF1D-4AB9-83B8-D3C5F759DF96}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Search/{C20A031F-4119-47B5-887A-5A5D6E1E7D41}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Security/{2A19DC06-8C45-4A1D-B9C6-B3FD38879A49}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Site Metadata/{84545FFA-E104-41AD-900C-9D5A589F3BC8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Social/{56875BEF-5173-461F-9E68-D37DFF1C9746}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/StickyNotes/{0FEA36E4-F7F2-434A-A80B-C98EB976974C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Taxonomy/{630485D0-79DD-4068-B2B0-BE63ECAC5705}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Cache Settings/{BF796A76-D9CF-40D9-AAEB-CF00B623CAB1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Event Types/{813140EA-0B92-401A-84A0-4C1BD2CFDA4C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Layout Service/{1F56E8A5-9E2F-496A-AC2A-B0DCED2C111A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Layout Service/Default/{6894427B-C685-46F2-98D9-0813ADAEDF58}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Layout Service/Default/Title/{BE073824-4A50-4A40-AC0B-D5BF52882CD3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Page Designs/{C1AC383E-0DC2-4D35-BCE7-E1A5E67D38BB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Page Designs/Blog Base/{80951561-7031-4C2D-B9D4-F56702EA0411}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Page Designs/Blog Home/{BE2D2F01-105F-415F-95D4-C4C9E61D68B4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Page Designs/Blog Post/{127F12E4-AC45-43BE-A707-ABE16031539E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Page Designs/Default/{8E69087F-A588-45DB-ABBA-F4025E0EAB0F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/{9B229935-34E7-401B-9C5E-E96B8E49520E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Base/{1BBC90E5-7966-4D84-B47B-C3E94584E8F0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Base/Data/{432534FB-7398-49CD-B62D-15B70D7A420E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Base/Data/Archive Header/{C458B21B-A96E-4C98-BDCB-80ADBF439118}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Base/Data/Tag Cloud Header/{897BE4C7-E601-424A-A9EE-611F11594C22}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Footer/{F068F5C7-C730-45A2-AE59-3746FB0037ED}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Footer/Data/{893D2406-F2C3-4BD8-8047-51E95F36E4E8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Footer/Data/Text 1/{1F0DC606-E5C4-4BD4-8743-D49D3C4A7A2D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Header/{8B333CFF-0D48-4F01-8895-D2EDBB018AF6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Header/Data/{1CBC6515-FC95-4DA4-9F57-1BCAFA0798EB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Header/Data/Text 1/{FFD24E47-5AD0-4E47-807D-762BD3EA9D7A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Home/{C670FD14-9D79-4424-8240-B3A15ADF9F77}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Blog Post/{7EF0BF0B-7D77-4AF5-8B56-CF6E3F4286AA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Empty/{C62B57DB-35D7-4B14-8793-00848112A153}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Partial Designs/Metadata/{A50C7D94-DEAB-4F80-AE32-99374FD09732}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Placeholder Settings/{5C1633E2-D157-4A11-ABF9-07295FC80AE0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/POI Types/{6DE7FC68-0D1E-4FD3-89A6-69A09EB04170}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/POI Types/My Location POI/{40430B85-E290-44BB-A170-6977719AD328}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/POI Types/Simple POI/{AE2DBAF9-B815-4A74-A4DD-9F07B62EA9EC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/{633E867A-E309-4473-9D73-BD4E13D08957}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Archive/{867B0C45-DC9F-429A-BD4A-9AD25CBF8BDB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Archive/Default/{96B41905-F76E-44F0-A840-9DDAF6FD9BA3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Archive/Default/NavigationTitle/__Display Name/{030E1653-A8C3-4C87-9809-341962AB6579}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Archive/Default/NavigationTitle/{81B71B6B-5B6F-4CB4-B36C-680212D7D992}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Archive/Default/NavigationTitle/Title/{1683124C-427B-4742-89E7-AEEECA195E79}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Breadcrumb/{00F531E8-B12A-40A9-A079-A638756E2268}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Breadcrumb/Default/{D3219FF1-9A9C-48F6-B4DF-3B4172678572}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Breadcrumb/Default/NavigationTitle/__Display Name/{E96C7F34-0169-474C-A5AB-788830241DDF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Breadcrumb/Default/NavigationTitle/{FCF51729-F8FB-49C2-8F2B-DBFAAA4E2B0A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Breadcrumb/Default/NavigationTitle/Title/{417D484F-25B4-4896-9ED0-0B104E20D1C5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/{3CA5117A-9CEE-4C45-A5EA-CA1C80F9BD88}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/{EC6284E4-1004-4D3C-8F4A-9C6C0D1A771F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/Event Info/{E5091676-35ED-425F-BCDE-87FA07ECB5AA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/Event Info/EventDescription/{E88878E5-B666-4A79-8C8B-277E5A40BD05}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/Event Info/EventName/{81FDA8AD-44BF-425D-B172-6F4BBDC38632}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/Event List Time/{CD087A75-426F-412A-83FA-A64B75898825}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/Event List Time/EventEnd/{79A21D55-CC30-4200-9FA6-BA6436307860}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/Event List Time/EventStart/{52F41787-7746-4E9F-81AD-CF34670ED8F7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/EventLink/{1BE4CD21-9397-42F4-A7A9-BC304EAA4D3F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Event List/Default/EventPlace/{D05C2173-F708-4C01-9782-F06F2C174B68}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Field Editor/{6D882CB2-49BA-43D1-B4EE-029E83139C00}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/{9FE2E2C7-6008-4CBA-AE9C-DCD8EB4445C5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/{F55A4197-6EF2-4EAD-9441-3AC78E87B145}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/File 2/{A98DF3F8-BC06-4B86-8690-8C488C8CE0D6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/File 2/File Type Icon/{39FED304-9493-4E89-89B8-A56933DF91BF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/File 2/Title/{4711DC1B-D3EF-4817-9401-E5F87376761C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/File/$Size/{FEC0BDB1-64EC-43AC-8D6C-3E973DA5F5EE}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/File/{9DFA72F9-025D-4917-AFC5-4146D700E0B1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/File/Date/{A1379BE7-BA5B-45F7-A2E1-E968BF0A203A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/File List/All Fields/LinkText/{9EDD38B6-639B-4ABB-B7F9-A339D15039F9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Image/{DA951C3A-A222-4D69-886A-424A5DD6928F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Image/Default/{0B04073D-92D6-4CA0-B670-F642BA743FCF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Image/Default/Image/{2C6BB367-0F54-4722-939C-AEC53109E549}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Image/Default/ImageCaption/{664BB546-474E-4F8B-9AAA-FA05705D9E71}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON Content/{51ABF1A8-4CD3-429C-A6AE-D1841B78E202}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON Content/Default/{3803AC0F-1714-4AA4-BD45-1BC6480F8F83}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON Content/Default/Content/{6C6BA9D0-21E6-4713-9B47-7622B0E7F8F0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON Content/Default/Title/{08425C68-079B-43D3-9AD8-0A343816E9E4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON List/{C7746D75-255F-4218-88D1-9B432B9CF7A1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON List/Default/{BEAFAC91-4304-47A9-AC3F-C7A14E751FB7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON List/Default/Content/{9A16CD24-0EC4-4A7A-B7D1-C5EBC99BF2F0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON List/Default/Title/{197B3AE4-93F4-4F77-B7B1-A3D4BFCA76FA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON Results/{B03A26E7-8313-4306-B1BF-EAA445B1331D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON Results/Default/{11E88C40-62A6-473B-A0F3-5601334C7E99}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON Results/Default/Content/{FB258837-4E96-4512-B04B-49473EED201E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/JSON Results/Default/Title/{57274995-04FA-45FF-A811-27514E257062}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Link List/{EAFE8E17-27E9-4DBE-BC08-A9FE4FB3B382}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Link List/Default/{C2916685-F3AE-4A70-A663-6DFE1F0233CD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Link List/Default/Link/{4F350EBE-026F-46C4-95F0-35FEACE343BF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Link/{D1E9E3A9-3AEF-4E94-8AB6-311B16E69769}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Link/Default/{0C187960-B418-439D-8AB0-02B057102C8D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Link/Default/Link/__Display Name/{220846C8-A6BD-4897-96D5-1FD16E9C3AA0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Link/Default/Link/{E5F230C4-F9D7-490A-A8F5-9C9E6B5F2D9D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Link/Default/Link/Title/{FE580261-1672-4D7E-9F59-E832271BF75C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/{15E04D2F-3EC6-4897-B29B-A41066450783}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/Default/{DDD98FC1-3D24-48DB-BAB6-97B36C1C82FD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/Default/File 2/{CDB06C19-09C5-4D8F-80DA-C43CEB77056F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/Default/File 2/File Type Icon/{3367CB50-8DC1-467F-B69B-9537A3E17222}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/Default/File 2/Title/{EDE5DF93-BD7D-4B61-8EF4-7EBB5AEEC8EA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/Default/File/$Size/{4F89EA71-2AB0-44FA-B5EF-8A2C69FE2453}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/Default/File/{0B7F8382-9791-40BB-8660-D9DBE479AB6F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/Default/File/Date/{0066C90C-146C-4E84-8AF3-9AF8701D104A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Media Link/Default/LinkText/{76FCE2B3-E55A-45C0-A3A6-571DBDBB673E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Navigation/{A5CB547B-E26F-489B-999E-839170576C3D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Navigation/Default/{22701277-2C79-43CD-B8A9-A3571CF24B37}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Navigation/Default/NavigationTitle/__Display Name/{330FCDC9-10CA-4A61-979A-8D208DEC150A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Navigation/Default/NavigationTitle/{06A27A4D-6B38-4C8D-A1B9-4E8469868A89}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Navigation/Default/NavigationTitle/Title/{4DE739A2-140F-45D1-9EB3-89478270F9A3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page Content/{54D4E85E-6A25-446B-AAD0-5A7A5E65BBC5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page Content/Blog Post Entry/{07388F58-547C-49B1-8B37-18D36DD3F0FF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page Content/Blog Post Entry/Content/{86B065CF-133C-4C33-84A6-AAE4DB25C806}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page Content/Blog Post Entry/Introduction/{66E7700B-E386-48D2-A680-9277DCE4B8CC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page Content/Blog Post Entry/Published/{6D6A3B80-A6C3-444D-875D-7623313557D3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page Content/Blog Post Entry/Title/{9E845E8A-1D14-4DE7-9A2F-BBFD4ACF5727}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page List/{69154CF7-E334-4800-861C-6ED3FF80C4A3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page List/Default/{A8E0C92C-EBBD-4B57-BCBD-B683E6202F43}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page List/Default/Title/{BDC1A432-EEB1-4CD4-99C2-CCE9C8952108}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page List/Post List/{10B18615-B2FA-4B5A-8ACC-5FFFC2730648}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page List/Post List/Introduction/{848240C6-529F-4C92-93EE-F85C00343DA7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page List/Post List/Published/{F33F7AC7-CBDA-45BC-82EA-06002ADCD63C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Page List/Post List/Title/{57C6175B-5C4E-452D-9BDF-CE32585F11FB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Playlist/{CBA8EC34-814A-41E4-B738-84504DACFF0C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Playlist/Default/{244D3B6D-867D-4FB9-B151-7ABDB9298BD3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Playlist/Default/MovieCaption/{E9A51F6B-10FD-46C7-9FF0-635D8A96C486}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Playlist/Default/MovieThumbnail/{1399F075-34BE-410D-BF2D-B19E9C7AD460}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/POI/{E2E603D2-4A73-4BE8-BB3E-1C0FC6F3379A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/POI/Default/{310E70EA-CC0D-4DD1-8F7F-B4C52CBF8CD2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/POI/Default/Description/{7BE5C772-2A2F-4C27-B42F-C379E47E5CBA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/POI/Default/Template/{F3337776-F711-43B5-8F99-F19E7AC8D76D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/POI/Default/Title/{AF0F61F4-5DB2-4B87-9116-1A310854F77C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Promo/{0377C7E0-9AB4-47C7-BD6B-35BEA32931B5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Promo/Default/{4E197666-F1B8-4393-9148-757298482483}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Promo/Default/Promo Icon/{833AB2EA-71C3-42ED-8D76-393D6D7011A8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Promo/Default/Promo Text/{99A27BB9-F2D4-4A02-9EA9-560D1F6AA917}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Promo/Default/Promo Text/Promo Body/{69D42B47-B47B-49E5-B26F-00ACDA0A8D3E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Promo/Default/Promo Text/Promo Body/Promo Text/{C63EBB4D-E29B-4E02-B2E7-FD89A99C44CE}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Promo/Default/Promo Text/Promo Link/{02269964-407B-4DD6-BBAC-13CF22CFF4F8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/RichText/{29A0EC68-0E9D-4BF1-891A-682B5D13B558}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/RichText/Default/{72690258-E302-4DE4-975B-E0248AF9CF8F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/RichText/Default/Text/{2CA260B4-5FEB-49C9-A70A-EAC52D963B46}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Box/{811D62FF-5D0F-4A47-8073-B71825EA822A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Box/horizontal/{16D69406-545F-49C6-B7BD-FFFBF9CDAF0F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Box/horizontal/Title/__Display Name/{C4F86210-5D86-42A5-93D8-477F4FAF83B8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Box/horizontal/Title/{7928B003-1842-48D5-AE25-FEADF68A3042}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Box/vertical/{8A626BAB-4D2C-44C7-A37B-96F51E7B5E79}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Box/vertical/Title/__Display Name/{B115B295-9299-483C-ACEB-9506B7B1ACC3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Box/vertical/Title/{DCA35CDC-5AE0-490C-905B-4E13D1189925}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/{9FF61343-1442-4582-8E53-0B454CEA0708}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/horizontal/{5603C9C1-7866-461D-B208-2FCC2E2E61A2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/horizontal/Title/__Display Name/{7FB71B4A-6D82-4DBE-B672-0E9F2E337B02}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/horizontal/Title/{54160C77-A3F9-48C6-A2EE-EC43A29E3EAC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/Post List/{5AA0E7DA-805B-4BDB-AA26-518CEE68B423}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/Post List/Introduction/{BFB39E18-4F9C-49B8-86C6-81326B9B6A15}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/Post List/Published/{29118B39-CA95-4D7D-8E8E-6DDD8FF28BAF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/Post List/Title/{46AAAC20-B9DA-4A6C-8906-98149E8C0D0B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/vertical/{3EE25815-6230-48E0-BBD5-81422CFD4914}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/vertical/Title/__Display Name/{FC444BDA-EE8B-46CB-A6E8-0B688F141837}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Search Results/vertical/Title/{5A7252AE-9823-473D-BA68-8F80CD912D0F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Title/{5D00EC99-1686-4195-A62D-828A8E166AEF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Title/Default/{0BE0C8F5-7CDB-4FBC-86D3-4E1C4A5DB3B5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Rendering Variants/Title/Default/Title/{1643626C-B5EF-497D-BB14-179F58BDAD5C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/{693C21CB-B1D8-4F59-ACF2-C28A178AE74B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Accordion/{BB29E9A3-8D8A-4652-906A-074B801B649B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Accordion/Horizontal Accordion/{B6C08B76-5BE9-48ED-95A9-C7148A3F243F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Breadcrumb/{026987C7-2AB2-4EF6-90B8-6FAC398B3208}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Breadcrumb/breadcrumb-hide/{0A0FBDEC-A0C5-4E25-AF0D-05FB58781D65}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Breadcrumb/Triangle separator/{51F8AAC8-0286-4777-AB8C-6D7B10B753DA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/{0348D034-A986-4061-A0EB-07E899E590B9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Boxed/{F0AD5B25-1357-49C0-A464-A73E7D3D1A92}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Button Link/{7399EFC9-ADF5-4C52-AA17-3BFD3673A475}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Highlighted Bottom/{639D7AA9-1B91-4352-A221-C94CBB6C6DC1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Highlighted Left/{70C53BB5-4E23-4D8A-85F7-6E1D3220955C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Highlighted Right/{06CF3AB9-2CFB-4E7F-B4C0-D1E504B441CC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Highlighted Top/{5854CEB9-87F5-4700-AE69-6360850BB0EC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Indent Bottom/{ABE5CA75-0BD2-42F4-9C6F-792F865788EA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Indent Side/{9ADAB478-6888-4608-BA37-32C420C0F2C0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Indent Top/{A39B3421-64BC-42A6-8A97-850937A7D376}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/Links Shown in Overlay/{8D8699C9-3D08-49BC-84B9-99D413BAD964}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Common/No Borders/{A4B7BECF-DCD4-47CA-8B50-7602142F982F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Container/{EF3D9765-D860-442F-9355-62B43B276847}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Container/Equalized Content/{C073CAA5-1936-4879-8B6F-1C76D53F6C20}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Container/Title Row/{A5F41CF2-FA13-4076-9195-FDCE474E8D4E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Content Alignment/{68CC3E86-0B06-49A9-90E4-5C20B5767DA6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Content Alignment/Align Content Center/{0DBA0E92-DA87-4420-A463-DE2C18FF683F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Content Alignment/Align Content Left/{FB557F04-D3B7-4CE6-A66C-239F135DDFF8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Content Alignment/Align Content Right/{53DD779D-5F80-4B8F-A267-FF338328204B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Divider/{7C30B27F-389A-496A-BE50-9D4425FEC792}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Divider/White Space Divider/{90A1EAD3-C2F2-4613-B1E0-238DB799DEFC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Feed/{60C6C1C8-6DEC-41CB-8DC0-0E9C33A0FC92}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Feed/Feed Grid/{B36791FA-3178-4958-B905-210925F7FDB2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/File List/{68FAC1E4-D969-4EA2-BBAB-B277EC544201}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/File List/Horizontal file list/{4EDD3D0E-C0BE-48C9-8E71-082B8261601D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/{3824B095-EE3C-498D-9AA4-BABAD3261325}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-fade/{1D7DE50A-B481-49D3-BA8C-BA98FE389185}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-hover/{F4D6B63A-C6DA-4A47-9A04-9BA083FE06FF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-slide-top/{20D71339-6992-4972-9B61-52698689E4EC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-vertical/{4E3D71D5-89D6-4C0E-8247-11E7DE024C9E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Forms/{7977DBDF-DB90-485B-A103-5372FAABA4ED}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Forms/hints-below/{538FF54D-206B-48BD-968A-AC5A9FEAD940}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Forms/labels-above/{BEA2C089-969D-4972-8730-3438E0810D92}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/{8905411A-83C5-4EAA-93E8-0CD63CC01BE3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/carousel-image-full-size/{0F4A25AC-0222-4B1B-BB56-0B9697701D59}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/Image default size/{9FAE3525-0AE5-42ED-B4CA-716FF2EA8C98}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/promo-image-left/{B605416F-3F0F-4D0B-B04F-74B8598A664C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/promo-image-right/{328457B7-DF45-4682-BF1E-49364DE66DAA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/{10A033EF-3FB8-4C80-98A9-85FF37567F50}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/Clean background/{092D02F6-A02A-49B8-98E2-6251A1252F6D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/Color background/{6CF8E3B9-CD18-4CF2-9C5D-3BBAC8638119}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/cover-background/{9ECCE26B-E31F-42B5-A223-DE534EAA751F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/Dark background/{702A8725-36BF-47C8-A70D-E0042FB7552E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/fix-background/{6FF1A4D0-9461-4322-8F3B-774EAFF4EFE8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/footer-bottom/{80E7CC4C-6173-4850-96B6-0AF5D3B721C1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/footer-top/{994894D5-A4BF-44C0-8483-CA95B39F1B38}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/Gray background/{31332804-24AA-4043-9839-6010B962D564}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Layout/parallax-background/{E359759D-3380-4438-8418-3E9D370F200D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Link List/{F5B1E5CC-AA51-4618-BA42-30C4ED958F32}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Link List/List Vertical/{8CB36D2D-C39F-42B2-9273-F7B80287CFFD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Media link/{2B71E20B-7820-425A-8F73-4E5E9D37DEDF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Media link/Horizontal media link/{C9623E7B-99C5-4802-87B2-B0365413E6B8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Navigation/{ED3C922B-DB9B-4C43-8C60-8B441128F1B8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Navigation/navigation-fat/{8EB5B3A0-D2B8-4E89-B23D-F000D67777A1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Navigation/navigation-main/{956ABCB3-F311-4792-9258-BC24C7804B2D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Navigation/navigation-main-horizontal/{8E6348BC-2B21-4787-9D75-9F37CA74AD8B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Navigation/navigation-mobile/{95497FC8-3DA4-458A-A926-DE9CF0D4BEB7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Navigation/navigation-sidebar/{4332EBF0-0EB7-4889-9594-8D0C0A6954CE}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Navigation/Sitemap navigation/{2CF66660-C183-494F-BD04-D8BF3B28F16A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Playlist/{2ACFED33-4CBF-487A-8A25-FE29E6738A87}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Playlist/Playlist horizontal/{08869316-B292-49FE-A311-87ED92161E81}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Promo/{B9EBEB31-3629-4C19-90E0-B7454529FE49}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Promo/equal/{18B27BBA-FB28-4ABD-96D3-4FA46E602223}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Promo/Promo Hero/{8C4189A6-7099-4604-84CB-22D50EBD485B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Promo/Promo Shadow/{9A9834B8-1613-4BCE-9EA4-8C86392200DA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Promo/promo-bottom-link/{A2394750-7ED2-4076-922E-0D9ABAF1F766}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Rich Text/{48CB592A-BE6F-4404-8485-9A94640479E0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Rich Text/Custom list indicators/{015DA312-B5EE-4D34-96BF-7365F50852E5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Tabs/{35FBD06D-5772-4541-A223-70100777C160}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Tabs/tabs-bottom/{1E96620C-5803-44FD-B891-CB3FA4B38AE3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Tabs/tabs-scrollable/{9A25BF8A-785B-444E-A934-610785C6D5B6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Tabs/tabs-vertical/{B52AA1D4-3669-4CC9-9DC6-E28FD772A966}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Tabs/tabs-vertical-right/{F751C27B-6774-4F06-A4E3-25F2F1775943}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/{492A53DA-C7E2-4E16-9DEC-2FB79686BEB5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Browser Title/{243684DB-E25F-402D-9683-7D04154683C7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Browser Title/Title/{2CDDDB62-921B-475A-A797-52652950858D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Cookie Warning/{4470B380-07AF-4030-9115-A9AB8AFEBD2B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Creative Exchange Storages/{CC6F6C9F-4D6C-4D91-9EC8-440A06E64178}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Creative Exchange Storages/Folder on server/{38BCD156-D8FE-41EA-A717-E28F3E7BF408}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Creative Exchange Storages/Zip file/{557ABB38-BD51-47BB-8FC9-5CD483832792}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Datasource Configurations/{18D03607-235C-4F24-B9A3-33652BEBF7DB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Default links/{F2DC2035-472D-438A-A9C3-F6CBEEA13D05}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Default links/Hierarchy/{EA41F248-E9F0-48D0-893D-8A95854B0A86}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Default links/Hierarchy/Next/{33BDEE55-E434-491B-8834-20CF838C84CB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Default links/Hierarchy/Parent/{A447AC2E-69B0-4318-BDED-6F7FC9E0E41D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Default links/Hierarchy/Previous/{DDCDE712-BA71-4A03-ABFD-03EE21B006F2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Default links/Journey/{2FA4DC88-8D6B-4EAF-A52E-F88E1B0B24B7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Default links/Journey/Back/{F3E3A79E-3F8E-4E34-BBAF-EC3FA8A4AF98}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Facets/{B164A730-2439-4A80-8DB5-C7C866F694B9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Facets/Distance/{3DC77F64-683F-4AB4-8C85-85FD601B26F2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Facets/Published/{189F350D-1BD3-4F97-A50F-B3BF4F84AC7A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Facets/SxaTags/{D70F8CA1-B5FB-4ACB-A9AF-6C038A773580}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Facets/Title/{298F62F6-8D60-468C-AC8E-4900F499C9B3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Item Queries/{EC8EC897-FA9F-4A4C-AB5F-5901D2DFAD53}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Item Queries/Blog Posts/{C4FF5A19-5E37-4599-829E-5F952BCA42BD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Maps Provider/{42001326-C1B6-48B8-9991-E98D0C6BA9E1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Redirects/{8C7A6B5E-ADC9-4971-AA9B-B79C734BAF32}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Scopes/{3C06ADB6-0371-4959-A502-FE418EEE37AD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Scopes/Blog Posts/{4DB17BEA-B892-436D-92C5-16574D21E80C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Shared Sites Settings/{1AAAA718-C1C6-4455-A7C8-47F8E036C8E4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Site Grouping/{3E9E9A95-A259-492A-8150-170274F7E1E8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Site Grouping/blog/{5048EC41-CEB5-455F-8868-D6FAD177950C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Site Grouping/blog/CORS/{475456A7-919F-40DB-8DF0-0ECF70B50C56}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Site Grouping/blog/CORS/default/{8D5533C9-E88E-49FF-B10A-04A0BB0E8132}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups/{3BB0640E-4DE1-4BCC-9CE0-82C444DBD980}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups/Default/{72A5DD14-995D-4E06-9E7F-BC00CC1A7957}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups/Default/Facebook Like/{E29018AC-5530-4FF7-B479-67AF1832EE90}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups/Default/Google Plus/{30B50C18-2646-4D90-B197-EA8E2DFEBF45}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups/Default/LinkedIn/{B9E84A2C-12A0-4395-A17E-7389835810A4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups/Default/Pinterest/{3EB4932A-A501-4513-9F0E-151C38AAFD7B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups/Default/Twitter/{9F46308D-3524-4E8E-88E8-E2F0E7AE26D4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Twitter Apps/{8C3EC0BA-EDA2-42A6-88A6-2EFEFF27170C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Facets/Movie Rated/{1AAB7BA1-6079-4F56-9572-90B4FF4A0761}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
@@ -1740,6 +2164,32 @@
       <Include />
       <Exclude />
       <Name>WFFM fields</Name>
+    </xitems>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/media library/Themes/SXA Reference/{02F12941-B84D-475C-B1C5-B7337ABDDFDE}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Themes/SXA Reference/Blog/{B1D5D3EF-BAC5-4BFD-95D9-FF8BCA099CCB}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Themes/SXA Reference/Blog/blog/{7125BCC7-539E-455C-B6E9-F076EE749300}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Themes/SXA Reference/Blog/blog/Editing Theme/{1B63DA7E-1976-4EB5-B0CC-C83C1C9B0A9D}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Overwrite</ItemMode>
+                  <ItemMergeMode>Clear</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Themes</Name>
     </xitems>
   </Sources>
   <Converter>
