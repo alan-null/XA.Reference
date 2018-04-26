@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>5.0</Version>
+      <Version>6.0</Version>
       <Revision />
       <License />
       <Comment />
@@ -127,7 +127,7 @@
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/pl/{BBA2F5C9-0FA7-4B0C-BEDD-5FF485B37C5C}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/pl/Editing Theme/{7A5FDD48-80C1-4985-91AA-12967298938B}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/shared/{94D63EC4-3F27-4D8C-8BE2-DD6CED74AD47}/invariant/0</x-item>
-		<x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/{CDE925F3-9032-4AAC-A5F2-6C6C79E580FC}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/{CDE925F3-9032-4AAC-A5F2-6C6C79E580FC}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/4/8/tt0770802/{65DDF14C-39F5-4BD0-A89B-E147BD389D68}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/4/8/{1650D3BD-91D7-42B6-9C7B-61AADC999226}/invariant/0</x-item>
         <x-item>/master/sitecore/media library/Project/SXA Reference/Playground/movies/4/{FF226F36-A42D-4A5B-B1D2-FB32FCBB5E9A}/invariant/0</x-item>
