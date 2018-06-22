@@ -9,6 +9,10 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: Office/32x32/photo_landscape.png
+- ID: "087c0553-9162-41f5-98d3-87eb0d80edbb"
+  Hint: Compatible Renderings
+  Type: TreelistEx
+  Value: "{69D0A00E-FF06-4B17-BE59-BED330577680}"
 Languages:
 - Language: en
   Versions:

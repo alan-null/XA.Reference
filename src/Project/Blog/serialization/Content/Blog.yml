@@ -6,7 +6,7 @@ Path: /sitecore/content/SXA Reference/Blog
 DB: master
 SharedFields:
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
-  Hint: Features
+  Hint: Modules
   Type: Treelist
   Value: |
     {85C5F396-A8AB-44CE-A4EA-DFC39CC885ED}

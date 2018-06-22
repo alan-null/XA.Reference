@@ -7,7 +7,7 @@ DB: master
 BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
-  Hint: Features
+  Hint: Modules
   Type: Treelist
   Value: |
     {06C9079E-7F88-4239-B758-A5B8603198EA}
