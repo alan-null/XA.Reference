@@ -4,14 +4,15 @@ Parent: "c1ac383e-0dc2-4d35-bce7-e1a5e67d38bb"
 Template: "671457ab-2c9b-4dd5-8924-abbe49bd6a6e"
 Path: /sitecore/content/SXA Reference/Blog/blog/Presentation/Page Designs/Blog Post
 DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{7EF0BF0B-7D77-4AF5-8B56-CF6E3F4286AA}|{8B333CFF-0D48-4F01-8895-D2EDBB018AF6}|{F068F5C7-C730-45A2-AE59-3746FB0037ED}"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
-      Hint: PartialDesigns
-      Value: "{7EF0BF0B-7D77-4AF5-8B56-CF6E3F4286AA}|{8B333CFF-0D48-4F01-8895-D2EDBB018AF6}|{F068F5C7-C730-45A2-AE59-3746FB0037ED}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171214T214537Z
