@@ -1,10 +1,9 @@
 ﻿---
 ID: "f4c5f8d6-05d9-4ff7-8ad4-31c475719718"
 Parent: "db5029e0-df85-48b5-8d02-3b6d77b291e7"
-Template: "c2a8e276-1757-4957-9dd5-8669b79fd80d"
+Template: "d7788ae9-f93c-48e3-8fc9-e965711b5821"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Common/Metadata Partial Design
 DB: master
-BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
 - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
   Hint: Signature

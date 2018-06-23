@@ -1,13 +1,13 @@
 ﻿---
-ID: "b463b75a-3672-48b1-be3b-aae9783d7e5e"
-Parent: "ad5d4767-80fb-4215-93b4-43c6453d5f5b"
+ID: "581e5467-d149-46d8-9283-0eb8d06f2959"
+Parent: "91c67838-93b4-4344-84ff-21c08ace60c9"
 Template: "91c67838-93b4-4344-84ff-21c08ace60c9"
-Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Rendering Page/Rendering Page Content
+Path: /sitecore/templates/Project/SXA Reference/Playground/Partial Design/__Standard Values
 DB: master
 SharedFields:
 - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
   Hint: Signature
-  Value: "rendering-page-content"
+  Value: "__standard-values"
 Languages:
 - Language: en
   Versions:
@@ -15,8 +15,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170212T191142Z
+      Value: 20180622T160432Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin

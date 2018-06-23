@@ -1,0 +1,14 @@
+﻿---
+ID: "7a3cf82b-b6db-46b5-adf3-f5cd59b809ac"
+Parent: "b3c630cf-9ca3-462e-82fc-e96006ea092e"
+Template: "b3c630cf-9ca3-462e-82fc-e96006ea092e"
+Path: /sitecore/templates/Project/SXA Reference/Playground/Page Design/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T160433Z

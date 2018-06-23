@@ -1,0 +1,22 @@
+﻿---
+ID: "7e3a5c55-b810-4f76-ad1f-220a4465d9f4"
+Parent: "d7788ae9-f93c-48e3-8fc9-e965711b5821"
+Template: "d7788ae9-f93c-48e3-8fc9-e965711b5821"
+Path: /sitecore/templates/Project/SXA Reference/Playground/Metadata Partial Design/__Standard Values
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "__standard-values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T160432Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

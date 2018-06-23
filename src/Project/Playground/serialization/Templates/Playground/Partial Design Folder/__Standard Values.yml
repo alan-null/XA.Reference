@@ -1,0 +1,22 @@
+﻿---
+ID: "2c3caf10-cac8-4355-96c3-41a7eaa8e31a"
+Parent: "77e58f67-cc68-4458-b77f-f7922cd7c23a"
+Template: "77e58f67-cc68-4458-b77f-f7922cd7c23a"
+Path: /sitecore/templates/Project/SXA Reference/Playground/Partial Design Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {77E58F67-CC68-4458-B77F-F7922CD7C23A}
+    {91C67838-93B4-4344-84FF-21C08ACE60C9}
+    {D7788AE9-F93C-48E3-8FC9-E965711B5821}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171214T210618Z

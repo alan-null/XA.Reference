@@ -1,8 +1,8 @@
 ﻿---
-ID: "b6ace057-5d1d-4d11-a06e-4da12c27a53e"
-Parent: "ef35d4a1-e60c-47bd-ba67-856b0cbb11e8"
-Template: "ef35d4a1-e60c-47bd-ba67-856b0cbb11e8"
-Path: /sitecore/templates/Project/SXA Reference/Playground/Page Designs/__Standard Values
+ID: "f09b3bd3-7730-4a10-b6b6-546e0f124827"
+Parent: "524eea3c-0ced-46e6-87c6-6ed373c71e0d"
+Template: "524eea3c-0ced-46e6-87c6-6ed373c71e0d"
+Path: /sitecore/templates/Project/SXA Reference/Playground/Page Design Folder/__Standard Values
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
@@ -18,8 +18,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170212T133318Z
+      Value: 20171214T210619Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin
