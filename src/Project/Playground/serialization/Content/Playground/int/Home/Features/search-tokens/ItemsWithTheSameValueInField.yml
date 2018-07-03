@@ -1,0 +1,38 @@
+﻿---
+ID: "e279ef06-cb02-46b7-bc06-18e064543474"
+Parent: "74d64ef9-34a3-4f14-9359-e7f7d83d14f4"
+Template: "c889cf6c-7f85-4204-9a72-0372a4769e92"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/itemswiththesamevalueinfield"
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{0935D848-2584-48BB-9AD0-22501E7CC0A9}"
+- ID: "adefa09c-5378-43e7-9555-332f566e7880"
+  Hint: Scope
+  Value: "{88D61995-8B04-44CB-83E5-6B53371A1213}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ItemsWithTheSameValueInField
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{8308FC13-967B-4833-87A4-87138DE51754}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T162719Z
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: Child 1
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Items with the same value in field
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

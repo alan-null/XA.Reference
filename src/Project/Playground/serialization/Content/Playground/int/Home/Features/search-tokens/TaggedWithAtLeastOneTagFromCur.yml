@@ -1,0 +1,38 @@
+﻿---
+ID: "f9e9d16d-c95a-4364-b305-07e21dc4f969"
+Parent: "74d64ef9-34a3-4f14-9359-e7f7d83d14f4"
+Template: "c889cf6c-7f85-4204-9a72-0372a4769e92"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/taggedwithatleastonetagfromcurrentpage"
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{05E9219C-5785-47CA-96E0-6C375626EF49}|{E89B4A94-DF7C-48B3-ACAF-33ECFB5809D7}"
+- ID: "adefa09c-5378-43e7-9555-332f566e7880"
+  Hint: Scope
+  Value: "{8D4F5D2F-7B2C-4FAE-AD6C-D85D1F6269B2}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: TaggedWithAtLeastOneTagFromCurrentPage
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{8308FC13-967B-4833-87A4-87138DE51754}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T162734Z
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: TaggedWithAtLeastOneTagFromCurrentPage
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Tagged with at least one tag from current page
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

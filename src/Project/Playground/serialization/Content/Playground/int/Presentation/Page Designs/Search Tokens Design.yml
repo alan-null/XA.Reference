@@ -1,0 +1,18 @@
+﻿---
+ID: "8308fc13-967b-4833-87a4-87138de51754"
+Parent: "44beb256-88ff-4f1c-add6-60aab456d9c1"
+Template: "b3c630cf-9ca3-462e-82fc-e96006ea092e"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Page Designs/Search Tokens Design
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{F4C5F8D6-05D9-4FF7-8AD4-31C475719718}|{595655FC-6676-4FA1-99E0-480ED7444786}|{21EC3DC7-8CA8-4E4B-B526-B3B6EFAD09B4}|{378950E6-F64D-4146-BD2E-121D1E131485}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T165644Z

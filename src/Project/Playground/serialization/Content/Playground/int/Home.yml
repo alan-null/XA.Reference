@@ -30,7 +30,7 @@ Languages:
               p:after="r[@uid='{07A182F5-064D-452C-87C6-A4C876F6C7DE}']"
               s:ds=""
               s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
-              s:par="FieldNames={2526D709-090A-464F-BD7E-0A201B5557E0}&amp;Styles&amp;NavigationRoot&amp;LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;Filter&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B2526D709-090A-464F-BD7E-0A201B5557E0%7D&amp;Styles&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames=%257b1BB88840-5FB3-4353-AD8D-81136F6FF75A%257d%253d%25257B2526D709-090A-464F-BD7E-0A201B5557E0%25257D&amp;Reset Caching Options&amp;RenderingIdentifier"
               s:ph="main" />
             <r
               uid="{66018128-F8BD-496A-8F10-EF8B4E049F4C}"

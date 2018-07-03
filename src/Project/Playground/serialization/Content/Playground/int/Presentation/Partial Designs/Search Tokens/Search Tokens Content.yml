@@ -1,0 +1,41 @@
+﻿---
+ID: "21ec3dc7-8ca8-4e4b-b526-b3b6efad09b4"
+Parent: "adb32a26-fc75-4b0c-966d-2066ada83639"
+Template: "91c67838-93b4-4344-84ff-21c08ace60c9"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Search Tokens/Search Tokens Content
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "search-tokens-partial-design"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0873403B-BF5F-49E4-894B-8A88655BC7D7}"
+          s:ds=""
+          s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+          s:par="GridParameters&amp;SearchSignature&amp;FieldNames=%7BB7BD6C77-A5A5-444D-ABD4-0E37C7F50FEB%7D&amp;Styles&amp;Reset Caching Options&amp;Scope&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier"
+          s:ph="main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T165702Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

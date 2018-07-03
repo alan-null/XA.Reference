@@ -1,0 +1,14 @@
+﻿---
+ID: "adb32a26-fc75-4b0c-966d-2066ada83639"
+Parent: "38070dee-0084-4d00-a3a1-df47ce35c7cf"
+Template: "77e58f67-cc68-4458-b77f-f7922cd7c23a"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Search Tokens
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T172216Z

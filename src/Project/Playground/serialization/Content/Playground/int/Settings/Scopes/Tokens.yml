@@ -1,0 +1,14 @@
+﻿---
+ID: "d4e23a96-f9f9-437e-bbdd-da9bf1b63789"
+Parent: "fd2a245f-3fc9-4be1-9fd1-4a37768bef03"
+Template: "44936c95-bca9-4fb3-9d98-2066a5fbbb4d"
+Path: /sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T162429Z

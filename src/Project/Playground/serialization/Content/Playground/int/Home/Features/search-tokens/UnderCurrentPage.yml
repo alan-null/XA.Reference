@@ -1,0 +1,35 @@
+﻿---
+ID: "0480ecfa-6993-418d-97c5-ffe771192f44"
+Parent: "74d64ef9-34a3-4f14-9359-e7f7d83d14f4"
+Template: "c889cf6c-7f85-4204-9a72-0372a4769e92"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/undercurrentpage"
+DB: master
+SharedFields:
+- ID: "adefa09c-5378-43e7-9555-332f566e7880"
+  Hint: Scope
+  Value: "{40785E79-71D7-419A-98A0-C2FF9F5EE63C}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: UnderCurrentPage
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{8308FC13-967B-4833-87A4-87138DE51754}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T162605Z
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: UnderCurrentPage
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Under current page
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

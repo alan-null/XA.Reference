@@ -1,0 +1,58 @@
+﻿---
+ID: "378950e6-f64d-4146-bd2e-121d1e131485"
+Parent: "adb32a26-fc75-4b0c-966d-2066ada83639"
+Template: "91c67838-93b4-4344-84ff-21c08ace60c9"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Search Tokens/Search Tokens Header
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "search-tokens-header"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9A7CE075-594C-4E15-8FDA-8A08B5D4AC40}"
+              p:before="*"
+              s:ds=""
+              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+              s:par="FieldNames={11781CC0-CB21-4706-8A50-4EB2CF611DB7}&amp;Styles&amp;BreadcrumbRoot={0DAE33A2-6F53-473E-8ABD-B054D9BF3B75}&amp;Separator=&gt;&amp;IsNavigation&amp;Filter&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:ph="header" />
+            <r
+              uid="{47C86D0C-1CF3-4B9C-ABEA-B4D236F0B55A}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B8EB58AC4-E9DB-45E4-9E32-1CB28D49C107%7D&amp;Styles=%7B08EE6B75-C545-44C0-B579-3D72B86A7561%7D&amp;Reset Caching Options&amp;RenderingIdentifier"
+              s:ph="header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T165702Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,28 @@
+﻿---
+ID: "74d64ef9-34a3-4f14-9359-e7f7d83d14f4"
+Parent: "de30ff2d-a089-418b-b492-2855609a3537"
+Template: "c889cf6c-7f85-4204-9a72-0372a4769e92"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Search tokens
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T162418Z
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: Search tokens
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Search tokens
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
