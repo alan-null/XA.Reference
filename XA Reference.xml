@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>6.0</Version>
+      <Version>6.1</Version>
       <Revision />
       <License />
       <Comment />
@@ -97,6 +97,18 @@
         <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Site/{494B6AFA-F37C-436D-93E6-0F2FF1E6EBCF}/invariant/0</x-item>
         <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Tenant/__Standard Values/{B87C9F71-FBB0-41A0-8C0E-8EC8632DEB12}/invariant/0</x-item>
         <x-item>/master/sitecore/templates/Project/SXA Reference/Blog/Tenant/{B9E9E9B9-2876-4936-99E1-2248E36649CC}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Metadata Partial Design/__Standard Values/{7E3A5C55-B810-4F76-AD1F-220A4465D9F4}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Metadata Partial Design/{D7788AE9-F93C-48E3-8FC9-E965711B5821}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Page Design Folder/__Standard Values/{F09B3BD3-7730-4A10-B6B6-546E0F124827}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Page Design Folder/{524EEA3C-0CED-46E6-87C6-6ED373C71E0D}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Page Design/__Standard Values/{7A3CF82B-B6DB-46B5-ADF3-F5CD59B809AC}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Page Design/{B3C630CF-9CA3-462E-82FC-E96006EA092E}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Partial Design Folder/__Standard Values/{2C3CAF10-CAC8-4355-96C3-41A7EAA8E31A}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Partial Design Folder/{77E58F67-CC68-4458-B77F-F7922CD7C23A}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Partial Design/__Standard Values/{581E5467-D149-46D8-9283-0EB8D06F2959}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Partial Design/{91C67838-93B4-4344-84FF-21C08ACE60C9}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Partial Designs/__Standard Values/{B3C6C976-5F42-4A68-9C8E-6056F1C67F10}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Project/SXA Reference/Playground/Partial Designs/{538EB431-3485-40B7-A81F-DFA876B98D4E}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
@@ -1819,6 +1831,32 @@
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Social Media Groups/Default/Twitter/{9F46308D-3524-4E8E-88E8-E2F0E7AE26D4}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Settings/Twitter Apps/{8C3EC0BA-EDA2-42A6-88A6-2EFEFF27170C}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Facets/Movie Rated/{1AAB7BA1-6079-4F56-9572-90B4FF4A0761}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/{DE30FF2D-A089-418B-B492-2855609A3537}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/{74D64EF9-34A3-4F14-9359-E7F7D83D14F4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/excludecurrentpage/{BC39F33C-25ED-4A13-AEBE-8CB73A1EFAB2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/itemsofthesametemplateasthecurrentpage/{B33792F0-F440-46A2-8F88-423AA0F9CAFD}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/itemswiththesamevalueinfield/{E279EF06-CB02-46B7-BC06-18E064543474}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/taggedthesameascurrentpage/{8AE68691-352B-4BB4-A88A-DC8AD047030F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/taggedwithatleastonetagfromcurrentpage/{F9E9D16D-C95A-4364-B305-07E21DC4F969}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/undercurrentpage/{0480ECFA-6993-418D-97C5-FFE771192F44}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/undercurrentpage/child-1/{9F7EAE8E-9D54-4B91-91DA-5EA087E41C43}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/undercurrentpage/child-2/{C2695F26-2488-4B6B-B6BC-92497BEBAF59}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Page Designs/Search Tokens Design/{8308FC13-967B-4833-87A4-87138DE51754}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Search Tokens/{ADB32A26-FC75-4B0C-966D-2066ADA83639}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Search Tokens/Search Tokens Content/{21EC3DC7-8CA8-4E4B-B526-B3B6EFAD09B4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Partial Designs/Search Tokens/Search Tokens Header/{378950E6-F64D-4146-BD2E-121D1E131485}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Search Results/Navigation Title/{B7BD6C77-A5A5-444D-ABD4-0E37C7F50FEB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Search Results/Navigation Title/NavigationTitle/__Display Name/{1782B430-F2FE-4334-890B-E08E6466EC3B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Search Results/Navigation Title/NavigationTitle/{A0060641-46E8-431C-812A-3B46A7A5EE1D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Title/Search Token Page Title/{8EB58AC4-E9DB-45E4-9E32-1CB28D49C107}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Title/Search Token Page Title/Title/{062D981F-0B87-4EB4-9363-44A908A57DB1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/{D4E23A96-F9F9-437E-BBDD-DA9BF1B63789}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/ExcludeCurrentPage/{58BEB76E-EE77-4B56-AB95-5C03677039E2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/ItemsOfTheSameTemplateAsTheCurrentPage/{DCA04A98-DE4C-4C77-A612-7D1E53FD9860}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/ItemsWithTheSameValueInField/{88D61995-8B04-44CB-83E5-6B53371A1213}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/TaggedTheSameAsCurrentPage/{99BB9BF3-0DCC-409F-AFE2-43BCD5BDC15F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/TaggedWithAtLeastOneTagFromCurrentPage/{8D4F5D2F-7B2C-4FAE-AD6C-D85D1F6269B2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/UnderCurrentPage/{40785E79-71D7-419A-98A0-C2FF9F5EE63C}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
