@@ -11,16 +11,9 @@ Open command line and run following command
 clone https://github.com/alan-null/XA.Reference.git
 ```
 ## Install Sitecore & SXA
-The next step is to create a new Sitecore instnace and then install SXA package.
+The next step is to create a new Sitecore instance and then install SXA package.
 
-Current **XA.Reference** project is compatible with:
-
-| Product   |      Version      |  Revision |
-|----------|:-------------:|:------:|
-| Sitecore |  **8.2** | rev. 161221 |
-| SXA  |  **1.2** | rev. 161205 |
-
-
+You can find an information about **Sitecore** and **SXA** version by looking at compatibility table for [latest release](https://github.com/alan-null/XA.Reference/releases/latest).
 ## Environment specific configs
 
 1. Open repository root.
