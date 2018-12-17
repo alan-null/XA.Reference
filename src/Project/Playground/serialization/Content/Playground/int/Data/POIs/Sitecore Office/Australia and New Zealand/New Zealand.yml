@@ -5,15 +5,15 @@ Template: "6ebb38ce-04fc-425c-895b-3c81fa4a7b5c"
 Path: /sitecore/content/SXA Reference/Playground/int/Data/POIs/Sitecore Office/Australia and New Zealand/New Zealand
 DB: master
 SharedFields:
-- ID: "8c1aea63-2e5e-4fee-b413-d3b1e050dd26"
+- ID: "1df37811-7355-4ee2-b1c7-ecbd6be8df44"
+  Hint: Latitude
+  Value: "-36.8433069"
+- ID: "38732912-d8c3-46c3-9e23-6933552429fa"
   Hint: Longitude
   Value: 174.7630419
 - ID: "8e09c5d1-4ec5-48fd-b355-3d1c65dd5c0f"
   Hint: Type
   Value: "{78D0E3A2-142D-44A5-8EE6-0680A0C8EE73}"
-- ID: "94969c59-c4b8-43ed-9c92-3fbf930c0acf"
-  Hint: Latitude
-  Value: "-36.8433069"
 Languages:
 - Language: en
   Versions:
