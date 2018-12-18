@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>6.1</Version>
+      <Version>7.0</Version>
       <Revision />
       <License />
       <Comment />
@@ -1857,6 +1857,21 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/TaggedTheSameAsCurrentPage/{99BB9BF3-0DCC-409F-AFE2-43BCD5BDC15F}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/TaggedWithAtLeastOneTagFromCurrentPage/{8D4F5D2F-7B2C-4FAE-AD6C-D85D1F6269B2}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Settings/Scopes/Tokens/UnderCurrentPage/{40785E79-71D7-419A-98A0-C2FF9F5EE63C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/{523568BA-3857-4EF3-9094-794878846FEA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/{19B6ECDC-194F-46D7-9286-7E2FDFDF3930}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Email label/{90BAD78B-AB10-4460-A46E-2A7FEC9E8E92}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Email/{05F564D2-B75B-4DA0-81F1-E539533A24FB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/First Name label/{F9BD78E4-E212-4615-9241-A91E4BBDD0C7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/First Name/{E51D954A-C300-44DB-9E9F-9F478C83B090}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Last Name label/{88AD1FE9-FAF7-4BEA-9FBD-1E9B2C494D04}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Last Name/{4E1970C8-A292-49D8-8597-7909EDDB6F57}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option label/{9BE45233-BD5B-416C-9E81-53F6DE5BE836}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/{82D256F8-7A05-49A8-9C53-C00EF32D92B3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/{5EFD8A31-F906-4C31-B1D0-7D163EA8B3A6}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/Datasource/{31A2324E-C082-4320-972D-E2AA5D8051B4}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/Datasource/Option 1/{D7A7BDBB-00BB-44EF-9FF6-20949F4DF44A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/Datasource/Option 2/{77819562-7FB6-4449-B976-7349B738E26B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/Datasource/Option 3/{97341B67-F34E-44A3-A355-7417BA099F3A}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>

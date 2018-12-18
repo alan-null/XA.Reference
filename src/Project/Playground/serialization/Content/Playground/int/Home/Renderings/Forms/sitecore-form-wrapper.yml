@@ -1,0 +1,58 @@
+﻿---
+ID: "9a457ae5-55a8-423a-adcc-3dc8655a9536"
+Parent: "b26a5c98-6e77-410b-b6c4-6d5af118f08e"
+Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
+Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/forms/sitecore-form-wrapper"
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{A6EAB808-DEAA-446B-9B7B-ED878E4A62AF}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sitecore Form Wrapper
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{514A5E8B-CA70-4B13-B976-E61285639E29}"
+              p:before="*"
+              s:ds="{523568BA-3857-4EF3-9094-794878846FEA}"
+              s:id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+              s:par=""
+              s:ph="/main/sitecoreFormsWrapper-1" />
+            <r
+              uid="{EFA76FD0-3055-4D12-B083-C1DCC266F436}"
+              p:after="*[1=2]"
+              s:id="{6AB4EE29-CB78-4DCE-A316-3E6C3D5513F5}"
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170212T184127Z
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: Sitecore Form Wrapper
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ab53e834-aaf0-47a7-b077-d7818393aab8"
+      Hint: Rendering Reference
+      Value: "{8C00D7C3-0A17-4A36-88A3-FFCB7BD2CCF5}"

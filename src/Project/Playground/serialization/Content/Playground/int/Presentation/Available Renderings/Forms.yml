@@ -9,7 +9,9 @@ SharedFields:
 - ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
   Hint: Renderings
   Type: TreelistEx
-  Value: "{8C00D7C3-0A17-4A36-88A3-FFCB7BD2CCF5}"
+  Value: |
+    {8C00D7C3-0A17-4A36-88A3-FFCB7BD2CCF5}
+    {6AB4EE29-CB78-4DCE-A316-3E6C3D5513F5}
 Languages:
 - Language: en
   Versions:

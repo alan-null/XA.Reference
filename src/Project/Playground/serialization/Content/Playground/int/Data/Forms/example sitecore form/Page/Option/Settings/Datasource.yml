@@ -1,0 +1,18 @@
+﻿---
+ID: "31a2324e-c082-4320-972d-e2aa5d8051b4"
+Parent: "5efd8a31-f906-4c31-b1d0-7d163ea8b3a6"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/Datasource
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181217T234351Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
