@@ -18,10 +18,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "087c0553-9162-41f5-98d3-87eb0d80edbb"
-      Hint: Compatible Renderings
-      Type: TreelistEx
-      Value: "{69D0A00E-FF06-4B17-BE59-BED330577680}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170920T143459Z

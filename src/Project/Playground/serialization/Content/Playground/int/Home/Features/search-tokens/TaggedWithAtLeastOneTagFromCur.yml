@@ -5,6 +5,9 @@ Template: "c889cf6c-7f85-4204-9a72-0372a4769e92"
 Path: "/sitecore/content/SXA Reference/Playground/int/Home/features/search-tokens/taggedwithatleastonetagfromcurrentpage"
 DB: master
 SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8308FC13-967B-4833-87A4-87138DE51754}"
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
   Value: "{05E9219C-5785-47CA-96E0-6C375626EF49}|{E89B4A94-DF7C-48B3-ACAF-33ECFB5809D7}"
@@ -20,9 +23,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
-      Hint: Page Design
-      Value: "{8308FC13-967B-4833-87A4-87138DE51754}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20180628T162734Z

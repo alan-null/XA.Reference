@@ -5,6 +5,9 @@ Template: "49b0550f-c180-40cd-a864-c3fab78d2444"
 Path: "/sitecore/content/SXA Reference/Blog/blog/Home/blog-root"
 DB: master
 SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{BE2D2F01-105F-415F-95D4-C4C9E61D68B4}"
 - ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
   Hint: __Editors
   Type: TreelistEx
@@ -18,9 +21,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
-      Hint: Page Design
-      Value: "{BE2D2F01-105F-415F-95D4-C4C9E61D68B4}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171214T213850Z

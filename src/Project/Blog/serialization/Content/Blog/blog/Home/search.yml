@@ -4,6 +4,10 @@ Parent: "161a0b41-907c-4d6b-af43-e5f05335514b"
 Template: "72681be7-81af-4614-b485-eaf07f915387"
 Path: /sitecore/content/SXA Reference/Blog/blog/Home/search
 DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{80951561-7031-4C2D-B9D4-F56702EA0411}"
 Languages:
 - Language: en
   Fields:
@@ -37,9 +41,6 @@ Languages:
               s:ph="/main/sxa-blog-base/column-1-1" />
           </d>
         </r>
-    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
-      Hint: Page Design
-      Value: "{80951561-7031-4C2D-B9D4-F56702EA0411}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171215T221935Z

@@ -5,6 +5,9 @@ Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
 Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/radius-filter"
 DB: master
 SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3FA19D63-EA7F-47C7-ADF5-6418EFF41EB1}"
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
   Value: "{2F1F4C78-993C-459F-8BFF-C06578ECEF9C}"
@@ -48,9 +51,6 @@ Languages:
               s:ph="main" />
           </d>
         </r>
-    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
-      Hint: Page Design
-      Value: "{3FA19D63-EA7F-47C7-ADF5-6418EFF41EB1}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184124Z

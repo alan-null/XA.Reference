@@ -5,6 +5,9 @@ Template: "53f3f2d7-9b76-4f7c-843a-c9ec0c47fdd3"
 Path: "/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/results-count"
 DB: master
 SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{647D0A2E-1AF8-4DC0-8531-C93280B85F71}"
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
   Value: "{2F1F4C78-993C-459F-8BFF-C06578ECEF9C}"
@@ -33,9 +36,6 @@ Languages:
               s:ph="/main/sxa-search-rendering-page-design/column-2-1" />
           </d>
         </r>
-    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
-      Hint: Page Design
-      Value: "{647D0A2E-1AF8-4DC0-8531-C93280B85F71}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170212T184125Z

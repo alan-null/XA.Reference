@@ -7,7 +7,6 @@ DB: master
 SharedFields:
 - ID: "4a997ffd-136b-409e-8dc9-fde53ac545a3"
   Hint: IsLink
-  Type: Checkbox
   Value: 1
 Languages:
 - Language: en

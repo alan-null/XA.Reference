@@ -24,10 +24,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "087c0553-9162-41f5-98d3-87eb0d80edbb"
-      Hint: Compatible Renderings
-      Type: TreelistEx
-      Value: "{87182F78-4399-4896-8D59-9D6A45282F8A}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171214T210932Z
