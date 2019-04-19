@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>7.0</Version>
+      <Version>7.1</Version>
       <Revision />
       <License />
       <Comment />
@@ -1872,6 +1872,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/Datasource/Option 1/{D7A7BDBB-00BB-44EF-9FF6-20949F4DF44A}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/Datasource/Option 2/{77819562-7FB6-4449-B976-7349B738E26B}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Forms/example sitecore form/Page/Option/Settings/Datasource/Option 3/{97341B67-F34E-44A3-A355-7417BA099F3A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/forms/sitecore-form-wrapper/{9A457AE5-55A8-423A-ADCC-3DC8655A9536}/invariant/0</x-item>
       </Entries>
       <SkipVersions>False</SkipVersions>
       <Converter>
