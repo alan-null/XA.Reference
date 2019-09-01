@@ -11,6 +11,9 @@ SharedFields:
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
   Value: "{2F1F4C78-993C-459F-8BFF-C06578ECEF9C}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{BEA64B7F-E7CA-4187-BB96-9C02348BC8FB}"
 Languages:
 - Language: en
   Fields:

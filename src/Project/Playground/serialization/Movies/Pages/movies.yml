@@ -19,6 +19,9 @@ SharedFields:
   Hint: __Is Bucket
   Type: Checkbox
   Value: 1
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{A2F19540-895C-41F5-A641-17C689869513}"
 Languages:
 - Language: en
   Fields:
