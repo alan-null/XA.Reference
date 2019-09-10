@@ -1,0 +1,24 @@
+﻿---
+ID: "455db9c3-e6bc-497f-aed4-914b2c4e7d30"
+Parent: "d6597fa6-83f5-4399-8a32-3272fbbdc62c"
+Template: "c889cf6c-7f85-4204-9a72-0372a4769e92"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/features/Rules/Rendering Design
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190901T153457Z
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: Rendering Design
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Rendering Design
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
