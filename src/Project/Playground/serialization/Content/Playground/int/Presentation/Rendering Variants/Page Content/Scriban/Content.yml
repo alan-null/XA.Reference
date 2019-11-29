@@ -1,0 +1,18 @@
+﻿---
+ID: "c2e6aeb9-fff2-442b-8096-6cb955afe2d0"
+Parent: "ecec476a-aa6a-4069-9b0d-c5c07be8a98e"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Page Content/Scriban/Content
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T204916Z

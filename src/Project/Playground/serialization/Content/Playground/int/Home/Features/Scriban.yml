@@ -2,7 +2,7 @@
 ID: "3567dc83-b6e6-4e89-a082-49303546dca9"
 Parent: "de30ff2d-a089-418b-b492-2855609a3537"
 Template: "c889cf6c-7f85-4204-9a72-0372a4769e92"
-Path: /sitecore/content/SXA Reference/Playground/int/Home/features/Scriban
+Path: /sitecore/content/SXA Reference/Playground/int/Home/features/scriban
 DB: master
 SharedFields:
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
@@ -42,7 +42,16 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "6eed881f-cd1d-4501-8240-3389de8d04d6"
+      Hint: Content
+      Value: |
+        <h1>Scriban templates</h1>
+        <p>Scriban templates are stored in your SXA rendering variants and are available as additional renderers. </p>
+        <p>For example, as field renderers, sections, or tags. Scriban templates can coexist with the other renderers but you can also use them to replace the existing rendering variants.</p>
+        <p>For more <a rel="noopener noreferrer" href="https://doc.sitecore.com/developers/sxa/93/sitecore-experience-accelerator/en/scriban-templates.html" target="_blank">see documentation</a></p>
+        <br />
+        <h1>Examples</h1>
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
       Value: |
-        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />
+        <image mediaid="{094AED03-02E7-4868-80CB-19926661FB77}" alt="Sitecore logo" height="" width="" hspace="" vspace="" />
