@@ -1,0 +1,14 @@
+﻿---
+ID: "c5ddc5e3-68a4-48b5-b814-980dbddfb4e1"
+Parent: "947dddd8-5a95-4ee2-8727-443b8cc34d02"
+Template: "3db5c823-61cb-449a-b4ab-e461626dc119"
+Path: /sitecore/content/SXA Reference/Blog/blog/Data/Search/Facet Summary
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T114808Z
