@@ -1,0 +1,48 @@
+﻿---
+ID: "3567dc83-b6e6-4e89-a082-49303546dca9"
+Parent: "de30ff2d-a089-418b-b492-2855609a3537"
+Template: "c889cf6c-7f85-4204-9a72-0372a4769e92"
+Path: /sitecore/content/SXA Reference/Playground/int/Home/features/Scriban
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{262A00B7-116B-4BED-A9E3-E3DC86B3467D}|{97B95E27-890E-455B-AA04-3E87BF49601F}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{276CB923-D265-479E-8FCE-E83EC5B92D12}"
+          s:ds="{3567DC83-B6E6-4E89-A082-49303546DCA9}"
+          s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7BECEC476A-AA6A-4069-9B0D-C5C07BE8A98E%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T173927Z
+    - ID: "429cffe6-42d2-4a50-8edd-c38f08da6ec4"
+      Hint: Title
+      Value: Scriban
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Scriban
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />

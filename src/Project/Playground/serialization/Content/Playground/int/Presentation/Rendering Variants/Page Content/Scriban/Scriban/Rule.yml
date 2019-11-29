@@ -1,0 +1,31 @@
+﻿---
+ID: "998ce646-59b1-4f50-bab1-717d6cfaba2e"
+Parent: "7fae398b-9a87-4799-a252-8bcbd9fc55fa"
+Template: "962d1760-f973-44b8-b553-8a74bcdc23fa"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Page Content/Scriban/Scriban/Rule
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{CB98A297-3F77-4C3F-BC8F-F412F401B382}">
+        <conditions>
+          <condition
+            id="{944E1C68-CAF1-468E-87DC-CE85D168D961}"
+            uid="6E0A0A96F4794A43867F95994283E861"
+            value="Scriban"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" />
+        </conditions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T185306Z

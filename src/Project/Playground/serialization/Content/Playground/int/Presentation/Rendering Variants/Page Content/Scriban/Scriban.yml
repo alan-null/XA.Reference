@@ -1,0 +1,233 @@
+﻿---
+ID: "7fae398b-9a87-4799-a252-8bcbd9fc55fa"
+Parent: "ecec476a-aa6a-4069-9b0d-c5c07be8a98e"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Page Content/Scriban/Scriban
+DB: master
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    <table>
+        <caption>Item and field extensions</caption>
+        <tr>
+            <th>Scriban</th>
+            <th>Output</th>
+        </tr>
+        <tr>
+            <td>
+                {%{ {{ {{ for i_child in i_page.parent.children }}
+                </br>&nbsp;&nbsp; &lt;a href="{{ i_child.url }}"&gt;{{ i_child.Title }}&lt;/a&gt;&lt;/br&gt;
+                </br>{{ end }}
+                }} }%}
+            </td>
+            <td>
+                {{ for i_child in i_page.parent.children }}
+                <a href="{{ i_child.url }}">{{ i_child.Title }}</a><br />
+                {{ end }}
+            </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.name }} }%}</td>
+            <td><b>{{ i_page.name }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.parent.name }} }%}</td>
+            <td><b>{{ i_page.parent.name }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.template_id }} }%}</td>
+            <td><b>{{ i_page.template_id }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.template_name }} }%}</td>
+            <td><b>{{ i_page.template_name }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.display_name  }} }%}</td>
+            <td><b>{{ i_page.display_name  }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.id }} }%}</td>
+            <td><b>{{ i_page.id }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.version }} }%}</td>
+            <td><b>{{ i_page.version }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.OpenGraphImageUrl }} }%}</td>
+            <td><b>{{ i_page.OpenGraphImageUrl }}</b> </td>
+        </tr>
+    
+        <tr>
+            <td>{%{ {{ i_page.path }} }%}</td>
+            <td><b>{{ i_page.path }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.has_layout }} }%}</td>
+            <td><b>{{ i_page.has_layout }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.has_children  }} }%}</td>
+            <td><b>{{ i_page.has_children  }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.language  }} }%}</td>
+            <td><b>{{ i_page.language  }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ i_page.url }} }%}</td>
+            <td><b>{{ i_page.url }}</b> </td>
+        </tr>
+    </table>
+    
+    <table>
+        <caption>Context objects</caption>
+        <tr>
+            <th>Scriban</th>
+            <th>Output</th>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_language }} }%}</td>
+            <td><b>{{ o_language }}</b> </td>
+        </tr>
+        <th colspan="2" scope="colgroup"><strong>o_context</strong></th>
+        <tr>
+            <td>{%{ {{ o_context.site.name }} }%}</td>
+            <td><b>{{ o_context.site.name }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_context.is_administrator }} }%}</td>
+            <td><b>{{ o_context.is_administrator }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_context.user.name }} }%}</td>
+            <td><b>{{ o_context.user.name }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_context.domain.name }} }%}</td>
+            <td><b>{{ o_context.domain.name }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_context.database.name }} }%}</td>
+            <td><b>{{ o_context.database.name }}</b> </td>
+        </tr>
+        <th colspan="2" scope="colgroup"><strong>o_pagemode</strong></th>
+        <tr>
+            <td>{%{ {{ o_pagemode.is_debugging }} }%}</td>
+            <td><b>{{ o_pagemode.is_debugging }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_pagemode.is_experience_editor }} }%}</td>
+            <td><b>{{ o_pagemode.is_experience_editor }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_pagemode.is_experience_editor_editing }} }%}</td>
+            <td><b>{{ o_pagemode.is_experience_editor_editing }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_pagemode.is_normal }} }%}</td>
+            <td><b>{{ o_pagemode.is_normal }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_pagemode.is_preview }} }%}</td>
+            <td><b>{{ o_pagemode.is_preview }}</b> </td>
+        </tr>
+        <tr>
+            <td>o_pagemode.is_simulated_device_previewing</td>
+            <td><b>{{ o_pagemode.is_simulated_device_previewing }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ o_pagemode.is_profiling }} }%}</td>
+            <td><b>{{ o_pagemode.is_profiling }}</b> </td>
+        </tr>
+    </table>
+    
+    <table>
+        <caption>Embeded functions</caption>
+        <tr>
+            <th>Scriban</th>
+            <th>Output</th>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_raw o_context.item '__Created by' }} }%}</td>
+            <td><b>{{ sc_raw o_context.item '__Created by' }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_decorate "xyz" }} }%}</td>
+            <td><b>{{ sc_decorate "xyz" }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_placeholder "mydynamic" }} }%}</td>
+            {{ if o_pagemode.is_experience_editor_editing == true }}
+            <td><b>{{ sc_placeholder "mydynamic" }}</b> </td>
+            {{ else }}
+            <td><b style="color:red">Go to Experience Editor</b></td>
+            {{ end }}
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_execute i_page.parent "Content" }} }%}</td>
+            <td><b>{{ sc_execute i_page.parent "Content" }}</b> </td>
+        </tr>
+        <th colspan="2" scope="colgroup"><strong>sc_evaluate</strong></th>
+        <tr>
+            <td>{%{ {{ sc_evaluate i_page "Rule" }} }%}</td>
+            <td><b>{{ sc_evaluate i_page "Rule" }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_evaluate i_page.parent "Rule" }} }%}</td>
+            <td><b>{{ sc_evaluate i_page.parent "Rule" }}</b> </td>
+        </tr>
+    
+        <th colspan="2" scope="colgroup"><strong>sc_field</strong></th>
+        <tr>
+            <td>{%{ {{ sc_field o_context.item 'Title' }} }%}</td>
+            <td><b>{{ sc_field o_context.item 'Title' }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_field o_context.item '__Created by' }} }%}</td>
+            <td><b>{{ sc_field o_context.item '__Created by' }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_field i_page ['NonExisting1', 'Title', '__Display Name'] }} }%}</td>
+            <td><b>{{ sc_field i_page ['NonExisting1', 'Title', '__Display Name'] }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_field i_item 'OpenGraphImageUrl' [['h', '50'], ['w', '50'], ['data-test1', 'test-value']] }} }%}
+            </td>
+            <td><b>{{ sc_field i_item 'OpenGraphImageUrl' [['h', '50'], ['w', '50'], ['data-test1', 'test-value']] }}</b>
+            </td>
+        </tr>
+    
+    
+        <tr>
+            <td>{%{ {{ (sc_follow o_context.item 'SxaTags').id }} }%}</td>
+            <td><b>{{ (sc_follow o_context.item 'SxaTags').id }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{for variable in (sc_followmany o_context.item 'SxaTags') }}
+            </br>&nbsp;&nbsp; &amp;bull; <b>{{ variable.name }}</b> [{{ variable.id }}]&lt;/br&gt;
+            </br>{{end}} }%}
+            </td>
+            <td>{{for variable in (sc_followmany o_context.item 'SxaTags') }}
+                &bull; <b>{{ variable.name }}</b> [{{ variable.id }}]</br>
+                {{end}}</td>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_query o_context.item 'query:$home' }} }%}</td>
+            <td><b>{{ sc_query o_context.item 'query:$home' }}</b> </td>
+        </tr>
+        <tr>
+            <td>{%{ {{ sc_parameter 'Placeholder' }} }%}</td>
+            <td><b>{{ sc_parameter 'Placeholder' }}</b> </td>
+        </tr>
+    </table>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T174149Z
