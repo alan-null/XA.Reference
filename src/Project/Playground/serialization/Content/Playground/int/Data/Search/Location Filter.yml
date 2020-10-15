@@ -4,7 +4,6 @@ Parent: "0ed7c7e6-c01e-4e5e-9dc0-69d4e5b4308c"
 Template: "c8e2a53c-6eac-49e2-bbc6-3ea8d0861834"
 Path: /sitecore/content/SXA Reference/Playground/int/Data/Search/Location Filter
 DB: master
-BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
 Languages:
 - Language: en
   Versions:

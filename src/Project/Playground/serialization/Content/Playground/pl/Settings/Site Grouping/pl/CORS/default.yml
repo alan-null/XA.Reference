@@ -4,7 +4,6 @@ Parent: "b871b1aa-309e-496f-b535-5228abd7ee2d"
 Template: "5203732f-9512-4ade-8e02-0cb085c10454"
 Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Site Grouping/pl/CORS/default
 DB: master
-BranchID: "f0e39dc1-6a4f-41ed-b0fe-b65bf09a1745"
 Languages:
 - Language: en
   Versions:

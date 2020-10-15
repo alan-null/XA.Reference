@@ -4,7 +4,6 @@ Parent: "d6535fd9-0d6f-46d4-82be-543fea2c744d"
 Template: "ef35d4a1-e60c-47bd-ba67-856b0cbb11e8"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Page Designs
 DB: master
-BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
 - ID: "23c23f7b-2c76-4d3c-9b88-16b7a6d52d89"
   Hint: DesignRules

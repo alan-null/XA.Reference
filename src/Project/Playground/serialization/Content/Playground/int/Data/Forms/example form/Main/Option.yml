@@ -17,10 +17,6 @@ SharedFields:
   Value: 300
 Languages:
 - Language: en
-  Fields:
-  - ID: "26cdc7c2-5307-4591-a7f9-5c034a05630a"
-    Hint: Localized Parameters
-    Value: <Items>%3cquery+t%3d%22default%22+sov%3d%22true%22%3e%3cvalue%3eOption+1%3c%2fvalue%3e%3c%2fquery%3e%3cquery+t%3d%22default%22+sov%3d%22true%22%3e%3cvalue%3eOption+2%3c%2fvalue%3e%3c%2fquery%3e%3cquery+t%3d%22default%22+sov%3d%22true%22%3e%3cvalue%3eOption+3%3c%2fvalue%3e%3c%2fquery%3e%3cquery+t%3d%22default%22+sov%3d%22true%22%3e%3cvalue%3eOption+4%3c%2fvalue%3e%3c%2fquery%3e</Items>
   Versions:
   - Version: 1
     Fields:

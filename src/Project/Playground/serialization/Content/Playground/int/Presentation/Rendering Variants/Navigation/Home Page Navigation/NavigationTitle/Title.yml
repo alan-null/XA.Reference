@@ -4,21 +4,18 @@ Parent: "cdca9aae-db8e-47ea-a6d8-a25383aa2401"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Home Page Navigation/NavigationTitle/Title
 DB: master
-BranchID: "de3cdf1f-5d97-4c56-b213-94c2754261c6"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
   Value: Title
 - ID: "cd6f5d0b-d11e-4fd3-a5d8-a75e6ca07a0c"
   Hint: IsPrefixLink
-  Type: Checkbox
   Value: 1
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
 - ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
   Hint: IsLink
-  Type: Checkbox
   Value: 1
 Languages:
 - Language: en

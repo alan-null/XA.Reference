@@ -4,7 +4,6 @@ Parent: "e71baf86-32c1-498b-becf-af9fa5c36b5b"
 Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
 Path: /sitecore/content/SXA Reference/Playground/pl/Media
 DB: master
-BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
 - ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
   Hint: AdditionalChildren

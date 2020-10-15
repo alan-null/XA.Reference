@@ -4,7 +4,6 @@ Parent: "8b34e43a-fe4f-4160-a50c-2ef89a827361"
 Template: "0d792404-79aa-483d-bb0c-50785f2e295b"
 Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Creative Exchange Storages
 DB: master
-BranchID: "aab15f53-cc56-44e0-bfc6-1ed18ff81ffb"
 Languages:
 - Language: en
   Versions:

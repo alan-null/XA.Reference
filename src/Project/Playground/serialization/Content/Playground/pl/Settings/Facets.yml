@@ -4,7 +4,6 @@ Parent: "8b34e43a-fe4f-4160-a50c-2ef89a827361"
 Template: "20ef5e69-b366-4e9e-960b-e451b24dbd46"
 Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Facets
 DB: master
-BranchID: "110e35f3-fb41-4bec-bcb3-02b7a9cebb15"
 Languages:
 - Language: en
   Versions:

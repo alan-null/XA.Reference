@@ -4,7 +4,6 @@ Parent: "0564bf4c-df01-4bc7-bfc6-0f121d5ee3ec"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/SXA Reference/Playground/pl/Presentation/Rendering Variants/RichText/Default/Text
 DB: master
-BranchID: "e4acb01a-2a91-4200-b9ce-205b2a5aa488"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
@@ -14,8 +13,7 @@ SharedFields:
   Value: 
 - ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
   Hint: IsLink
-  Type: Checkbox
-  Value: 0
+  Value: 
 Languages:
 - Language: en
   Versions:

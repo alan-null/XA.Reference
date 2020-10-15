@@ -4,7 +4,6 @@ Parent: "a4cc8a7b-8916-4d11-8833-c494fe170375"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Title/Rendering Title/Title
 DB: master
-BranchID: "9ce20276-ee4d-4810-932a-f8e8ba759377"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName

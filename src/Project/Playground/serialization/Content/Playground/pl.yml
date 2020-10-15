@@ -4,7 +4,6 @@ Parent: "da3cfa1f-539f-475b-9f78-9a9de5634e70"
 Template: "e36a6a30-1ccf-4eb5-aa5b-7c950479976a"
 Path: /sitecore/content/SXA Reference/Playground/pl
 DB: master
-BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
   Hint: Modules

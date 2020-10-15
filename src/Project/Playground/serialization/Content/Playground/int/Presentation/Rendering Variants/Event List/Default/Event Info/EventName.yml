@@ -4,7 +4,6 @@ Parent: "945a7ba4-2235-4797-9690-83363b24fd03"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Event List/Default/Event Info/EventName
 DB: master
-BranchID: "34c38ec6-d380-4bb0-93ab-52f08aecfbfa"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
@@ -17,7 +16,6 @@ SharedFields:
   Value: 75
 - ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
   Hint: IsLink
-  Type: Checkbox
   Value: 1
 Languages:
 - Language: en

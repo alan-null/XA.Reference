@@ -4,7 +4,6 @@ Parent: "38c4f357-7a5d-44d7-b07d-2dfde3fc2d74"
 Template: "e32f0141-5506-44f6-a211-fb224756ecc0"
 Path: /sitecore/content/SXA Reference/Playground/int/Data/Search
 DB: master
-BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
 Languages:
 - Language: en
   Versions:

@@ -4,7 +4,6 @@ Parent: "8b34e43a-fe4f-4160-a50c-2ef89a827361"
 Template: "b14bab5b-8965-466b-886b-1f93175bcab3"
 Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Social Media Groups
 DB: master
-BranchID: "4ddbdd69-8a15-4520-bed8-f7553139586b"
 Languages:
 - Language: en
   Versions:

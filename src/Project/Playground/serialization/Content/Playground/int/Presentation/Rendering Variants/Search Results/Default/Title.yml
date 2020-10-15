@@ -4,14 +4,12 @@ Parent: "12480c98-3400-435c-87c0-ec1536fad2f2"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Search Results/Default/Title
 DB: master
-BranchID: "0d360bbd-4fae-4863-88b9-ae5be82be6f0"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
   Value: Title
 - ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
   Hint: IsLink
-  Type: Checkbox
   Value: 1
 Languages:
 - Language: en

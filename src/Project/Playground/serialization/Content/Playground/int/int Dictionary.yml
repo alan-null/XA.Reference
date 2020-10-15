@@ -4,7 +4,6 @@ Parent: "119af666-73e5-4d85-a7e1-da443beb81a3"
 Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
 Path: /sitecore/content/SXA Reference/Playground/int/int Dictionary
 DB: master
-BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

@@ -4,7 +4,6 @@ Parent: "671cdaaa-2823-468d-90cf-8153264f0cae"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Playlist/Default/MovieThumbnail
 DB: master
-BranchID: "fc0838e0-d628-4f4b-b97b-bd518a3ff4a9"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
@@ -17,7 +16,6 @@ SharedFields:
   Value: 0
 - ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
   Hint: IsLink
-  Type: Checkbox
   Value: 1
 Languages:
 - Language: en

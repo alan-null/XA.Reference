@@ -4,7 +4,6 @@ Parent: "882d6a16-f9eb-4889-b9d2-3ea16f1f4814"
 Template: "ad89c1f1-e991-48ef-8659-38ab13aa28f1"
 Path: /sitecore/content/SXA Reference/Playground/int/Data/Search/Date Filter/Default
 DB: master
-BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
 SharedFields:
 - ID: "734f9a5a-c02a-4d34-87e8-29c732d8eb67"
   Hint: Facet

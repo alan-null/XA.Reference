@@ -4,7 +4,6 @@ Parent: "3710d5a9-d180-4c9d-a899-c27f669e283f"
 Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
 Path: /sitecore/content/SXA Reference/Playground/pl/Settings/Default links/Hierarchy/Next
 DB: master
-BranchID: "26ae263a-97d7-4156-97e2-4b515a45b2ea"
 Languages:
 - Language: en
   Versions:

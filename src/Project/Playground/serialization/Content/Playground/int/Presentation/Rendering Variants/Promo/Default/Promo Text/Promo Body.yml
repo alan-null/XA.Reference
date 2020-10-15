@@ -4,7 +4,6 @@ Parent: "cbce7b6f-902c-42f5-8f81-4494ded4346f"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Promo/Default/Promo Text/Promo Body
 DB: master
-BranchID: "a19fc87d-262d-42cf-b595-41b4262733f4"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

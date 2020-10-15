@@ -4,7 +4,6 @@ Parent: "0ed7c7e6-c01e-4e5e-9dc0-69d4e5b4308c"
 Template: "3cb0d374-029b-4eeb-ba8b-ed75b0c25188"
 Path: /sitecore/content/SXA Reference/Playground/int/Data/Search/Page Selector
 DB: master
-BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
 Languages:
 - Language: en
   Versions:

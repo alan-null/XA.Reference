@@ -20,21 +20,6 @@ SharedFields:
     <li xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <g id="{10FE9225-5E6C-4896-9CD2-880D6D48C4CC}" displayName="Check Actions" />
     </li>
-- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
-  Hint: __Tracking
-  Type: Tracking
-  Value: |
-    <tracking>
-      <event
-        name="Submit Success Event"
-        id="{2FF08489-2A47-4F04-8D8E-0C25A294B2C4}" />
-      <event
-        name="Form Submit"
-        id="{A2C2CF51-9360-4084-9BA0-1A15F1A41096}" />
-      <event
-        name="Brochures Request"
-        id="{968897F1-328A-489D-88E8-BE78F4370958}" />
-    </tracking>
 - ID: "faeacd39-b059-4f46-bec4-74ba468a97b8"
   Hint: Show Footer
   Type: Checkbox

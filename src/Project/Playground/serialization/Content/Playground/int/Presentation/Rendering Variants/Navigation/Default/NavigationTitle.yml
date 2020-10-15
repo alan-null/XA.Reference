@@ -4,14 +4,12 @@ Parent: "9315368a-e9f9-4ed1-90f8-f0c2b4e41e68"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/SXA Reference/Playground/int/Presentation/Rendering Variants/Navigation/Default/NavigationTitle
 DB: master
-BranchID: "de3cdf1f-5d97-4c56-b213-94c2754261c6"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
   Value: NavigationTitle
 - ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
   Hint: IsLink
-  Type: Checkbox
   Value: 1
 Languages:
 - Language: en
