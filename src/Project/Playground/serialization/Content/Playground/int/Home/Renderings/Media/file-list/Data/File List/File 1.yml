@@ -15,7 +15,7 @@ Languages:
     - ID: "413f42d9-9868-418a-9a0e-770202b9ccc4"
       Hint: CustomImage
       Value: |
-        <image mediaid="{4B48D87B-E463-42DD-B0F2-F45C382F6204}" />
+        <image mediaid="{2C83C9C4-DA01-4688-9B13-B3F1ACEFB162}" />
     - ID: "58deef8c-1a88-449e-b165-bfe3be9b53b7"
       Hint: LinkText
       Value: Link Text (Cecile)
@@ -26,7 +26,7 @@ Languages:
     - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
       Hint: File
       Value: |
-        <file mediaid="{4B48D87B-E463-42DD-B0F2-F45C382F6204}" src="-/media/4B48D87BE46342DDB0F2F45C382F6204.ashx" />
+        <file mediaid="{2C83C9C4-DA01-4688-9B13-B3F1ACEFB162}" src="-/media/2C83C9C4DA0146889B13B3F1ACEFB162.ashx" />
     - ID: "75797cec-589f-47e2-b416-45cff546eee1"
       Hint: Description
       Value: Cecile 128x128 description

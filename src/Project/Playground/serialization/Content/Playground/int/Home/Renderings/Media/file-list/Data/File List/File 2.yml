@@ -15,7 +15,7 @@ Languages:
     - ID: "413f42d9-9868-418a-9a0e-770202b9ccc4"
       Hint: CustomImage
       Value: |
-        <image mediaid="{DB854E88-4293-4D0B-9623-85F58FCAB7D6}" />
+        <image mediaid="{F6410C7A-9384-423A-ABC7-22DD970862FA}" />
     - ID: "58deef8c-1a88-449e-b165-bfe3be9b53b7"
       Hint: LinkText
       Value: LinkText (Chris)
@@ -26,7 +26,7 @@ Languages:
     - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
       Hint: File
       Value: |
-        <file mediaid="{DB854E88-4293-4D0B-9623-85F58FCAB7D6}" src="-/media/DB854E8842934D0B962385F58FCAB7D6.ashx" />
+        <file mediaid="{F6410C7A-9384-423A-ABC7-22DD970862FA}" src="-/media/F6410C7A9384423AABC722DD970862FA.ashx" />
     - ID: "75797cec-589f-47e2-b416-45cff546eee1"
       Hint: Description
       Value: Chris 128x128 description
