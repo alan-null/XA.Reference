@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>9.3</Version>
+      <Version>10.0</Version>
       <Revision />
       <License />
       <Comment />
@@ -1243,13 +1243,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-fade/{C69DB9DD-7A39-4A60-9D71-571210FCC8D2}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-hover/{434445D0-6800-4707-9445-E23F2ED1B92C}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-slide-top/{F8926F1E-A345-4AD9-8647-363FB853CFDD}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-vertical/{ED2A16A1-8CF3-49F4-B5B0-220E0C0CF847}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Forms/{503FF2C8-36D0-467F-A0A6-969DA1DCA86D}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Forms/hints-as-tooltips/{F437467E-B3D8-4D81-99B4-B335BE87E0B5}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Forms/hints-below/{50C0C2FF-5E88-4BEC-8396-C3D495A76ACD}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Forms/labels-above/{8D5980C5-15D0-4C85-B996-72A9F576EB78}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Forms/labels-as-placeholders/{E18C4298-A1B7-49EC-92E5-39E31ECC6800}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Forms/labels-left/{F452CDE7-CBFD-493A-B83E-32C6FAA3872A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-vertical/{ED2A16A1-8CF3-49F4-B5B0-220E0C0CF847}/invariant/0</x-item>        
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Image/{0A2D1109-A653-46D7-AE1F-7D0F2A02B5B4}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Image/Caption over Image/{80F68930-BF1C-4836-A138-F8FEC3C3AFA4}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Image/carousel-image-full-size/{C326D2EA-9C85-4631-B147-8A191F259D8B}/invariant/0</x-item>
@@ -1569,8 +1563,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Composites/{B45344E7-E831-4A25-9A82-4873C3442D9C}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Context/{5FA8ED98-CD13-46C6-990B-BE3CB686D4D5}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Engagement/{09E31387-5A4A-4425-B404-92D858253574}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Events/{A642DAE2-DA44-4431-914D-CDC0D8FFD46F}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Forms/{963030AF-9B11-497B-BB9C-6BD9720D993A}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Events/{A642DAE2-DA44-4431-914D-CDC0D8FFD46F}/invariant/0</x-item>        
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/JSON/{B29F92F4-4EF4-45FE-8D90-8B4AE08F59C1}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Layout Service/{AA91E76B-11B5-4F64-A4C6-B6391C2B7683}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Maps/{F713991A-153B-46CE-9B40-A5446C96884D}/invariant/0</x-item>
@@ -1774,10 +1767,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-fade/{1D7DE50A-B481-49D3-BA8C-BA98FE389185}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-hover/{F4D6B63A-C6DA-4A47-9A04-9BA083FE06FF}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-slide-top/{20D71339-6992-4972-9B61-52698689E4EC}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-vertical/{4E3D71D5-89D6-4C0E-8247-11E7DE024C9E}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Forms/{7977DBDF-DB90-485B-A103-5372FAABA4ED}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Forms/hints-below/{538FF54D-206B-48BD-968A-AC5A9FEAD940}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Forms/labels-above/{BEA2C089-969D-4972-8730-3438E0810D92}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-vertical/{4E3D71D5-89D6-4C0E-8247-11E7DE024C9E}/invariant/0</x-item>        
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/{8905411A-83C5-4EAA-93E8-0CD63CC01BE3}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/carousel-image-full-size/{0F4A25AC-0222-4B1B-BB56-0B9697701D59}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/Image default size/{9FAE3525-0AE5-42ED-B4CA-716FF2EA8C98}/invariant/0</x-item>
