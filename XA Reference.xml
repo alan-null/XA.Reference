@@ -3,7 +3,7 @@
     <metadata>
       <PackageName>XA Reference</PackageName>
       <Author>Alan Płócieniak</Author>
-      <Version>10.0</Version>
+      <Version>10.1</Version>
       <Revision />
       <License />
       <Comment />
@@ -426,12 +426,12 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Promos/{6751AA56-CAE2-4797-84AB-FFC0A9EE4EED}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/{0ED7C7E6-C01E-4E5E-9DC0-69D4E5B4308C}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Checklist Filter/{8F8AE9D6-2751-45C5-9430-7788642D0025}/invariant/0</x-item>
-		<x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Checklist Filter/Default/{5B8E845C-689A-407C-829D-E7ADBFDEF2AF}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Checklist Filter/Default/{5B8E845C-689A-407C-829D-E7ADBFDEF2AF}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Date Filter/{882D6A16-F9EB-4889-B9D2-3EA16F1F4814}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Date Filter/Default/{DE378F88-D6F0-41EC-B6A6-5B2E42A9690A}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Dropdown Filter/{E9C69955-D5A2-4553-879F-B45BE6A486BA}/invariant/0</x-item>
-		<x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Facet Summary/{3FBD131F-0217-4C0C-955F-EE7A4984C276}/invariant/0</x-item>
-		<x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Facet Summary/Default/{CC78B467-34F0-4B97-8898-298B34EC6F02}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Facet Summary/{3FBD131F-0217-4C0C-955F-EE7A4984C276}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Facet Summary/Default/{CC78B467-34F0-4B97-8898-298B34EC6F02}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Facet Slider/{F7261B15-174C-4912-9B78-1994EDD181F7}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Load More/{EED2C2B7-371C-497D-B70E-E5D893F59285}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Data/Search/Load More/Default/{C3E8F16D-75DE-4B16-B8F9-87FA6458AFE8}/invariant/0</x-item>
@@ -912,7 +912,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-structure/toggle/Data/Text 1/{96894830-4722-4F40-B14A-47DCA9339B2B}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/page-structure/toggle/Data/Toggle/{EF3B01A5-608F-4380-A86B-C914DF1A442B}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/{591A2CAB-1AB6-47B3-B0CF-6F610F97D8FB}/invariant/0</x-item>
-		<x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/aggregated-facet-filter/{1941B890-345D-40BE-A40A-EAEE8749E9DC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/aggregated-facet-filter/{1941B890-345D-40BE-A40A-EAEE8749E9DC}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/checklist-filter/{EF2E0DB3-0418-4815-A913-32E51C266BDC}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/checklist-filter/Data/{2A1211BB-226F-4C31-8C86-BFA7973B2F70}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/checklist-filter/Data/Filter Checklist/{19212112-6D3F-47A1-B85B-54E4AD7DDC65}/invariant/0</x-item>
@@ -922,7 +922,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/dropdown-filter/{8E589DF4-7BA9-401D-943B-F469922E4AD0}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/dropdown-filter/Data/{44204EA5-0353-48FB-8684-584DBC8B006D}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/dropdown-filter/Data/Filter Dropdown/{6D1AE91B-7767-4A37-A469-E4FA57D6A759}/invariant/0</x-item>
-		<x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/facet-summary/{767583D8-A7D3-4BD0-A34F-DAF85F9DAA37}/invariant/0</x-item>		
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/facet-summary/{767583D8-A7D3-4BD0-A34F-DAF85F9DAA37}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/facet-slider/{05919A88-834F-4291-AACA-25AE790DEEA9}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/facet-slider/Data/{BEA64B7F-E7CA-4187-BB96-9C02348BC8FB}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Home/renderings/search/facet-slider/Data/Filter Slider/{D9A3CF3B-0FBD-4CA6-82A3-E0614DFC366C}/invariant/0</x-item>
@@ -1243,7 +1243,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-fade/{C69DB9DD-7A39-4A60-9D71-571210FCC8D2}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-hover/{434445D0-6800-4707-9445-E23F2ED1B92C}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-slide-top/{F8926F1E-A345-4AD9-8647-363FB853CFDD}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-vertical/{ED2A16A1-8CF3-49F4-B5B0-220E0C0CF847}/invariant/0</x-item>        
+        <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Flip/flip-vertical/{ED2A16A1-8CF3-49F4-B5B0-220E0C0CF847}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Image/{0A2D1109-A653-46D7-AE1F-7D0F2A02B5B4}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Image/Caption over Image/{80F68930-BF1C-4836-A138-F8FEC3C3AFA4}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Playground/int/Presentation/Styles/Image/carousel-image-full-size/{C326D2EA-9C85-4631-B147-8A191F259D8B}/invariant/0</x-item>
@@ -1492,12 +1492,12 @@
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Promos/{F42D026F-5412-402C-B33B-E7D1007BA0C9}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/{947DDDD8-5A95-4EE2-8727-443B8CC34D02}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Checklist Filter/{E74BC9EE-0BAE-483E-B3DB-183E070E2BDB}/invariant/0</x-item>
-		<x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Checklist Filter/Default/{BF723910-6A47-4E7B-9B95-42B648AC5C48}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Checklist Filter/Default/{BF723910-6A47-4E7B-9B95-42B648AC5C48}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Date Filter/{2C2DB6AA-00EC-4B72-949F-BE2BF5475B8B}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Date Filter/Default/{2DAB5448-F120-4AB9-B346-606444780034}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Dropdown Filter/{4A1F1379-F86B-4A00-95E8-B29572EFB9F7}/invariant/0</x-item>
-		<x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Facet Summary/{C5DDC5E3-68A4-48B5-B814-980DBDDFB4E1}/invariant/0</x-item>
-		<x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Facet Summary/Default/{DDBF5B41-3077-41AA-A484-E7E7803B59D1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Facet Summary/{C5DDC5E3-68A4-48B5-B814-980DBDDFB4E1}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Facet Summary/Default/{DDBF5B41-3077-41AA-A484-E7E7803B59D1}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Facet Slider/{9FA8712C-C95E-482C-9BEF-4C0116AADBD7}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Load More/{3FDE0385-39F3-42AF-B2CE-283C22DCA436}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Data/Search/Load More/Default/{6F435035-8B21-445D-85C2-E7EA86F0AE72}/invariant/0</x-item>
@@ -1563,7 +1563,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Composites/{B45344E7-E831-4A25-9A82-4873C3442D9C}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Context/{5FA8ED98-CD13-46C6-990B-BE3CB686D4D5}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Engagement/{09E31387-5A4A-4425-B404-92D858253574}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Events/{A642DAE2-DA44-4431-914D-CDC0D8FFD46F}/invariant/0</x-item>        
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Events/{A642DAE2-DA44-4431-914D-CDC0D8FFD46F}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/JSON/{B29F92F4-4EF4-45FE-8D90-8B4AE08F59C1}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Layout Service/{AA91E76B-11B5-4F64-A4C6-B6391C2B7683}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Available Renderings/Maps/{F713991A-153B-46CE-9B40-A5446C96884D}/invariant/0</x-item>
@@ -1767,7 +1767,7 @@
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-fade/{1D7DE50A-B481-49D3-BA8C-BA98FE389185}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-hover/{F4D6B63A-C6DA-4A47-9A04-9BA083FE06FF}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-slide-top/{20D71339-6992-4972-9B61-52698689E4EC}/invariant/0</x-item>
-        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-vertical/{4E3D71D5-89D6-4C0E-8247-11E7DE024C9E}/invariant/0</x-item>        
+        <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Flip/flip-vertical/{4E3D71D5-89D6-4C0E-8247-11E7DE024C9E}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/{8905411A-83C5-4EAA-93E8-0CD63CC01BE3}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/carousel-image-full-size/{0F4A25AC-0222-4B1B-BB56-0B9697701D59}/invariant/0</x-item>
         <x-item>/master/sitecore/content/SXA Reference/Blog/blog/Presentation/Styles/Image/Image default size/{9FAE3525-0AE5-42ED-B4CA-716FF2EA8C98}/invariant/0</x-item>
