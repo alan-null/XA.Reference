@@ -1,0 +1,43 @@
+{
+    "namespace": "XA.Reference.Project.Playground.Movies",
+    "items": {
+        "path": "~/../src/Project/Playground/serialization/Movies",
+        "includes": [{
+                "name": "Pages",
+                "database": "master",
+                "path": "/sitecore/content/SXA Reference/Playground/int/Home/movies",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "Tags - Country",
+                "database": "master",
+                "path": "/sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Country",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "Tags - Genre",
+                "database": "master",
+                "path": "/sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Genre",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "Tags - Language",
+                "database": "master",
+                "path": "/sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Language",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "Tags - Type",
+                "database": "master",
+                "path": "/sitecore/content/SXA Reference/Playground/int/Data/Tags/Movie Type",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "Media",
+                "database": "master",
+                "path": "/sitecore/media library/Project/SXA Reference/Playground/movies",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}
