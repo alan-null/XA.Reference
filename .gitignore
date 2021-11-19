@@ -248,3 +248,4 @@ ModelManifest.xml
 libs/
 publishsettings.targets
 zzz.Sxa.Reference.config
+*.scindex
