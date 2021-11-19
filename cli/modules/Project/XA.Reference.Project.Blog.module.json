@@ -1,0 +1,31 @@
+{
+    "namespace": "XA.Reference.Project.Blog",
+    "items": {
+        "path": "~/../src/Project/Blog/serialization",
+        "includes": [{
+                "name": "Content",
+                "database": "master",
+                "path": "/sitecore/content/SXA Reference/Blog",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "Media Library",
+                "database": "master",
+                "path": "/sitecore/media library/Project/SXA Reference/Blog",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "Themes",
+                "database": "master",
+                "path": "/sitecore/media library/Themes/SXA Reference/Blog",
+                "scope": "ItemAndDescendants"
+            },
+            {
+                "name": "Templates",
+                "database": "master",
+                "path": "/sitecore/templates/Project/SXA Reference/Blog",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}

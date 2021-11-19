@@ -1,0 +1,56 @@
+{
+  "namespace": "XA.Reference.Project.Playground",
+  "items": {
+    "path": "~/../src/Project/Playground/serialization",
+    "includes": [{
+        "name": "Content",
+        "database": "master",
+        "path": "/sitecore/content/SXA Reference/Playground",
+        "scope": "ItemAndDescendants",
+        "rules": [{
+            "path": "/int/Home/movies",
+            "scope": "ignored"
+          },
+          {
+            "path": "/int/Data/Tags/Movie Country",
+            "scope": "ignored"
+          },
+          {
+            "path": "/int/Data/Tags/Movie Genre",
+            "scope": "ignored"
+          },
+          {
+            "path": "/int/Data/Tags/Movie Language",
+            "scope": "ignored"
+          },
+          {
+            "path": "/int/Data/Tags/Movie Type",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "Media Library",
+        "database": "master",
+        "path": "/sitecore/media library/Project/SXA Reference/Playground",
+        "scope": "ItemAndDescendants",
+        "rules": [{
+          "path": "/movies",
+          "scope": "ignored"
+        }]
+      },
+      {
+        "name": "Templates",
+        "database": "master",
+        "path": "/sitecore/templates/Project/SXA Reference/Playground",
+        "scope": "ItemAndDescendants"
+      },
+      {
+        "name": "PowerShell",
+        "database": "master",
+        "path": "/sitecore/system/Modules/PowerShell/Script Library/SXA Reference/Playground",
+        "scope": "ItemAndDescendants"
+      }
+    ]
+  }
+}

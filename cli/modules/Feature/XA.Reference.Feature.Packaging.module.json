@@ -1,0 +1,12 @@
+{
+    "namespace": "XA.Reference.Feature.Packaging",
+    "items": {
+        "path": "~/../src/Feature/Packaging/serialization",
+        "includes": [{
+            "name": "PowerShell",
+            "database": "master",
+            "path": "/sitecore/system/Modules/PowerShell/Script Library/SXA Reference/Packaging",
+            "scope": "ItemAndDescendants"
+        }]
+    }
+}

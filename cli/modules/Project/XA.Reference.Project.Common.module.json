@@ -1,0 +1,37 @@
+{
+    "namespace": "XA.Reference.Project.Common",
+    "items": {
+        "path": "~/../src/Project/Common/serialization",
+        "includes": [{
+                "name": "Content",
+                "database": "master",
+                "path": "/sitecore/content/SXA Reference",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "Media Library",
+                "database": "master",
+                "path": "/sitecore/media library/Project/SXA Reference",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "Themes",
+                "database": "master",
+                "path": "/sitecore/media library/Themes/SXA Reference",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "Templates",
+                "database": "master",
+                "path": "/sitecore/templates/Project/SXA Reference",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "PowerShell",
+                "database": "master",
+                "path": "/sitecore/system/Modules/PowerShell/Script Library/SXA Reference",
+                "scope": "SingleItem"
+            }
+        ]
+    }
+}
